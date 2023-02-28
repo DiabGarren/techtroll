@@ -1,12 +1,76 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
     <title>Tech Troll | Home</title>
 </head>
+
 <body>
-    <header>Welcome to Tech Troll</header>
+    <header>
+        <a href="#" class="logo"><img src="images/logo.png" alt="Tech Troll logo"></a>
+        <a href="cart/" class="cart-icon">Cart</a>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li><!-- 
+            --><li id="product-drp"><a href="#">Products</a>
+                <ul>
+                    <li><a href="products/?category=graphics-cards">Graphics Cards</a></li>
+                    <li><a href="products/?category=processors">Processors</a></li>
+                    <li><a href="products/?category=memory">Memory</a></li>
+                    <li><a href="products/?category=motherboards">Motherboards</a></li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+
+    <main>
+        <div id="hero">
+            <h1 id="home-title">Welcome to Tech Troll</h1>
+            <h2 id="home-sub">Your one stop shop for all your tech needs</h2>
+        </div>
+
+        <div id="msg">
+            <p>
+                Here you will find everything you need to build your new computer, upgrade an old one, or just
+                browse.<br>
+                All the items here are sorted by price and the listings are updated regularly.<br>
+                This site can be used for:<br>
+                Only browsing through products<br>
+                <b>OR</b><br>
+                Placing orders, and we place orders with each suppiler for you.
+            </p>
+        </div>
+
+        <div id="product-grid">
+            <a href="products/?category=graphics-cards">
+                <img src="images/graphics-card-grid.png" alt="Graphics cards page" class="product">
+            </a>
+
+            <a href="products/?category=processors">
+                <img src="images/processor-grid.png" alt="Processors page" class="product">
+            </a>
+
+            <a href="products/?category=memory">
+                <img src="images/motherboard-grid.png" alt="Motherboards pages" class="product">
+            </a>
+
+            <a href="products/?category=motherboards">
+                <img src="images/memory-grid.png" alt="Memory page" class="product">
+            </a>
+        </div>
+    </main>
+
+    <footer>
+        <p id="info">Tech Troll &copy; 2022 - Garren Diab</p>
+    </footer>
 </body>
+
 </html>
