@@ -3,9 +3,11 @@
 @import url("main.css");
 
 :root {
-    --nav: #ff1100;
+    --nav: #041e9f;
     --nav-hover: #293df2;
-    --sub-nav: #ca0d00;
+    --sub-nav: #0d0158;
+    --nav-active: #016cd6;
+    --main-header: #7506cf;
 }
 
 body {
@@ -19,7 +21,9 @@ img {
 
 a {
     text-decoration: none;
+    cursor: pointer;
 }
+
 @media only screen and (min-width: 750px) {
     body {
         max-width: 1300px;

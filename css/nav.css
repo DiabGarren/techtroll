@@ -42,6 +42,11 @@ nav a:hover {
     display: block;
     padding: 10px 15px;
     border-radius: 0;
+
+}
+
+.active {
+    background-color: var(--nav-active);
 }
 
 @media only screen and (min-width: 768px) {

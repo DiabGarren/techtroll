@@ -10,20 +10,25 @@
     padding: 5rem 0;
 }
 
-h1 {
+#hero h1 {
     width: 80%;
     margin: 0 auto 20rem;
-    padding: .8rem;
     font-size: 1.5rem;
-    background-color: #ff1100;
-    border-radius: 30px;
 }
 
-h2 {
+#hero h2 {
     width: 90%;
     margin: 0 auto;
+}
+
+#hero h1,
+#hero h2 {
     padding: .8rem;
-    background-color: #293df2;
+    background-color: #b24cd49f;
+    text-shadow: 0 0 5px black, 1px 1px 10px black;
+    box-shadow: 0 0 5px 5px white,
+        0 0 10px 10px #b24cd4,
+        0 0 15px 15px var(--main-header);
     border-radius: 30px;
 }
 
@@ -46,6 +51,13 @@ h2 {
     }
 
     #product-grid {
+        display: grid;
         grid-template-columns: repeat(4, 300px);
+        gap: .5rem;
+        justify-content: center;
+    }
+
+    #product-grid a {
+        width: 100%;
     }
 }
