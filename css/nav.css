@@ -1,0 +1,73 @@
+/* Nav Styles */
+nav ul {
+    margin: 0 0 1rem;
+    padding: 0;
+    background-color: var(--nav);
+    text-align: center;
+}
+
+nav li {
+    display: block;
+}
+
+nav li>ul {
+    display: none;
+}
+
+nav a {
+    display: block;
+    padding: 10px;
+    color: white;
+}
+
+nav a:hover {
+    background-color: var(--nav-hover);
+    color: white;
+}
+
+#product-drp:hover ul {
+    margin: 0;
+    display: block;
+    position: absolute;
+    background-color: var(--sub-nav);
+    width: 100%;
+    z-index: 5;
+}
+
+#product-drp ul li {
+    display: block;
+}
+
+#product-drp ul a {
+    display: block;
+    padding: 10px 15px;
+    border-radius: 0;
+}
+
+@media only screen and (min-width: 768px) {
+    nav ul {
+        background-color: var(--nav);
+        text-align: left;
+    }
+
+    nav li {
+        display: inline-block;
+        width: 150px;
+    }
+
+    nav>ul>li>a {
+        text-align: center;
+        padding: 15px 0;
+        border-right: 4px solid var(--sub-nav);
+    }
+
+    #product-drp:hover li:last-child a:last-child {
+        border-radius: 0 0 10px 10px;
+    }
+
+    #product-drp:hover ul {
+        width: 150px;
+        padding: 0;
+        border-radius: 0 0 10px 10px;
+    }
+}

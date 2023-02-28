@@ -1,0 +1,51 @@
+/* Main Styles */
+
+#hero {
+    background-image: url("../images/hero.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 5rem 0;
+}
+
+h1 {
+    width: 80%;
+    margin: 0 auto 20rem;
+    padding: .8rem;
+    font-size: 1.5rem;
+    background-color: #ff1100;
+    border-radius: 30px;
+}
+
+h2 {
+    width: 90%;
+    margin: 0 auto;
+    padding: .8rem;
+    background-color: #293df2;
+    border-radius: 30px;
+}
+
+#product-grid a {
+    display: block;
+    width: 60%;
+    margin: 0 auto .8rem;
+}
+
+@media only screen and (min-width: 768px) {
+
+
+    #hero h1 {
+        width: 40%;
+        font-size: 2.1rem;
+    }
+
+    #hero h2 {
+        width: 60%;
+    }
+
+    #product-grid {
+        grid-template-columns: repeat(4, 300px);
+    }
+}

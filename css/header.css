@@ -1,0 +1,26 @@
+/* Header Styles */
+
+header {
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    align-items: center;
+}
+
+.logo {
+    border: 3px solid black;
+    border-radius: 50%;
+}
+
+.logo img {
+    display: block;
+}
+
+.cart-icon {
+    text-align: right;
+}
+
+@media only screen and (min-width: 768px) {
+    header {
+        grid-template-columns: 150px 1fr;
+    }
+}
