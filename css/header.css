@@ -2,8 +2,9 @@
 
 header {
     display: grid;
-    grid-template-columns: 100px 1fr;
+    grid-template-columns: 100px 1fr 100px;
     align-items: center;
+    background: var(--bg-color);
 }
 
 .logo {
@@ -15,12 +16,33 @@ header {
     display: block;
 }
 
+header h1 {
+    width: fit-content;
+    margin: 0 2rem;
+    padding: .8rem;
+    font-size: 1.2rem;
+    color: white;
+    background-color: #b24cd49f;
+    text-shadow: 0 0 5px black, 1px 1px 10px black;
+    box-shadow: 0 0 5px 5px white,
+        0 0 10px 10px #b24cd4,
+        0 0 15px 15px var(--main-header);
+    border-radius: 20px;
+}
+
 .cart-icon {
     text-align: right;
 }
 
 @media only screen and (min-width: 768px) {
     header {
-        grid-template-columns: 150px 1fr;
+        grid-template-columns: 150px 1fr 100px;
+        border-radius: 10px 10px 0 0;
+    }
+
+    header h1 {
+        margin: 0 8rem;
+        font-size: 2em;
+        border-radius: 30px;
     }
 }

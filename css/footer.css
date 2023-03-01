@@ -1,0 +1,14 @@
+/* Footer styles */
+
+footer {
+    background: var(--nav);
+}
+
+#info {
+    margin: 0;
+    padding: 1rem;
+    color: white;
+}
+
+@media only screen and (min-width: 768px) {
+}

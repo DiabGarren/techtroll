@@ -1,6 +1,6 @@
 /* Nav Styles */
 nav ul {
-    margin: 0 0 1rem;
+    margin: 0;
     padding: 0;
     background-color: var(--nav);
     text-align: center;
