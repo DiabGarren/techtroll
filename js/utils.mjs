@@ -1,10 +1,12 @@
 const products = [["Graphics Cards", "graphics-cards"], ["Processors", "processors"], ["Memory", "memory"], ["Motherboards", "motherboards"]];
-export function loadHeaderFooter(parentElement) {
+
+export function loadHeaderFooter(headerElement, footerElement) {
     const location = getLocation()[0];
-    const header = document.querySelector(parentElement);
+    const header = document.querySelector(headerElement);
 
     const logoLink = document.createElement("a");
     const logo = document.createElement("img");
+    const welcome = document.createElement("h1");
     const cartLink = document.createElement("a");
 
     if (location == "home") {
@@ -19,6 +21,7 @@ export function loadHeaderFooter(parentElement) {
     logoLink.className = "logo";
     logo.setAttribute("alt", "Tech Troll Logo");
 
+    welcome.textContent = "Welcome to Tech Troll";
 
     cartLink.className = "cart-icon";
     cartLink.textContent = "Cart";
@@ -26,7 +29,16 @@ export function loadHeaderFooter(parentElement) {
     logoLink.appendChild(logo);
 
     header.appendChild(logoLink);
+    header.appendChild(welcome);
     header.appendChild(cartLink);
+
+    const footer = document.querySelector(footerElement);
+
+    const info = document.createElement("p");
+    info.id = "info";
+    info.innerHTML = "Tech Troll &copy; 2023 - Garren Diab";
+
+    footer.appendChild(info);
 }
 
 export function loadNavigation(parentElement) {
@@ -85,7 +97,7 @@ function getLocation() {
     let url = window.location.href;
     if (url.split("/")[4] == "index.html") {
         return ["home"];
-    } else if(url.split("/")[4] == "products") {
+    } else if (url.split("/")[4] == "products") {
         return ["products", url.split("/")[5].split("=")[1]];
     } else {
         return [null];
