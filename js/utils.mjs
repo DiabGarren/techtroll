@@ -13,7 +13,7 @@ export function loadHeaderFooter(headerElement, footerElement) {
         cartLink.setAttribute("href", "cart/");
         logo.setAttribute("src", "images/logo.png");
     } else {
-        logoLink.setAttribute("href", "../index.html");
+        logoLink.setAttribute("href", "../");
         cartLink.setAttribute("href", "../cart/");
         logo.setAttribute("src", "../images/logo.png");
     }
@@ -55,7 +55,7 @@ export function loadNavigation(parentElement) {
     if (location[0] == "home") {
         homeLink.className = "active";
     } else {
-        homeLink.setAttribute("href", "../index.html");
+        homeLink.setAttribute("href", "../");
     }
 
     homeLink.textContent = "Home";
