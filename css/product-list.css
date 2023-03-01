@@ -10,13 +10,14 @@
 }
 
 .product-box {
+    margin: .8rem 0 0 0;
     border: 2px solid var(--nav);
     border-radius: 15px;
 }
 
 .product-info {
     display: grid;
-    grid-template-rows: 250px 80px 30px 30px;
+    grid-template-rows: auto 80px 30px 30px;
 }
 
 .product-image_container {
@@ -53,6 +54,10 @@
         grid-template-columns: repeat(auto-fit, 250px);
         justify-content: center;
         gap: .8rem;
+    }
+
+    .product-info {
+        grid-template-rows: 250px 80px 30px 30px;
     }
     
 }
