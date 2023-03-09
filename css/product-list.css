@@ -10,14 +10,12 @@
 }
 
 .product-box {
+    width: 250px;
+    display: grid;
+    grid-template-rows: 250px 130px 40px;
     margin: .8rem 0 0 0;
     border: 2px solid var(--nav);
     border-radius: 15px;
-}
-
-.product-info {
-    display: grid;
-    grid-template-rows: auto 80px 30px 30px;
 }
 
 .product-image_container {
@@ -29,7 +27,16 @@
 
 .product-image {
     width: 100%;
+
     border-radius: 15px 15px 0 0;
+}
+
+.product-name {
+    color: black;
+}
+
+.product-name:hover {
+    color: blue;
 }
 
 .product-btn {
@@ -56,8 +63,4 @@
         gap: .8rem;
     }
 
-    .product-info {
-        grid-template-rows: 250px 80px 30px 30px;
-    }
-    
 }
