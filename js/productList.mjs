@@ -5,7 +5,7 @@ export default class ProductList {
     }
 
     async init() {
-        const list = await this.dataSource.getData(this.category);
+        const list = await this.dataSource.getProductsByCategory(this.category);
         return list;
     }
 
@@ -17,16 +17,15 @@ export default class ProductList {
         list.forEach((item) => {
             output +=
                 `<div class="product-box">
-                    <a class="product-info" href="../products/?id=${item.Id}">
-                        <div class="product-image_container">
-                            <img class="product-image" src="${item.Image}" alt="${item.Name}" />
-                        </div>
-                        <p class="product-name">${item.Name}</p>
+                    <a class="product-image_container" href="../product/?id=${item.Id}">
+                        <img class="product-image" src="${item.Image}" alt="${item.Name}" />
+                    </a>
+                    <div class="product-info">
+                        <a class="product-name" href="../product/?id=${item.Id}">${item.Name}</a>
                         <p class="product-price">R${item.Price}</p>
                         <p class="product-available">${item.Available}</p>
-                    </a>
-                    
-                    <a class="product-btn" href="../products/?id=${item.Id}">View Item</a>
+                    </div>
+                    <a class="product-btn" href="../product/?id=${item.Id}">View Item</a>
                 </div>`;
         })
         output += `</div>`;

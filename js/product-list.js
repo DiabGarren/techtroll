@@ -1,6 +1,6 @@
 import { loadHeaderFooter, loadNavigation, getParam } from "./utils.mjs";
-import ProductData from "./productData.mjs";
-import ProductList from "./productList.mjs";
+import ProductData from "./ProductData.mjs";
+import ProductList from "./ProductList.mjs";
 
 loadHeaderFooter(".main-header", ".main-footer");
 loadNavigation(".main-nav");
