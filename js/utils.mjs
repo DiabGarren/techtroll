@@ -99,7 +99,7 @@ export function loadNavigation(parentElement) {
 
 function getLocation() {
     let url = window.location.href;
-    if (url.split("/")[3] == "") {
+    if (url.split("/")[4] == "") {
         return ["home"];
     } else if (url.split("/")[4] == "product-list") {
         return ["product-list", url.split("/")[5].split("=")[1]];
