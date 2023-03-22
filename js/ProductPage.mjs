@@ -14,7 +14,7 @@ export default class Product {
     rednerProductPage(item, parentElement) {
         console.log(item);
         const wrapper = document.querySelector(parentElement);
-        let output = `<h2 class="product-page_title">${item.Name}</h2>
+        let output = `<h2 class="page-header">${item.Name}</h2>
         <div class="product-page">`;
         output +=
             `<a class="product-page_image-container" href="${item.Link}" target="_blank">
