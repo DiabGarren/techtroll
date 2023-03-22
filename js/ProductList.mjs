@@ -17,15 +17,15 @@ export default class ProductList {
         list.forEach((item) => {
             output +=
                 `<div class="product-box">
-                    <a class="product-image_container" href="../product/?id=${item.Id}">
-                        <img class="product-image" src="${item.Image}" alt="${item.Name}" />
+                    <a class="product-list_image-container" href="../product/?id=${item.Id}">
+                        <img class="product-list_image" src="${item.Image}" alt="${item.Name}" />
                     </a>
-                    <div class="product-info">
-                        <a class="product-name" href="../product/?id=${item.Id}">${item.Name}</a>
-                        <p class="product-price">R${item.Price}</p>
-                        <p class="product-available">${item.Available}</p>
+                    <div class="product-list_info">
+                        <a class="product-list_name" href="../product/?id=${item.Id}">${item.Name}</a>
+                        <p class="product-list_price">R${item.Price}</p>
+                        <p class="product-list_available">${item.Available}</p>
                     </div>
-                    <a class="product-btn" href="../product/?id=${item.Id}">View Item</a>
+                    <a class="product-list_btn" href="../product/?id=${item.Id}">View Item</a>
                 </div>`;
         })
         output += `</div>`;
