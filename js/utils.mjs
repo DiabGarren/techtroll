@@ -8,12 +8,12 @@ export function loadHeaderFooter(headerElement, footerElement) {
     const logo = document.createElement("img");
     const welcome = document.createElement("h1");
     const cartLink = document.createElement("a");
-    const cartIcon = document.createElement("img");
+    const cartLength = document.createElement("p");
 
     logoLink.setAttribute("href", "/techtroll/");
     cartLink.setAttribute("href", "/techtroll/cart/");
     logo.setAttribute("src", "/techtroll/images/logo.png");
-    cartIcon.setAttribute("src", "/techtroll/images/cart.png");
+    cartLength.className = "cart-length";
 
 
     logoLink.className = "logo";
@@ -21,8 +21,12 @@ export function loadHeaderFooter(headerElement, footerElement) {
 
     welcome.textContent = "Welcome to Tech Troll";
 
+    cartLength.textContent = getCartLength();
+
     cartLink.className = "cart-icon";
     cartLink.innerHTML = "&#128722;";
+
+    cartLink.appendChild(cartLength);
 
     logoLink.appendChild(logo);
 
