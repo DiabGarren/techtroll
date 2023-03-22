@@ -16,6 +16,9 @@
 
     --link-bg: var(--nav);
     --link-hover: var(--nav-hover);
+
+    --remove: #ff0000;
+    --remove-hover: #c20000;
 }
 
 body {

@@ -1,13 +1,13 @@
 /* Product List Styles */
 
 .product-list {
-    max-width: 75%;
+    max-width: 300px;
     margin: 0 auto;
 }
 
 .product-box {
     display: grid;
-    grid-template-rows: 250px auto 40px;
+    grid-template-rows: 300px auto 40px;
     margin: .8rem 0 0 0;
     border: 2px solid var(--nav);
     border-radius: 15px;
@@ -39,6 +39,7 @@
     -webkit-box-orient: vertical;
     overflow: hidden;
     text-overflow: ellipsis;
+    /* word-break: break-all; */
     color: black;
 }
 
@@ -70,7 +71,7 @@
     .product-list {
         max-width: 98%;
         display: grid;
-        grid-template-columns: repeat(auto-fit, 250px);
+        grid-template-columns: repeat(auto-fit, 300px);
         justify-content: center;
         gap: .8rem;
     }

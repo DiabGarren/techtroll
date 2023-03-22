@@ -1,18 +1,31 @@
 .product-page {
-    margin-inline: auto;
-    max-width: 900px;
     display: grid;
-    grid-template-columns: 2fr 1fr;
 }
 
 .product-page_image-container {
+    display: flex;
+    align-items: center;
     background: white;
+    margin: 0 .5rem;
+    border-radius: 15px;
+}
+
+.product-page_info {
+    margin: .2rem .5rem;
+}
+
+.product-page_name {
+    display: none;
+}
+
+.product-page_price {
+    font-size: 1.2rem;
 }
 
 .product-page_info a {
     display: block;
     margin: .5rem 0;
-    padding: .3rem 0;
+    padding: .7rem 0;
     text-align: center;
     color: white;
     background: var(--link-bg);
@@ -21,4 +34,12 @@
 
 .product-page_info a:hover {
     background: var(--link-hover);
+}
+
+@media only screen and (min-width: 768px) {
+    .product-page {
+        margin-inline: auto;
+        max-width: 800px;
+        grid-template-columns: 400px 1fr;
+    }
 }
