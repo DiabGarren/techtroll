@@ -33,6 +33,10 @@ a {
     cursor: pointer;
 }
 
+.page-header {
+    text-align: center;
+}
+
 @media only screen and (min-width: 750px) {
     body {
         max-width: 1300px;
