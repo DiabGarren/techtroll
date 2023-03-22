@@ -18,28 +18,28 @@
     border-radius: 15px;
 }
 
-.product-image_container {
+.product-list_image-container {
     display: flex;
     align-items: center;
     background: white;
     border-radius: 15px 15px 0 0;
 }
 
-.product-image {
+.product-list_image {
     width: 100%;
 
     border-radius: 15px 15px 0 0;
 }
 
-.product-name {
+.product-list_name {
     color: black;
 }
 
-.product-name:hover {
+.product-list_name:hover {
     color: blue;
 }
 
-.product-btn {
+.product-list_btn {
     display: block;
     text-align: center;
     margin: .6rem 0 0 0;
@@ -49,7 +49,7 @@
     border-radius: 0 0 10px 10px;
 }
 
-.product-btn:hover {
+.product-list_btn:hover {
     background: var(--link-hover);
 }
 
