@@ -11,7 +11,16 @@ export default class ProductList {
 
     renderProductList(list, parentElement) {
         const wrapper = document.querySelector(parentElement);
-        let output = `<h2 class="product-category">${this.category[0].toUpperCase()}${this.category.substring(1, this.category.length).replace("-", " ")}</h2>
+        let output = `<h2 class="page-header">${this.category[0].toUpperCase()}${this.category.substring(1, this.category.length).replace("-", " ")}</h2>
+        <div class="search_wrapper">
+            <label class="search">Search</label>
+            <input type="text" class="search-bar">
+            <button class="search-btn">&#x1F50E;&#xFE0E;</button>
+        </div>
+        <div class="sort_wrapper">
+            <label class="sort">Sort</label>
+            <button class="sort-dir">&#8657;</button>
+        </div>
         <div class="product-list">`;
 
         list.forEach((item) => {
