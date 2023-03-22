@@ -11,14 +11,14 @@ const category = getParam("category");
 const productList = new ProductList(category, productData);
 const list = await productList.init();
 
-const searchBar = document.querySelector(".search-bar");
-const searchBtn = document.querySelector(".search-btn");
-let searchedList = [];
-
 const sortDir = document.querySelector(".sort-dir");
 
 document.title += ` ${category[0].toUpperCase()}${category.substring(1, category.length).replace("-", " ")}`;
-productList.renderProductList(list, ".product-list_wrapper")
+productList.renderProductList(list, ".product-list_wrapper");
+
+const searchBar = document.querySelector(".search-bar");
+const searchBtn = document.querySelector(".search-btn");
+let searchedList = [];
 
 searchBar.addEventListener("change", (event) => {
     searchedList = productList.search(event.target.value, list, ".product-list_wrapper");
