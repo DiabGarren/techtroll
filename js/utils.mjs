@@ -22,7 +22,7 @@ export function loadHeaderFooter(headerElement, footerElement) {
     welcome.textContent = "Welcome to Tech Troll";
 
     cartLink.className = "cart-icon";
-    cartLink.innerHTML = "&#x1F6D2;";
+    cartLink.innerHTML = "&#128722;";
 
     logoLink.appendChild(logo);
 
