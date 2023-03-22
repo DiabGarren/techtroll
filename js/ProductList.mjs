@@ -12,17 +12,7 @@ export default class ProductList {
     renderProductList(list, parentElement) {
         const wrapper = document.querySelector(parentElement);
         let output = `<h2 class="page-header">${this.category[0].toUpperCase()}${this.category.substring(1, this.category.length).replace("-", " ")}</h2>
-        <div class="search_wrapper">
-            <label class="search">Search</label>
-            <input type="text" class="search-bar">
-            <button class="search-btn">&#x1F50E;&#xFE0E;</button>
-        </div>
-        <div class="sort_wrapper">
-            <label class="sort">Sort</label>
-            <button class="sort-dir">&#8657;</button>
-        </div>
         <div class="product-list">`;
-
         list.forEach((item) => {
             output +=
                 `<div class="product-box">
@@ -32,7 +22,6 @@ export default class ProductList {
                     <div class="product-list_info">
                         <a class="product-list_name" href="../product/?id=${item.Id}">${item.Name}</a>
                         <p class="product-list_price">R${item.Price}</p>
-                        <p class="product-list_available">${item.Available}</p>
                     </div>
                     <a class="product-list_btn" href="../product/?id=${item.Id}">View Item</a>
                 </div>`;
@@ -54,8 +43,8 @@ export default class ProductList {
             });
             
             if (newList.length == 0) {
-                document.querySelector(parentElement).innerHTML = `<h2 class="product-category">${this.category[0].toUpperCase()}${this.category.substring(1, this.category.length).replace("-", " ")}</h2>
-                <h3 class="product_none">No products found</h3>`;
+                document.querySelector(parentElement).innerHTML = `<h2 class="page-header">${this.category[0].toUpperCase()}${this.category.substring(1, this.category.length).replace("-", " ")}</h2>
+                <h3 class="page-header">No products found</h3>`;
             } else {
                 this.renderProductList(newList, parentElement);
             }
