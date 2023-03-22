@@ -49,6 +49,8 @@ main {
     }
 
     #product-grid {
+        margin: 0 auto;
+        max-width: 96%;
         display: grid;
         grid-template-columns: repeat(4, minmax(150px, 300px));
         gap: .5rem;
@@ -57,5 +59,11 @@ main {
 
     #product-grid a {
         width: 100%;
+        transition: .3s ease-in-out;
+    }
+
+    #product-grid a:hover {
+        transform: scale(1.2);
+        opacity: .8;
     }
 }
