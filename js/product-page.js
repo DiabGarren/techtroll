@@ -11,3 +11,8 @@ const productId = getParam("id");
 let product = new Product(productId, productData);
 let productInfo = await product.init();
 product.rednerProductPage(productInfo, ".product_wrapper");
+
+const addCart = document.querySelector(".product-page_add-cart-btn");
+addCart.addEventListener("click", () => {
+    product.addToCart(productInfo);
+})

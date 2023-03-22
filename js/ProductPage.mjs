@@ -1,3 +1,5 @@
+import { setLocalStorage, getLocalStorage } from "./utils.mjs";
+
 export default class Product {
     constructor(productId, dataScource) {
         this.productId = productId;
@@ -31,4 +33,23 @@ export default class Product {
         wrapper.innerHTML = output;
     }
 
+    addToCart(product) {
+        let added = false;
+        let cart = getLocalStorage("cart");
+        if (!cart) {
+            cart = [];
+        }
+        cart.forEach((item) => {
+            if (item.Id == product.Id) {
+                item.Quantity += 1;
+                added = true;
+            }
+        });
+        if (!added) {
+            product.Quantity = 1;
+            cart.push(product);
+        }
+        
+        setLocalStorage("cart", cart);
+    }
 }
