@@ -1,6 +1,6 @@
 import ProductData from "./ProductData.mjs";
 import Product from "./ProductPage.mjs";
-import { loadHeaderFooter, loadNavigation, getParam } from "./utils.mjs";
+import { loadHeaderFooter, loadNavigation, getParam, updateCartIcon } from "./utils.mjs";
 
 loadHeaderFooter(".main-header", ".main-footer");
 loadNavigation(".main-nav");
@@ -15,4 +15,5 @@ product.rednerProductPage(productInfo, ".product_wrapper");
 const addCart = document.querySelector(".product-page_add-cart-btn");
 addCart.addEventListener("click", () => {
     product.addToCart(productInfo);
+    updateCartIcon();
 })
