@@ -19,7 +19,7 @@ export default class ProductList {
             output +=
                 `<div class="product-box">
                     <a class="product-list_image-container" href="../product/?id=${item.Id}">
-                        <img class="product-list_image" src="${item.Image}" alt="${item.Name}" />
+                        <img class="product-list_image" src="${item.ImageSmall}" alt="${item.Name}" />
                     </a>
                     <div class="product-list_info">
                         <a class="product-list_name" href="../product/?id=${item.Id}">${item.Name}</a>

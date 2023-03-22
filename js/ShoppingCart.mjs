@@ -18,14 +18,14 @@ export default class Cart {
                 output +=
                     `<div class="cart_box">
                         <a class="cart_image-container" href="../product/?id=${item.Id}">
-                            <img class="cart_image" src="${item.Image}" alt="${item.Name}" />
+                            <img class="cart_image" src="${item.ImageSmall}" alt="${item.Name}" />
                         </a>
                         <div class="cart_info">
                             <a class="cart_name" href="../product/?id=${item.Id}">${item.Name}</a>
                             <p class="cart_price">R${formatPrice(item.Price)}</p>
                             <p class="cart_qty">Qty: ${item.Quantity}</p>
                         </div>
-                        <a class="cart_remove-item" id="${item.Id}">X</a>
+                        <a class="cart_remove-item" id="${item.Id}">&#128465;</a>
                     </div>`;
                 total += parseFloat(item.Price) * item.Quantity;
             })

@@ -18,11 +18,12 @@ export default class Product {
         <div class="product-page">`;
         output +=
             `<a class="product-page_image-container" href="${item.Link}" target="_blank">
-                        <img class="product-page_image" src="${item.Image}" alt="${item.Name}" />
+                        <img class="product-page_image" src="${item.ImageLarge}" alt="${item.Name}" />
                     </a>
                     <div class="product-page_info">
                         <h3 class="product-page_name">${item.Name}</h3>
                         <p class="product-page_price">R${formatPrice(item.Price)}</p>
+                        <p class="product-page_desc">${item.Description}</p>
                         <p class="product-page_available">${item.Available}</p>
                         <a class="product-page_add-cart-btn">Add to Cart</a>
                         <a class="product-page_view-item" href="${item.Link}" target="_blank">View Original Page</a>
