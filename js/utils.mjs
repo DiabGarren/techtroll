@@ -107,3 +107,20 @@ export function getParam(param) {
     const product = urlParams.get(param);
     return product;
 }
+
+export function setLocalStorage(key, value) {
+    localStorage.setItem(key, JSON.stringify(value));
+}
+
+export function getLocalStorage(key) {
+    return JSON.parse(localStorage.getItem(key));
+}
+
+export function getCartLength() {
+    const cart = getLocalStorage("cart");
+    let length = 0;
+    cart.forEach((item) => {
+        length += item.Quantity;
+    })
+    return length;
+}
