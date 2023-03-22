@@ -1,190 +1,19 @@
 [	{
-		"Id": "1D121",
-		"Name": "MSI Radeon RX 6650 XT GAMING X 8G G...",
-		"Price": "10149",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1653917577/zuloyqd9nrgn3t8vq12h.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/msi-radeon-rx-6650-xt-gaming-x-8g-gddr6-pcie-4-0-amd-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D040",
-		"Name": "MSI Geforce RTX 3060 Gaming X 12GB ...",
-		"Price": "10289",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1615462424/jcgectav8yaqkqhzin8m.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/msi-geforce-rtx-3060-gaming-x-12gb-gddr6-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F031",
-		"Name": "ASUS Phoenix V2 Nvidia GeForce RTX 3060 12GB DDR6 Graphics Card 90YV0GB4-M0NA10",
-		"Price": "10299",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0gb4-m0na10-graphics-cards-33086148837540_300x.png?v=1645538004", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-phoenix-v2-nvidia-geforce-rtx-3060-12gb-ddr6-graphics-card-90yv0gb4-m0na10-127762",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F032",
-		"Name": "Gigabyte GeForce RTX 3060 GAMING OC 12G NVIDIA 12 GB GDDR6",
-		"Price": "10299",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/gv-n3060gaming-oc-12gd-graphics-cards-31257182404772_300x.png?v=1632481915", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/gigabyte-geforce-rtx-3060-gaming-oc-12g-nvidia-12-gb-gddr6-122010",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D041",
-		"Name": "Asus TUF Gaming RTX 3060 OC 12GB LH...",
-		"Price": "10349",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1646663449/sxvgxomq3xkwizarsaqf.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-tuf-gaming-rtx-3060-oc-12gb-lhr-gddr6-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D042",
-		"Name": "Gigabyte Geforce RTX 3060 VISION OC...",
-		"Price": "10389",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1628840931/h8zkmyq2flkdng50rc8y.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3060-vision-oc-12gb-gddr6-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F033",
-		"Name": "MSI AMD Radeon RX 6650 XT Mech 2X 8G OC 8GB GDDR6 Graphics Card RX 6650 XT MECH 2X 8G OC",
-		"Price": "10499",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/rx-6650-xt-mech-2x-8g-oc-graphics-cards-34319595995300_300x.png?v=1657804989", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/msi-amd-radeon-rx-6650-xt-mech-2x-8g-oc-8gb-gddr6-graphics-card-rx-6650-xt-mech-2x-8g-oc-153565",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F034",
-		"Name": "Asus Dual AMD Radeon RX 6650 XT 8GB GDDR6 Graphics Card 90YV0HL0-M0NA00",
-		"Price": "10499",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0hl0-m0na00-graphics-cards-34649768165540_300x.png?v=1661257927", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-dual-amd-radeon-rx-6650-xt-8gb-gddr6-graphics-card-90yv0hl0-m0na00-155272",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F035",
-		"Name": "MSI RX 6600 XT Mech OCV1 8GB GDDR6 Graphic Card Radeon RX 6600 XT MECH 2X",
-		"Price": "10499",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/radeon-rx-6600-xt-mech-2x-graphics-cards-33878324347044_300x.png?v=1653899172", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/msi-rx-6600-xt-mech-ocv1-8gb-gddr6-graphic-card-radeon-rx-6600-xt-mech-2x-149430",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "2E027",
-		"Name": "Intel Core i9 12900F Processor",
-		"Price": "10739",
+		"Id": "2E001",
+		"Name": "Intel Dual Core Kaby Lake G3930 2.9GHz Desktop Processor",
+		"Price": "849",
 		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/intel-core-i9-12900f-processor-600px-v2300px.jpg", 
-		"Link": "https://www.evetech.co.za/intel-core-i9-12900f-processor/best-deal/14568.aspx",
+		"Image": "https://www.evetech.co.za/repository/components/intel-dual-core-kaby-lake-g3930-2-9ghz-desktop-processor-600px-v01300px.jpg", 
+		"Link": "https://www.evetech.co.za/intel-dual-core-kaby-lake-g3930-2-9ghz-desktop-processor/best-deal/3057.aspx",
 		"Category": "processors"
 	},
 	{
-		"Id": "1D043",
-		"Name": "Asus ROG Strix Geforce RTX 3050 Gam...",
-		"Price": "10869",
+		"Id": "2D001",
+		"Name": "Intel Celeron G3930 (Kabylake) Proc...",
+		"Price": "869",
 		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1651578746/v2hl6d2icuiwoptf2olb.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-rog-strix-geforce-rtx-3050-gaming-8gb-gddr6-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D044",
-		"Name": "Gigabyte Geforce RTX 3060 AORUS ELI...",
-		"Price": "10869",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1628840539/lkbwa5xbmrviezxdqa5b.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3060-aorus-elite-12gb-gddr6-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F036",
-		"Name": "MSI AMD Radeon RX 6650 XT Gaming X 8G 8GB GDDR6 Graphics Card RX 6650 XT GAMING X 8G",
-		"Price": "10899",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/rx-6650-xt-gaming-x-8g-graphics-cards-34319565914276_300x.png?v=1657804628", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/msi-amd-radeon-rx-6650-xt-gaming-x-8g-8gb-gddr6-graphics-card-rx-6650-xt-gaming-x-8g-153564",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "2D064",
-		"Name": "Intel Core i9 11900K 3.5 GHz (Turbo...",
-		"Price": "10969",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1617094072/xcbiiezneyrzj8aip5qx.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-11900k-3-5-ghz-turbo-5-3ghz-8c-16t-lga1200-desktop-processor/",
-		"Category": "processors"
-	},
-	{
-		"Id": "2D065",
-		"Name": "Intel Core i9 12900F 2.4GHz (Turbo ...",
-		"Price": "10979",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1645520268/fqkj9g2gb7fqkg7otz39.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-12900f-2-4ghz-turbo-5-1ghz-16c-24t-alder-lake-lga1700-desktop-processor/",
-		"Category": "processors"
-	},
-	{
-		"Id": "2D066",
-		"Name": "Intel Core i9 12900 2.4GHz (Turbo @...",
-		"Price": "10999",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1645518814/d0glv26qrttjmcnbjsz8.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-12900-2-4ghz-turbo-5-1ghz-16c-24t-alder-lake-lga1700-desktop-processor/",
-		"Category": "processors"
-	},
-	{
-		"Id": "2E028",
-		"Name": "AMD Ryzen 9 5950X Processor",
-		"Price": "10999",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/amd-ryzen-9-5950x-processor-600px-v2300px.jpg", 
-		"Link": "https://www.evetech.co.za/amd-ryzen-9-5950x-processor/best-deal/10536.aspx",
-		"Category": "processors"
-	},
-	{
-		"Id": "2D067",
-		"Name": "Intel i7-4960x (Ivybridge-E)",
-		"Price": "11059",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1547640667/nlomfohjebbnrmo8jaci.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-i7-4960x-ivybridge-e/",
-		"Category": "processors"
-	},
-	{
-		"Id": "2D117",
-		"Name": "AMD Ryzen 9 5950X 3.4GHz up to 4.9G...",
-		"Price": "11059",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1604571381/thhecam8sdtkbma5tre7.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/amd-processors/product/amd-ryzen-9-5950x-3-4ghz-up-to-4-9ghz-boost-16c-32t-am4-socket-desktop-processor/",
-		"Category": "processors"
-	},
-	{
-		"Id": "1F037",
-		"Name": "ASUS TUF Gaming GeForce RTX 3060 V2 OC Edition 12GB GDDR6 90YV0GC0-M0NA10",
-		"Price": "11100",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0gc0-m0na10-graphics-cards-32215719903396_300x.png?v=1637084855", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-tuf-gaming-geforce-rtx-3060-v2-oc-edition-12gb-gddr6-90yv0gc0-m0na10-127763",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "2D068",
-		"Name": "Intel i7-6900K (Broadwell-E)",
-		"Price": "11309",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1547717561/uhghcuijwnuco1rkf0na.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-i7-6900k-broadwell-e/",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1547552684/yolgciqaukr0enygr5aa.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-celeron-g3930-kabylake-processor/",
 		"Category": "processors"
 	},
 	{
@@ -197,15 +26,6 @@
 		"Category": "graphics-cards"
 	},
 	{
-		"Id": "1D045",
-		"Name": "Asus Geforce DUAL RTX 3060 Ti MINI ...",
-		"Price": "11479",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1632124824/crj40eiawwutqxifzjrs.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-geforce-dual-rtx-3060-ti-mini-v2-8gb-lhr-gddr6-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
 		"Id": "1D002",
 		"Name": "MSI GeForce GT 710 2GD3H Low Profil...",
 		"Price": "1149",
@@ -215,138 +35,12 @@
 		"Category": "graphics-cards"
 	},
 	{
-		"Id": "1F065",
-		"Name": "PNY Nvidia A40 48GB GDDR6 Graphics Card TCSA40M-PB",
-		"Price": "116699",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/tcsa40m-pb-graphics-cards-34212267589796_300x.png?v=1656597369", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/pny-nvidia-a40-48gb-gddr6-graphics-card-tcsa40m-pb-139882",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D046",
-		"Name": "Gigabyte GeForce RTX 3060 Ti EAGLE ...",
-		"Price": "11719",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1606917806/q46gu0uqqkqzcdb21co1.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3060-ti-eagle-oc-8g-lhr-gddr6-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D122",
-		"Name": "Gigabyte Radeon RX 6700 XT Eagle OC...",
-		"Price": "11839",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1617185946/kmvifyypzotyddqqyyx1.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-6700-xt-eagle-oc-12gb-gddr6-pcie-4-0-amd-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "2D069",
-		"Name": "Intel Core i9 12900KF 3.2GHz (Turbo...",
-		"Price": "11849",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1637323963/ai3yofyjrlpqbuueeb1d.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-12900kf-3-2ghz-turbo-5-2ghz-16c-24t-alder-lake-lga1700-desktop-processor/",
-		"Category": "processors"
-	},
-	{
 		"Id": "2D088",
 		"Name": "AMD Athlon 300GE 2C/4T 3.4GHz 5MB 3...",
 		"Price": "1189",
 		"Available": "In Stock With Supplier",
 		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1646645578/jn9pfhkob4pb2o27vmp3.png", 
 		"Link": "https://www.dreamwaretech.co.za/p/amd-processors/product/amd-athlon-300ge-2c-4t-3-4ghz-5mb-35w-am4-with-radeon-vega-graphics-tray-cpu/",
-		"Category": "processors"
-	},
-	{
-		"Id": "1D047",
-		"Name": "Asus DUAL Gefroce RTX 3060 Ti MINI ...",
-		"Price": "11929",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1646749593/vh0oltkscx65pfyr848c.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-dual-gefroce-rtx-3060-ti-mini-v2-oc-8gb-gddr6-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "2E029",
-		"Name": "Intel Core i9 13900F Processor",
-		"Price": "11949",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/intel-core-i9-13900f-processor-600px-v02300px.jpg", 
-		"Link": "https://www.evetech.co.za/intel-core-i9-13900f-processor/best-deal/16762.aspx",
-		"Category": "processors"
-	},
-	{
-		"Id": "1D123",
-		"Name": "Gigabyte Radeon RX 6700 XT Gaming O...",
-		"Price": "11959",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1617184894/ldokkvflmyoqnvhejajo.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-6700-xt-gaming-oc-12gb-gddr6-pcie-4-0-amd-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "2D070",
-		"Name": "Intel i9-13900F 5.6GHz 24 Core 32 T...",
-		"Price": "11959",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1674480332/adg1l43xozv34rzq5gy8.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-i9-13900f-5-6ghz-24-core-32-thread-lga1700-desktop-processor/",
-		"Category": "processors"
-	},
-	{
-		"Id": "2D071",
-		"Name": "Intel Core i9 12900K 3.2GHz (Turbo ...",
-		"Price": "11989",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1636032947/dsllsr9xbceayjzsozss.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-12900k-3-2ghz-turbo-5-2ghz-16-core-24-thread-lga1700-desktop-processor/",
-		"Category": "processors"
-	},
-	{
-		"Id": "2E030",
-		"Name": "Intel Core i9 12900KS Processor",
-		"Price": "11999",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/intel-core-i9-12900ks-processor-600px-v1300px.jpg", 
-		"Link": "https://www.evetech.co.za/intel-core-i9-12900ks-processor/best-deal/15338.aspx",
-		"Category": "processors"
-	},
-	{
-		"Id": "1D124",
-		"Name": "Gigabyte Radeon RX 6750 XT GAMING O...",
-		"Price": "12079",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1653920987/yuqo9ipynwarywa2rwjc.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-6750-xt-gaming-oc-12gb-gddr6-pcie-4-0-amd-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "2D118",
-		"Name": "AMD Ryzen 9 7950X 4.5GHz up to 5.7G...",
-		"Price": "12079",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1664276943/zzdkvo8yfcz1ycrcrnc2.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/amd-processors/product/amd-ryzen-9-7950x-4-5ghz-up-to-5-7ghz-16c-32t-am5-socket-desktop-processor/",
-		"Category": "processors"
-	},
-	{
-		"Id": "1F038",
-		"Name": "Gainward Nvidia GeForce RTX 3060 Ghost LHR 12GB GDDR6 Graphics Card GW-RTX3060-12GB-GH",
-		"Price": "12100",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/gw-rtx3060-12gb-gh-graphics-cards-35210751770788_300x.png?v=1666593482", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/gainward-nvidia-geforce-rtx-3060-ghost-lhr-12gb-gddr6-graphics-card-gw-rtx3060-12gb-gh-161585",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "2D072",
-		"Name": "Intel Core i9-9900X Skylake X 10-Co...",
-		"Price": "12179",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1614679482/od5i8boffseeffswmlu3.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-9900x-skylake-x-10-core-3-5-ghz-4-4-ghz-turbo-lga-2066-165w-desktop-processor/",
 		"Category": "processors"
 	},
 	{
@@ -368,24 +62,6 @@
 		"Category": "graphics-cards"
 	},
 	{
-		"Id": "1E017",
-		"Name": "XFX Speedster MERC 319 AMD Radeon RX 6800 XT 16GB GPU",
-		"Price": "12299",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/xfx-speedster-merc-319-amd-radeon-rx-6800-xt-16gb-gpu-main-image-600px-v01300px.jpg", 
-		"Link": "https://www.evetech.co.za/xfx-speedster-merc-319-amd-radeon-rx-6800-xt-16gb-gpu/best-deal/17205.aspx",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F039",
-		"Name": "ASUS DUAL V2 Mini OC Nvidia GeForce RTX 3060 TI 8GB GDDR6 Graphics Card 90YV0FT2-M0NA00",
-		"Price": "12299",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0ft2-m0na00-graphics-cards-33086036607140_300x.png?v=1645536920", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-dual-v2-mini-oc-nvidia-geforce-rtx-3060-ti-8gb-gddr6-graphics-card-90yv0ft2-m0na00-127758",
-		"Category": "graphics-cards"
-	},
-	{
 		"Id": "1F002",
 		"Name": "MSI GT 710 2GD3H LP graphics card NVIDIA GeForce GT 730 2 GB GDDR3",
 		"Price": "1230",
@@ -404,141 +80,6 @@
 		"Category": "processors"
 	},
 	{
-		"Id": "2E031",
-		"Name": "Intel Core i9 13900 Processor",
-		"Price": "12499",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/intel-core-i9-13900-processor-600px-v01300px.jpg", 
-		"Link": "https://www.evetech.co.za/intel-core-i9-13900-processor/best-deal/16763.aspx",
-		"Category": "processors"
-	},
-	{
-		"Id": "2D073",
-		"Name": "Intel i9-13900 5.6GHz 16 Core 32 Th...",
-		"Price": "12529",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1674480747/gysvdcpsf89r8gzcoegp.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-i9-13900-5-6ghz-16-core-32-thread-lga1700-desktop-processor/",
-		"Category": "processors"
-	},
-	{
-		"Id": "2D074",
-		"Name": "Intel Core i9 12900KS 3.4GHz (Turbo...",
-		"Price": "12919",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1649074839/rg3i1n9el1ajcbkotove.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-12900ks-3-4ghz-turbo-5-5ghz-16c-24t-alder-lake-lga1700-desktop-processor/",
-		"Category": "processors"
-	},
-	{
-		"Id": "2E032",
-		"Name": "AMD Ryzen 9 7950X Processor",
-		"Price": "12999",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/amd-ryzen-9-7950x-processor-600px-v1300px.jpg", 
-		"Link": "https://www.evetech.co.za/amd-ryzen-9-7950x-processor/best-deal/15616.aspx",
-		"Category": "processors"
-	},
-	{
-		"Id": "2E033",
-		"Name": "AMD Ryzen 9 7900X3D Processor",
-		"Price": "12999",
-		"Available": "Coming Soon",
-		"Image": "https://www.evetech.co.za/repository/components/amd-ryzen-9-7900x3d-processor-600px-v01300px.jpg", 
-		"Link": "https://www.evetech.co.za/amd-ryzen-9-7900x3d-processor/best-deal/17170.aspx",
-		"Category": "processors"
-	},
-	{
-		"Id": "1D125",
-		"Name": "ASUS Dual Radeon RX 6700 XT OC Edit...",
-		"Price": "13049",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1644839750/kfb3ybvbxmzibipkavcw.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/asus-dual-radeon-rx-6700-xt-oc-edition-12gb-gddr6-gaming-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "2D075",
-		"Name": "Intel Core i9-10900F 2.8GHz 5.2GHz ...",
-		"Price": "13169",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1596622159/rxw6sjmg9ny7urhjqgw3.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-10900f-2-8ghz-5-2ghz-boost-10-core-20-thread-comet-lake-desktop-processor/",
-		"Category": "processors"
-	},
-	{
-		"Id": "2D076",
-		"Name": "Intel i9-13900KF 5.8GHz 24 Core 32 ...",
-		"Price": "13219",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1666436445/naelqq1hmh4gpw4opbfn.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-i9-13900kf-5-8ghz-24-core-32-thread-lga1700-desktop-processor/",
-		"Category": "processors"
-	},
-	{
-		"Id": "2D077",
-		"Name": "Intel Core i9-10900KF 3.7GHz 5.3GHz...",
-		"Price": "13289",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1590406318/e2tvcf1z3rklvgdgk7xz.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-10900kf-3-7ghz-5-3ghz-boost-10-core-20-thread-comet-lake-unlocked-desktop-processor/",
-		"Category": "processors"
-	},
-	{
-		"Id": "2D078",
-		"Name": "Intel Core i9 11900F 2.5 GHz (Turbo...",
-		"Price": "13289",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1617101330/dz6d3ieb47z2cghj86sw.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-11900f-2-5-ghz-turbo-5-2ghz-8c-16t-lga1200-desktop-processor/",
-		"Category": "processors"
-	},
-	{
-		"Id": "2D079",
-		"Name": "Intel i9-7920x (Skylake-X)",
-		"Price": "13419",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1552303689/qyhhhdn5khazntqvum7b.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-i9-7920x-skylake-x/",
-		"Category": "processors"
-	},
-	{
-		"Id": "2D080",
-		"Name": "Intel Core i9 11900KF 3.5 GHz (Turb...",
-		"Price": "13419",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1617094572/zzhawhvlvhb3oyoz8ps1.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-11900kf-3-5-ghz-turbo-5-3ghz-8c-16t-lga1200-desktop-processor/",
-		"Category": "processors"
-	},
-	{
-		"Id": "1E018",
-		"Name": "MSI GeForce RTX 3070 Ti Ventus 3X 8GB OC",
-		"Price": "13499",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-rtx-3070-ti-ventus-3x-8gb-oc-600px-v4300px.jpg", 
-		"Link": "https://www.evetech.co.za/msi-geforce-rtx-3070-ti-ventus-3x-8gb-oc/best-deal/12356.aspx",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F040",
-		"Name": "MSI Ventus 3X OC LHR GeForce RTX 3060 Ti 8GB GDDR6 Graphics Card RTX 3060 Ti VENTUS 3X 8G OC LHR",
-		"Price": "13599",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/rtx-3060-ti-ventus-3x-8g-oc-lhr-graphics-cards-34211747430564_300x.png?v=1656595390", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/msi-ventus-3x-oc-lhr-geforce-rtx-3060-ti-8gb-gddr6-graphics-card-rtx-3060-ti-ventus-3x-8g-oc-lhr-152732",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "2D081",
-		"Name": "Intel i9-13900K 5.8GHz 24 Core 32 T...",
-		"Price": "13789",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1666435980/s0rpun6il4nyt899dh0v.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-i9-13900k-5-8ghz-24-core-32-thread-lga1700-desktop-processor/",
-		"Category": "processors"
-	},
-	{
 		"Id": "1D003",
 		"Name": "Asus Geforce GT 710 1GB GDDR5 Passi...",
 		"Price": "1389",
@@ -548,66 +89,12 @@
 		"Category": "graphics-cards"
 	},
 	{
-		"Id": "1D048",
-		"Name": "Gigabyte GeForce RTX 3060 Ti GAMING...",
-		"Price": "14009",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1647243107/thjthtnru4lf8izckoxa.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3060-ti-gaming-8gb-lhr-gddr6-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "2D082",
-		"Name": "Intel Core i9-10900 2.8GHz 5.2GHz B...",
-		"Price": "14039",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1596094366/we7eea87rqicprmtnlwt.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-10900-2-8ghz-5-2ghz-boost-10-core-20-thread-comet-lake-desktop-processor/",
-		"Category": "processors"
-	},
-	{
-		"Id": "1D049",
-		"Name": "Gigabyte GeForce RTX 3060 Ti GAMING...",
-		"Price": "14069",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1606918137/h1qlj8tql1ypmq0gcnxr.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3060-ti-gaming-oc-8gb-lhr-gddr6-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "2D083",
-		"Name": "Intel Core i9-10900K 3.7GHz 5.3GHz ...",
-		"Price": "14159",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1594910589/gepkz8dbruxyrwhswyyv.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-10900k-3-7ghz-5-3ghz-boost-10-core-20-thread-comet-lake-unlocked-desktop-processor/",
-		"Category": "processors"
-	},
-	{
-		"Id": "1D126",
-		"Name": "Gigabyte Radeon RX 6750 XT AORUS EL...",
-		"Price": "14249",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1653920508/t2azirk76yiwap4agrwp.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-6750-xt-aorus-elite-12gb-gddr6-pcie-4-0-amd-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
 		"Id": "1D004",
 		"Name": "MSI Nvidia GeForce GT 730 2GB 64-BI...",
 		"Price": "1429",
 		"Available": "In Stock With Supplier",
 		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1637154662/jihqhjokfwd6c7s50gnw.jpg", 
 		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/msi-nvidia-geforce-gt-730-2gb-64-bit-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F041",
-		"Name": "Asus Dual AMD Radeon RX 6750 XT 12GB GDDR6 Graphics Card 90YV0HK0-M0NA00",
-		"Price": "14399",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0hk0-m0na00-graphics-cards-34649770197156_300x.png?v=1661257933", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-dual-amd-radeon-rx-6750-xt-12gb-gddr6-graphics-card-90yv0hk0-m0na00-155271",
 		"Category": "graphics-cards"
 	},
 	{
@@ -638,33 +125,6 @@
 		"Category": "graphics-cards"
 	},
 	{
-		"Id": "1E019",
-		"Name": "Leadtek Quadro RTX A2000 12GB GDDR6",
-		"Price": "14999",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/leadtek-quadro-rtx-a2000-12gb-gddr6-600px-v1300px.jpg", 
-		"Link": "https://www.evetech.co.za/leadtek-quadro-rtx-a2000-12gb-gddr6/best-deal/13878.aspx",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "2E034",
-		"Name": "AMD Ryzen 9 7950X3D Processor",
-		"Price": "14999",
-		"Available": "Coming Soon",
-		"Image": "https://www.evetech.co.za/repository/components/amd-ryzen-9-7950x3d-processor-ryzen-processor-600px-v1300px.jpg", 
-		"Link": "https://www.evetech.co.za/amd-ryzen-9-7950x3d-processor/best-deal/17168.aspx",
-		"Category": "processors"
-	},
-	{
-		"Id": "1D050",
-		"Name": "Gigabyte Geforce RTX 3060 Ti VISION...",
-		"Price": "15279",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1628841798/m7ku8vx2d6xgqlllhimo.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3060-ti-vision-oc-8gb-lhr-gddr6-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
 		"Id": "2D002",
 		"Name": "Intel Celeron G5905 3.50GHz 2 Core ...",
 		"Price": "1529",
@@ -680,24 +140,6 @@
 		"Available": "In stock with FirstShop",
 		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/akn740d5s2gh-graphics-cards-34158913781924_300x.png?v=1656080064", 
 		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/arktek-nvidia-gt-740-2gb-ddr5-graphics-card-akn740d5s2gh-147440",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "2D084",
-		"Name": "Intel Core i9-10900X 10 Core X-Seri...",
-		"Price": "15689",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1594908848/ijrjm3wrmcfzoqw6iiwu.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-10900x-10-core-x-series-lga2066-processor/",
-		"Category": "processors"
-	},
-	{
-		"Id": "1D051",
-		"Name": "Gigabyte Geforce RTX 3070 Ti Gaming...",
-		"Price": "15699",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1633935475/hkyigdavggckh8haxgpc.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3070-ti-gaming-oc-8gb-lhr-gddr6-pcie-4-0-nvidia-graphics-card/",
 		"Category": "graphics-cards"
 	},
 	{
@@ -719,15 +161,6 @@
 		"Category": "graphics-cards"
 	},
 	{
-		"Id": "1E020",
-		"Name": "MSI GeForce RTX 3070 Ti Gaming X TRIO 8GB",
-		"Price": "15999",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-rtx-3070-ti-gaming-x-trio-8gb-600px-v2300px.jpg", 
-		"Link": "https://www.evetech.co.za/msi-geforce-rtx-3070-ti-gaming-x-trio-8gb/best-deal/11994.aspx",
-		"Category": "graphics-cards"
-	},
-	{
 		"Id": "2D003",
 		"Name": "Intel Celeron G6900 Dual Core 3.4GH...",
 		"Price": "1609",
@@ -735,15 +168,6 @@
 		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1649071588/dsbtxitfppzk2vsew2ss.png", 
 		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-celeron-g6900-dual-core-3-4ghz-2c-2t-lga1700-desktop-processor/",
 		"Category": "processors"
-	},
-	{
-		"Id": "1D052",
-		"Name": "Gigabyte Geforce RTX 3070 Eagle 8GB...",
-		"Price": "16149",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1603887038/gxopa84ifuoxsrj0fdes.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3070-eagle-8gb-gddr6-nvidia-graphics-card/",
-		"Category": "graphics-cards"
 	},
 	{
 		"Id": "1D006",
@@ -755,30 +179,12 @@
 		"Category": "graphics-cards"
 	},
 	{
-		"Id": "1D053",
-		"Name": "Gigabyte Geforce RTX 3070 Gaming OC...",
-		"Price": "16609",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1603887781/qelkkbujlsvcrs7ifdh0.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3070-gaming-oc-8gb-lhr-gddr6-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
 		"Id": "1F005",
 		"Name": "Arktek Nvidia GT740 4GB DDR5 Graphics Card AKN740D5S4GH1",
 		"Price": "1680",
 		"Available": "In stock with FirstShop",
 		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/akn740d5s4gh1-graphics-cards-42565154341028_300x.png?v=1677746822", 
 		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/arktek-nvidia-gt740-4gb-ddr5-graphics-card-akn740d5s4gh1-165597",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D127",
-		"Name": "ASUS TUF GAMING Radeon RX 6800 XT O...",
-		"Price": "16909",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1613375471/tnxwyl5mqkjvtm6ytqr4.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/asus-tuf-gaming-radeon-rx-6800-xt-oc-16gb-gddr6-pcie-4-0-amd-graphics-card/",
 		"Category": "graphics-cards"
 	},
 	{
@@ -800,15 +206,6 @@
 		"Category": "processors"
 	},
 	{
-		"Id": "2D119",
-		"Name": "AMD Threadripper 2950X 16C/32T 3.5G...",
-		"Price": "17389",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1548428713/v61nzaqreq5hwoq1w8d5.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/amd-processors/product/amd-threadripper-2950x-16c-32t-3-5ghz-4-4ghz-boost-socket-str4-desktop-processor/",
-		"Category": "processors"
-	},
-	{
 		"Id": "1D007",
 		"Name": "Asus GeForce GT 1030 2GB GDDR5 Grap...",
 		"Price": "1789",
@@ -824,24 +221,6 @@
 		"Available": "In Stock with Evetech",
 		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-gt-730k-4gb-graphics-card-600px-v2300px.jpg", 
 		"Link": "https://www.evetech.co.za/msi-geforce-gt-730k-4gb-graphics-card/best-deal/14571.aspx",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1E021",
-		"Name": "XFX Speedster MERC 310 AMD Radeon RX 7900 XT 20GB GPU",
-		"Price": "17999",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/xfx-speedster-merc-310-amd-radeon-rx-7900-xt-20gb-gpu-main-image-600px-v01300px.jpg", 
-		"Link": "https://www.evetech.co.za/xfx-speedster-merc-310-amd-radeon-rx-7900-xt-20gb-gpu/best-deal/17206.aspx",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F042",
-		"Name": "ASUS TUF Gaming TUF-RX6800XT-O16G-GAMING AMD Radeon RX 6800 XT 16 GB GDDR6",
-		"Price": "18199",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0fl1-m0nm00-graphics-cards-31999451234468_300x.png?v=1635684639", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-tuf-gaming-tuf-rx6800xt-o16g-gaming-amd-radeon-rx-6800-xt-16-gb-gddr6-129131",
 		"Category": "graphics-cards"
 	},
 	{
@@ -863,57 +242,12 @@
 		"Category": "graphics-cards"
 	},
 	{
-		"Id": "2D085",
-		"Name": "Intel i7-6950X (Broadwell-E)",
-		"Price": "18629",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1547717568/gb0vr9nao9jflt8phu4d.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-i7-6950x-broadwell-e/",
-		"Category": "processors"
-	},
-	{
 		"Id": "2D092",
 		"Name": "Amd A6-7470k With GPU Edition",
 		"Price": "1869",
 		"Available": "Limited Stock With Supplier",
 		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1552475966/bexixxxvjtnzpe9hhrgc.jpg", 
 		"Link": "https://www.dreamwaretech.co.za/p/amd-processors/product/amd-a6-7470k-with-gpu-edition/",
-		"Category": "processors"
-	},
-	{
-		"Id": "1D054",
-		"Name": "Gigabyte GeForce RTX 4070 Ti Eagle ...",
-		"Price": "18779",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673957490/znxlld7utdbkrp02z5ye.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4070-ti-eagle-12gb-gddr6x-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1E022",
-		"Name": "Palit GeForce RTX 4070 Ti GamingPro 12GB",
-		"Price": "18999",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/palit-geforce-rtx-4070-ti-gamingpro-12gb-600px-v3300px.jpg", 
-		"Link": "https://www.evetech.co.za/palit-geforce-rtx-4070-ti-gamingpro-12gb/best-deal/17128.aspx",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F043",
-		"Name": "PNY A2000 Nvidia 12GB RTX GDDR6 Graphics Card VCNRTXA2000-12GB-PB",
-		"Price": "18999",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/vcnrtxa2000-12gb-pb-graphics-cards-35471060893860_300x.png?v=1669811525", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/pny-a2000-nvidia-12gb-rtx-gddr6-graphics-card-vcnrtxa2000-12gb-pb-163161",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "2D086",
-		"Name": "Intel Core i9-10940X 14 Core X-Seri...",
-		"Price": "19129",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1594910060/nwebtvob6xrhiywyvu1l.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-10940x-14-core-x-series-lga2066-processor/",
 		"Category": "processors"
 	},
 	{
@@ -926,24 +260,6 @@
 		"Category": "graphics-cards"
 	},
 	{
-		"Id": "1D055",
-		"Name": "Gigabyte Geforce RTX 3080 TURBO 10G...",
-		"Price": "19319",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1632388647/ltx8euolsg804mrlwoqm.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-turbo-10gb-lhr-gddr6-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D128",
-		"Name": "Gigabyte Radeon RX 6800 AORUS MASTE...",
-		"Price": "19319",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1628772635/yhc6kb7s0xhyl78zpogv.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-6800-aorus-master-16gb-gddr6-pcie-4-0-amd-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
 		"Id": "1F007",
 		"Name": "Gigabyte GV-N1030D4-2GL graphics card NVIDIA GeForce GT 1030 2 GB GDDR4",
 		"Price": "1935",
@@ -953,30 +269,12 @@
 		"Category": "graphics-cards"
 	},
 	{
-		"Id": "1D056",
-		"Name": "Gigabyte Geforce RTX 3060 Ti AORUS ...",
-		"Price": "19449",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1628841237/h727yw4ozchxqyswou43.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3060-ti-aorus-elite-8gb-lhr-gddr6-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
 		"Id": "1F008",
 		"Name": "GIGABYTE Nvidia GeForce GT 1030 GV-N1030D5-2GL Graphics Card - GT1030 Low Profile 2G",
 		"Price": "1955",
 		"Available": "In stock with FirstShop",
 		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/gv-n1030d5-2gl-graphics-cards-20741964791972_300x.png?v=1632073489", 
 		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/gigabyte-nvidia-geforce-gt-1030-gv-n1030d5-2gl-graphics-card-gt1030-low-profile-2g-97276",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D129",
-		"Name": "Gigabyte Radeon RX 6800 XT GAMING O...",
-		"Price": "19569",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1628773425/byxelra5qnykkdv5igd0.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-6800-xt-gaming-oc-16gb-gddr6-pcie-4-0-amd-graphics-card/",
 		"Category": "graphics-cards"
 	},
 	{
@@ -998,24 +296,6 @@
 		"Category": "processors"
 	},
 	{
-		"Id": "1D057",
-		"Name": "Gigabyte GeForce RTX 4070 Ti Eagle ...",
-		"Price": "19929",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673529834/mvq1lsvpkf9ilzcnmkzz.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4070-ti-eagle-oc-12gb-gddr6x-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D058",
-		"Name": "Gigabyte Geforce RTX 3080 EAGLE OC ...",
-		"Price": "20109",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1646750690/t5jnh687naqeriajf1kf.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-eagle-oc-10gb-gddr6x-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
 		"Id": "2D005",
 		"Name": "Intel Pentium Gold G7400 Dual Core ...",
 		"Price": "2039",
@@ -1025,105 +305,6 @@
 		"Category": "processors"
 	},
 	{
-		"Id": "1D059",
-		"Name": "GIGABYTE GeForce RTX 3080 EAGLE 12G...",
-		"Price": "20469",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1646738478/khwtxd6z5fpc9bnn2zcy.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-eagle-12g-gddr6x-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D060",
-		"Name": "Gigabyte Geforce RTX 3080 Ti EAGLE ...",
-		"Price": "20529",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1653488275/w9c60o4ugfbaqlr9rnz4.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-ti-eagle-oc-12gb-gddr6x-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D061",
-		"Name": "Gigabyte Geforce RTX 3080 Ti GAMING...",
-		"Price": "20529",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1628755581/qhrg4fysl5n1oqrefk8u.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-ti-gaming-oc-12gb-gddr6x-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D062",
-		"Name": "Gigabyte GeForce RTX 3080 GAMING OC...",
-		"Price": "20529",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1644414518/u6a5xessfeew0ha3yrkr.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-gaming-oc-12gb-gddr6x-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D063",
-		"Name": "Gigabyte Geforce RTX 3080 Ti VISION...",
-		"Price": "20649",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1628755098/nfhafrcjjyclhnubira4.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-ti-vision-oc-12gb-gddr6x-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D064",
-		"Name": "Gigabyte GeForce RTX 4070 Ti Gaming...",
-		"Price": "20769",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673530370/idmgbyligkfllj1niabm.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4070-ti-gaming-oc-12gb-gddr6x-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D065",
-		"Name": "Asus Geforce RTX 3080 TUF Gaming V2...",
-		"Price": "20799",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1599143075/v5497hktbu4cdvx2i4z6.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-geforce-rtx-3080-tuf-gaming-v2-oc-10gb-lhr-gddr6x-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D066",
-		"Name": "Gigabyte Geforce RTX 3070 Vision OC...",
-		"Price": "20829",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1603887404/mo2peeylzuuukdxamdvl.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3070-vision-oc-8gb-gddr6-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D067",
-		"Name": "Gigabyte Geforce RTX 3070 Aorus Mas...",
-		"Price": "20889",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1603888438/m2t3god1weludgw5y67r.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3070-aorus-master-8gb-lhr-gddr6-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1E023",
-		"Name": "Leadtek Quadro RTX A4000 16GB GDDR6",
-		"Price": "20999",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/leadtek-quadro-rtx-a4000-16gb-gddr6-600px-v3300px.jpg", 
-		"Link": "https://www.evetech.co.za/leadtek-quadro-rtx-a4000-16gb-gddr6/best-deal/11734.aspx",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D068",
-		"Name": "Gigabyte Geforce RTX 3070 Ti AORUS ...",
-		"Price": "21079",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1628842200/hncnsvtudfioustksbwr.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3070-ti-aorus-master-8gb-gddr6-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
 		"Id": "2D094",
 		"Name": "Amd Fx-6300",
 		"Price": "2119",
@@ -1131,123 +312,6 @@
 		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1552474231/jfgkxucig9ycz9dv87s6.jpg", 
 		"Link": "https://www.dreamwaretech.co.za/p/amd-processors/product/amd-fx-6300/",
 		"Category": "processors"
-	},
-	{
-		"Id": "1D069",
-		"Name": "Gigabyte GeForce RTX 4070 Ti Aero O...",
-		"Price": "21349",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673956444/oosxupu8gwesimpdwwkm.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4070-ti-aero-oc-12gb-gddr6x-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1E024",
-		"Name": "MSI GeForce RTX 4070 Ti Ventus 3X OC 12GB",
-		"Price": "21399",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/msi-rtx-4070-ti-ventus-3x-12g-graphics-card-600px-v1300px.jpg", 
-		"Link": "https://www.evetech.co.za/msi-geforce-rtx-4070-ti-ventus-3x-oc-12gb/best-deal/16784.aspx",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D070",
-		"Name": "Gigabyte GeForce RTX 4070 Ti Aorus ...",
-		"Price": "21739",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1675331375/seedwywwhak2toljvrzt.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4070-ti-aorus-elite-12gb-gddr6x-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D071",
-		"Name": "Asus GeForce RTX 4070 Ti Tuf Gaming...",
-		"Price": "21839",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1674016097/iclwls9bjtpkvfml7pdd.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-geforce-rtx-4070-ti-tuf-gaming-oc-12gb-gddr6x-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1E025",
-		"Name": "MSI GeForce RTX 4070 Ti Gaming Trio 12GB",
-		"Price": "21999",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-rtx-4070-ti-gaming-trio-12gb-v2300px.jpg", 
-		"Link": "https://www.evetech.co.za/msi-geforce-rtx-4070-ti-gaming-trio-12gb/best-deal/17070.aspx",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D072",
-		"Name": "MSI GeForce RTX 4070 Ti Ventus 3X O...",
-		"Price": "22019",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673534303/kdg1427sr1vkbjc5dxnz.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/msi-geforce-rtx-4070-ti-ventus-3x-oc-12gb-gddr6x-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D130",
-		"Name": "Asus TUF Gaming Radeon RX 6900 XT O...",
-		"Price": "22069",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1613472567/riw03lmx58bihv9x6cc1.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/asus-tuf-gaming-radeon-rx-6900-xt-oc-16gb-gddr6-pcie-4-0-amd-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D073",
-		"Name": "Gigabyte GeForce RTX 3080 GAMING OC...",
-		"Price": "22099",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1600300733/nj2vxufngdluum2a8eny.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-gaming-oc-10gb-lhr-gddr6x-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D074",
-		"Name": "Gigabyte Geforce RTX 3080 VISION OC...",
-		"Price": "22099",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1601024049/sqvotaj8vr365xwo6kkr.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-vision-oc-10gb-gddr6x-pcie-4-0-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D075",
-		"Name": "Gigabyte Geforce RTX 3080 AORUS MAS...",
-		"Price": "22159",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1600325561/dybkeeojdeinpepyebtu.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-aorus-master-10gb-lhr-gddr6x-pcie-4-0-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1E026",
-		"Name": "MSI GeForce RTX 4070 Ti Gaming X Trio 12GB",
-		"Price": "22199",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-rtx-4070-ti-gaming-x-trio-12gb-600px-v1300px.jpg", 
-		"Link": "https://www.evetech.co.za/msi-geforce-rtx-4070-ti-gaming-x-trio-12gb/best-deal/16781.aspx",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D076",
-		"Name": "MSI GeForce RTX 4070 Ti Gaming X Tr...",
-		"Price": "22219",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673535201/pxxvtksanbmdgldobajf.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/msi-geforce-rtx-4070-ti-gaming-x-trio-12gb-gddr6x-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D077",
-		"Name": "Gigabyte GeForce RTX 3080 AORUS MAS...",
-		"Price": "22219",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1644583994/blyjnvpiqqzakjxjsae8.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-aorus-master-12gb-gddr6-desktop-graphics-card/",
-		"Category": "graphics-cards"
 	},
 	{
 		"Id": "1D009",
@@ -1268,78 +332,6 @@
 		"Category": "processors"
 	},
 	{
-		"Id": "1E027",
-		"Name": "MSI Geforce RTX 4070 Ti Gaming X Trio White 12GB",
-		"Price": "22499",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-rtx-4070-ti-gaming-x-trio-white-12gb-main-image-600px-v01300px.jpg", 
-		"Link": "https://www.evetech.co.za/msi-geforce-rtx-4070-ti-gaming-x-trio-white-12gb/best-deal/17197.aspx",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F044",
-		"Name": "MSI Nvidia GeForce RTX 4070 Ti Ventus 3X 12G 12GB GDDR6X Graphics Card RTX 4070 TI VENTUS 3X 12G",
-		"Price": "22699",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/rtx-4070-ti-ventus-3x-12g-graphics-cards-42588391964836_300x.png?v=1678170355", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/msi-nvidia-geforce-rtx-4070-ti-ventus-3x-12g-12gb-gddr6x-graphics-card-rtx-4070-ti-ventus-3x-12g-165776",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D078",
-		"Name": "Asus TUF Gaming GeForce RTX 3080 Ti...",
-		"Price": "22739",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1646660254/pdzinqkame1wdlisr1al.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-tuf-gaming-geforce-rtx-3080-ti-oc-12gb-gddr6x-pcie-4-0-desktop-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D131",
-		"Name": "Gigabyte Radeon RX 7900 XT 20GB GDD...",
-		"Price": "22829",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673960161/bqfsehoqb5axhe9mri3n.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-7900-xt-20gb-gddr6-amd-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F045",
-		"Name": "Asus TUF Gaming GeForce RTX 4070 Ti 12GB GDDR6X Graphics Card 90YV0IJ1-M0NA00",
-		"Price": "22999",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0ij1-m0na00-graphics-cards-42435068493988_300x.png?v=1675234741", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-tuf-gaming-geforce-rtx-4070-ti-12gb-gddr6x-graphics-card-90yv0ij1-m0na00-164087",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F046",
-		"Name": "Gigabyte Nvidia GeForce RTX 4070 Ti AERO OC 12G 12GB GDDR6X Graphics Card GV-N407TAERO OC-12GD",
-		"Price": "22999",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/gv-n407taero-oc-12gd-graphics-cards-42583089610916_300x.png?v=1678093321", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/gigabyte-nvidia-geforce-rtx-4070-ti-aero-oc-12g-12gb-gddr6x-graphics-card-gv-n407taero-oc-12gd-165719",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F047",
-		"Name": "Asus TUF Gaming GeForce RTX 4070 Ti OC Edition 12GB GDDR6X Graphics Card 90YV0IJ0-M0NA00",
-		"Price": "23299",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0ij0-m0na00-graphics-cards-42435060629668_300x.png?v=1675234569", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-tuf-gaming-geforce-rtx-4070-ti-oc-edition-12gb-gddr6x-graphics-card-90yv0ij0-m0na00-164086",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D132",
-		"Name": "Gigabyte Radeon RX 6950 XT GAMING O...",
-		"Price": "23429",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1652267765/r84rmt8y5om4xslltuyc.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-6950-xt-gaming-oc-16gb-gddr6-pcie-4-0-amd-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
 		"Id": "2E005",
 		"Name": "Intel Core i3 12100F Processor",
 		"Price": "2349",
@@ -1347,15 +339,6 @@
 		"Image": "https://www.evetech.co.za/repository/components/intel-core-i3-12100f-processor-600px-v2300px.jpg", 
 		"Link": "https://www.evetech.co.za/intel-core-i3-12100f-processor/best-deal/14567.aspx",
 		"Category": "processors"
-	},
-	{
-		"Id": "1F048",
-		"Name": "Gigabyte Aorus Nvidia GeForce RTX 4070 Ti Elite 12G 12GB GDDR6X Graphics Card GV-N407TAORUS E-12GD",
-		"Price": "23499",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/gv-n407taorus-e-12gd-graphics-cards-42583213113508_300x.png?v=1678095122", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/gigabyte-aorus-nvidia-geforce-rtx-4070-ti-elite-12g-12gb-gddr6x-graphics-card-gv-n407taorus-e-12gd-165721",
-		"Category": "graphics-cards"
 	},
 	{
 		"Id": "1F009",
@@ -1376,123 +359,6 @@
 		"Category": "processors"
 	},
 	{
-		"Id": "1F049",
-		"Name": "ASUS TUF Gaming AMD Radeon RX 6900 XT OC 16GB GDDR6 90YV0GE0-M0NM00",
-		"Price": "23699",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0ge0-m0nm00-graphics-cards-32215724621988_300x.png?v=1637084504", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-tuf-gaming-amd-radeon-rx-6900-xt-oc-16gb-gddr6-90yv0ge0-m0nm00-125518",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "2D087",
-		"Name": "Intel Core i9-10980XE Xtreme Editio...",
-		"Price": "23849",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1594908166/yismdhfigj9jbdd6390h.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-10980xe-xtreme-edition-18-core-lga2066-processor/",
-		"Category": "processors"
-	},
-	{
-		"Id": "1D079",
-		"Name": "Gigabyte Geforce RTX 3080 Aorus Xtr...",
-		"Price": "23909",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1631880844/cnziykzzmz2fuszhle2m.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-aorus-xtreme-waterforce-10gb-lhr-gddr6x-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1E028",
-		"Name": "XFX Speedster MERC 310 AMD Radeon RX 7900 XTX 24GB GPU",
-		"Price": "23999",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/xfx-speedster-merc-310-amd-radeon-rx-7900-xtx-24gb-gpu-main-image-600px-v021300px.jpg", 
-		"Link": "https://www.evetech.co.za/xfx-speedster-merc-310-amd-radeon-rx-7900-xtx-24gb-gpu/best-deal/17207.aspx",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D080",
-		"Name": "MSI GeForce RTX 4070 Ti Suprim X 12...",
-		"Price": "24149",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673966318/gxeewkba3ky7sw1i5ley.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/msi-geforce-rtx-4070-ti-suprim-x-12gb-gddr6x-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D133",
-		"Name": "Gigabyte Radeon RX 7900 XT Gaming O...",
-		"Price": "24149",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673963981/nbkdiuri1ghcudfcoefb.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-7900-xt-gaming-oc-20gb-gddr6-amd-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1E029",
-		"Name": "MSI GeForce RTX 4070 Ti SUPRIM X 12GB",
-		"Price": "24149",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/msi-gaming-geforce-rtx-4070-ti-12gb-graphics-card-600px-v4300px.jpg", 
-		"Link": "https://www.evetech.co.za/msi-geforce-rtx-4070-ti-suprim-x-12gb/best-deal/16780.aspx",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F050",
-		"Name": "Gigabyte Aorus Master Nvidia GeForce RTX 4070 Ti 12G 12 GB GDDR6X Graphics Card GV-N407TAORUS M-12GD",
-		"Price": "24199",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/gv-n407taorus-m-12gd-graphics-cards-42583706960036_300x.png?v=1678101955", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/gigabyte-aorus-master-nvidia-geforce-rtx-4070-ti-12g-12-gb-gddr6x-graphics-card-gv-n407taorus-m-12gd-165724",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F051",
-		"Name": "ASUS TUF Gaming Nivida GeForce RTX 3080 TI 12GB GDDR6X Graphics Card 90YV0GU1-M0NM00",
-		"Price": "24499",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0gu1-m0nm00-graphics-cards-33086230266020_300x.png?v=1645538359", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-tuf-gaming-nivida-geforce-rtx-3080-ti-12gb-gddr6x-graphics-card-90yv0gu1-m0nm00-126141",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D134",
-		"Name": "Gigabyte Radeon RX 6800 XT AORUS MA...",
-		"Price": "24839",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1654525356/wmhxf1oic41hb8w4t4q8.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-6800-xt-aorus-master-16gb-gddr6-pcie-4-0-amd-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1E030",
-		"Name": "Palit GeForce RTX 4080 16GB GDDR6X",
-		"Price": "24999",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/palit-geforce-rtx-4080-16gb-graphics-card-main-image-600px-v3300px.jpg", 
-		"Link": "https://www.evetech.co.za/palit-geforce-rtx-4080-16gb-gddr6x/best-deal/16844.aspx",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1E031",
-		"Name": "ASUS ROG Strix LC RX 6900 XT 16GB Top Gaming",
-		"Price": "24999",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/asus-rog-strix-lc-rx-6900-xt-16gb-top-gaming-600px-v2300px.jpg", 
-		"Link": "https://www.evetech.co.za/asus-rog-strix-lc-rx-6900-xt-16gb-top-gaming/best-deal/12083.aspx",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F052",
-		"Name": "Asus AMD Radeon RX 7900 XT 20GB GDDR6 Graphics Card 90YV0IU0-U0NM00",
-		"Price": "25100",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0iu0-u0nm00-graphics-cards-42569739829412_300x.png?v=1677828715", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-amd-radeon-rx-7900-xt-20gb-gddr6-graphics-card-90yv0iu0-u0nm00-165646",
-		"Category": "graphics-cards"
-	},
-	{
 		"Id": "2D007",
 		"Name": "Intel i3-13100F 4.5GHz 4 Core 8 Thr...",
 		"Price": "2529",
@@ -1500,24 +366,6 @@
 		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1674484725/oxhk20mjqsrrgahpqg7j.jpg", 
 		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-i3-13100f-4-5ghz-4-core-8-thread-lga1700-desktop-processor/",
 		"Category": "processors"
-	},
-	{
-		"Id": "1D135",
-		"Name": "Sapphire Radeon NITRO+ RX 6900 XT S...",
-		"Price": "25359",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1629284554/umbx4qymzmttbjpdkog1.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/sapphire-radeon-nitro-rx-6900-xt-se-16gb-gddr6-pcie-4-0-amd-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1E032",
-		"Name": "Msi Radeon Rx 7900 XTX Gaming Trio Classic 24GB",
-		"Price": "25549",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/msi-radeon-rx-7900-xtx-gaming-trio-classic-24gb-main-image-600px-v01300px.jpg", 
-		"Link": "https://www.evetech.co.za/msi-radeon-rx-7900-xtx-gaming-trio-classic-24gb/best-deal/17196.aspx",
-		"Category": "graphics-cards"
 	},
 	{
 		"Id": "2E006",
@@ -1529,69 +377,6 @@
 		"Category": "processors"
 	},
 	{
-		"Id": "1D084",
-		"Name": "MSI GeForce RTX 4080 Ventus 3X OC 1...",
-		"Price": "25999",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1668603551/q7wkgc8evit9ipqst0fx.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/msi-geforce-rtx-4080-ventus-3x-oc-16gb-gddr6x-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1E033",
-		"Name": "Leadtek WinFast RTX 4080 HURRICANE 16GB",
-		"Price": "25999",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/leadtek-winfast-rtx-4080-hurricane-16gb-main-image-600px-v1300px.jpg", 
-		"Link": "https://www.evetech.co.za/leadtek-winfast-rtx-4080-hurricane-16gb/best-deal/16685.aspx",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F053",
-		"Name": "MSI GeForce RTX 4070 Ti Suprim X 12G 12GB GDDR6X Graphics Card RTX 4070 TI SUPRIM X 12G",
-		"Price": "25999",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/rtx-4070-ti-suprim-x-12g-graphics-cards-42470281117860_300x.png?v=1675925411", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/msi-geforce-rtx-4070-ti-suprim-x-12g-12gb-gddr6x-graphics-card-rtx-4070-ti-suprim-x-12g-164575",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D136",
-		"Name": "Gigabyte Radeon RX 7900 XTX 24GB GD...",
-		"Price": "26089",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673961043/hof3sxv2uoq5ix1tyg5n.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-7900-xtx-24gb-gddr6-amd-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D081",
-		"Name": "Gigabyte GeForce RTX 3080 AORUS XTR...",
-		"Price": "26149",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1646811779/e2a2jioelol8jqi33fvn.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-aorus-xtreme-waterforce-wb-10gb-gddr6x-pcie-4-0-desktop-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D137",
-		"Name": "Gigabyte Radeon RX 7900 XTX Gaming ...",
-		"Price": "26209",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673965358/hzcldcxes2cwsfwhaqva.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-7900-xtx-gaming-oc-24gb-gddr6-amd-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D138",
-		"Name": "Asus ROG Strix RX 6800 XT Liquid Co...",
-		"Price": "26369",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1613374374/r3gq5lewnc8sfx9temhz.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/asus-rog-strix-rx-6800-xt-liquid-cooled-gaming-oc-16gb-gddr6-pcie-4-0-amd-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
 		"Id": "2D008",
 		"Name": "Intel i3-9100F 3.6GHz 4 Core Coffee...",
 		"Price": "2689",
@@ -1599,159 +384,6 @@
 		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1572599853/wujcyrwr9qfk3efeadwa.png", 
 		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-i3-9100f-3-6ghz-4-core-coffee-lake-refresh-lga1151-socket-14nm-desktop-processor/",
 		"Category": "processors"
-	},
-	{
-		"Id": "1D091",
-		"Name": "MSI Geforce RTX 4080 Gaming X Trio ...",
-		"Price": "26999",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1668521238/wraolwgfa3a2yxtswjwd.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/msi-geforce-rtx-4080-gaming-x-trio-16gb-gddr6x-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1E034",
-		"Name": "MSI GeForce RTX 4080 16GB GAMING X TRIO 16GB Graphics Card",
-		"Price": "26999",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-rtx-4080-16gb-gaming-x-trio-16gb-graphics-card-main-image-600px-v11300px.jpg", 
-		"Link": "https://www.evetech.co.za/msi-geforce-rtx-4080-16gb-gaming-x-trio-16gb-graphics-card/best-deal/16376.aspx",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D082",
-		"Name": "Gigabyte GeForce RTX 4080 Eagle 16G...",
-		"Price": "27289",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673528617/sfqgpipzuvxk0r5qgafn.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4080-eagle-16gb-gddr6x-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D083",
-		"Name": "Gigabyte GeForce RTX 3080 AORUS XTR...",
-		"Price": "27779",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1647246412/xipymxk4mhq8qszhc49b.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-aorus-xtreme-waterforce-12gb-gddr6x-aio-240mm-radiator-pcie-4-0-desktop-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1E035",
-		"Name": "MSI RTX 4080 16GB VENTUS 3X OC 16GB Graphics Card",
-		"Price": "27899",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/msi-rtx-4080-16gb-ventus-3x-oc-16gb-graphics-card-main-image-600px-v1300px.jpg", 
-		"Link": "https://www.evetech.co.za/msi-rtx-4080-16gb-ventus-3x-oc-16gb-graphics-card/best-deal/16375.aspx",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D094",
-		"Name": "MSI GeForce RTX 4080 Suprim X 16GB ...",
-		"Price": "27999",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673533153/uycb80sun7dlepvuxtze.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/msi-geforce-rtx-4080-suprim-x-16gb-gddr6x-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D085",
-		"Name": "Gigabyte Geforce RTX 3090 Ti GAMING...",
-		"Price": "28019",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1651139695/ip8bvbwgiwwtkdk8ac6j.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3090-ti-gaming-24gb-gddr6x-384-bit-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D086",
-		"Name": "Gigabyte Geforce RTX 3090 Ti GAMING...",
-		"Price": "28139",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1649686494/sig9mzbidd9fjadn6hal.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3090-ti-gaming-oc-24gb-gddr6x-384-bit-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D087",
-		"Name": "Gigabyte GeForce RTX 4080 Eagle OC ...",
-		"Price": "28199",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1668608371/otummvylth2awin1hzce.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4080-eagle-oc-16gb-gddr6x-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D088",
-		"Name": "Gigabyte GeForce RTX 4080 Gaming OC...",
-		"Price": "28259",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1668606843/oarmp8rj74zjawdcd4w7.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4080-gaming-oc-16gb-gddr6x-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D089",
-		"Name": "Gigabyte GeForce RTX 4080 Aero OC 1...",
-		"Price": "28849",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1668605950/mzcihsgdnkzwwrnlmgbk.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4080-aero-oc-16gb-gddr6x-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D090",
-		"Name": "MSI GeForce RTX 4080 Gaming Trio 16...",
-		"Price": "28859",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673533737/mauvij973d1wpw16t9nb.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/msi-geforce-rtx-4080-gaming-trio-16gb-gddr6x-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1E036",
-		"Name": "MSI GeForce RTX 4080 16GB GAMING X TRIO 16GB White",
-		"Price": "28999",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-rtx-4080-16gb-gaming-x-trio-16gb-white-nvidia-gpu-600px-v1300px.jpg", 
-		"Link": "https://www.evetech.co.za/msi-geforce-rtx-4080-16gb-gaming-x-trio-16gb-white/best-deal/17198.aspx",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D092",
-		"Name": "Gigabyte GeForce RTX 4080 Aorus Mas...",
-		"Price": "29229",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673529252/hqxtyuidh69ctjfcb5c4.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4080-aorus-master-16gb-gddr6x-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D093",
-		"Name": "Asus GeForce RTX 4080 TUF Gaming OC...",
-		"Price": "29349",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1668691255/rwjizat4audbulhsul7f.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-geforce-rtx-4080-tuf-gaming-oc-16gb-gddr6x-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1E037",
-		"Name": "MSI GeForce RTX 4080 16GB SUPRIM X 16GB Graphics Card",
-		"Price": "29899",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-rtx-4080-16gb-suprim-x-16gb-graphics-card-main-image-600px-v1300px.jpg", 
-		"Link": "https://www.evetech.co.za/msi-geforce-rtx-4080-16gb-suprim-x-16gb-graphics-card/best-deal/16377.aspx",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D095",
-		"Name": "Asus GeForce RTX 4080 Tuf Gaming 16...",
-		"Price": "30089",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673525271/q4tpebuhtdwqaktgyqnl.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-geforce-rtx-4080-tuf-gaming-16gb-gddr6x-nvidia-graphics-card/",
-		"Category": "graphics-cards"
 	},
 	{
 		"Id": "2E007",
@@ -1772,15 +404,6 @@
 		"Category": "processors"
 	},
 	{
-		"Id": "1F054",
-		"Name": "Gigabyte GeForce RTX 4080 Gaming OC 16GB GDDR6X Graphics Card GV-N4080GAMING OC-16GD",
-		"Price": "30499",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/gv-n4080gaming-oc-16gd-graphics-cards-42435896803492_300x.png?v=1675244468", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/gigabyte-geforce-rtx-4080-gaming-oc-16gb-gddr6x-graphics-card-gv-n4080gaming-oc-16gd-164151",
-		"Category": "graphics-cards"
-	},
-	{
 		"Id": "2E008",
 		"Name": "AMD Ryzen 5 5600 Processor",
 		"Price": "3099",
@@ -1790,60 +413,6 @@
 		"Category": "processors"
 	},
 	{
-		"Id": "1F055",
-		"Name": "Gigabyte GeForce RTX 4080 Aero OC 16GB GDDR6X Graphics Card GV-N4080AERO OC-16GD",
-		"Price": "30999",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/gv-n4080aero-oc-16gd-graphics-cards-42435935207588_300x.png?v=1675245553", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/gigabyte-geforce-rtx-4080-aero-oc-16gb-gddr6x-graphics-card-gv-n4080aero-oc-16gd-164146",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F056",
-		"Name": "MSI GeForce RTX 4080 Gaming X Trio 16GB GDDR6X Graphics Card RTX 4080 16GB GAMING TRIO",
-		"Price": "31100",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/rtx-4080-16gb-gaming-trio-graphics-cards-42470275907748_300x.png?v=1675925218", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/msi-geforce-rtx-4080-gaming-x-trio-16gb-gddr6x-graphics-card-rtx-4080-16gb-gaming-trio-164574",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D096",
-		"Name": "Gigabyte GeForce RTX 3080 AORUS XTR...",
-		"Price": "31509",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1647247506/mjxbexmh5fnbrjud261b.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-aorus-xtreme-waterforce-wb-12gb-gddr6x-pcie-4-0-desktop-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F057",
-		"Name": "Asus TUF Gaming GeForce RTX 4080 OC Edition 16GB GDDR6X Graphics Card 90YV0IB0-M0NA00",
-		"Price": "31599",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0ib0-m0na00-graphics-cards-42435021111460_300x.png?v=1675234017", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-tuf-gaming-geforce-rtx-4080-oc-edition-16gb-gddr6x-graphics-card-90yv0ib0-m0na00-164081",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F058",
-		"Name": "Gigabyte Aorus GeForce RTX 4080 Master 16GB GDDR6X Graphics Card GV-N4080AORUS M-16GD",
-		"Price": "31599",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/gv-n4080aorus-m-16gd-graphics-cards-42435890512036_300x.png?v=1675244292", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/gigabyte-aorus-geforce-rtx-4080-master-16gb-gddr6x-graphics-card-gv-n4080aorus-m-16gd-164148",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D097",
-		"Name": "Asus GeForce ROG RTX 4080 Strix Gam...",
-		"Price": "31909",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1668690501/hxeo1zt3lls1nytvdjgo.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-geforce-rog-rtx-4080-strix-gaming-oc-16gb-gddr6x-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
 		"Id": "2D009",
 		"Name": "Intel Core i3 12100 3.3GHz (Turbo @...",
 		"Price": "3219",
@@ -1851,24 +420,6 @@
 		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1649063884/i737qh4cqkynuk3c9pqr.png", 
 		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i3-12100-3-3ghz-turbo-4-3ghz-4c-8t-alder-lake-lga1700-desktop-processor/",
 		"Category": "processors"
-	},
-	{
-		"Id": "1F059",
-		"Name": "MSI GeForce RTX 4080 Suprim X 16GB GDDR6X Graphics Card RTX 4080 16GB SUPRIM X",
-		"Price": "32199",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/rtx-4080-16gb-suprim-x-graphics-cards-42470267420836_300x.png?v=1675925044", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/msi-geforce-rtx-4080-suprim-x-16gb-gddr6x-graphics-card-rtx-4080-16gb-suprim-x-164573",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F060",
-		"Name": "Asus TUF Gaming GeForce RTX 4080 16GB GDDR6X Graphics Card 90YV0IB1-M0NA00",
-		"Price": "32399",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0ib1-m0na00-graphics-cards-42435026813092_300x.png?v=1675234216", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-tuf-gaming-geforce-rtx-4080-16gb-gddr6x-graphics-card-90yv0ib1-m0na00-164082",
-		"Category": "graphics-cards"
 	},
 	{
 		"Id": "2E009",
@@ -1898,30 +449,12 @@
 		"Category": "processors"
 	},
 	{
-		"Id": "1F061",
-		"Name": "GIGABYTE Nvidia GeForce RTX 3090 GV-N3090Gaming OC-24GD Graphics Card - RTX3090 24GB GDDR6X GV-N3090GAMING OC-24GD",
-		"Price": "33199",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/gv-n3090gaming-oc-24gd-graphics-cards-20742205866148_300x.png?v=1632050987", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/gigabyte-nvidia-geforce-rtx-3090-gv-n3090gaming-oc-24gd-graphics-card-rtx3090-24gb-gddr6x-gv-n3090gaming-oc-24gd-97337",
-		"Category": "graphics-cards"
-	},
-	{
 		"Id": "1D010",
 		"Name": "Asus GeForce GTX 1650 Phoenix OC Ed...",
 		"Price": "3369",
 		"Available": "In Stock With Supplier",
 		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1573223635/vii0z4csgflnqo65jkpb.png", 
 		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-geforce-gtx-1650-phoenix-oc-edition-4gb-gddr5-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1F062",
-		"Name": "Asus ROG Strix Gaming GeForce RTX 4080 OC Edition 16GB GDDR6X Graphics Card 90YV0IC0-M0NA00",
-		"Price": "33999",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0ic0-m0na00-graphics-cards-42435036348580_300x.png?v=1675234197", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-rog-strix-gaming-geforce-rtx-4080-oc-edition-16gb-gddr6x-graphics-card-90yv0ic0-m0na00-164083",
 		"Category": "graphics-cards"
 	},
 	{
@@ -1941,15 +474,6 @@
 		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1552474986/t5l92nqozrr7swy7wcs4.jpg", 
 		"Link": "https://www.dreamwaretech.co.za/p/amd-processors/product/amd-fx-8300/",
 		"Category": "processors"
-	},
-	{
-		"Id": "1D098",
-		"Name": "Gigabyte Geforce RTX 3090 Ti AORUS ...",
-		"Price": "34899",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1651140253/ywijqyqfbdlcbeoytr36.png", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3090-ti-aorus-xtreme-waterforce-24gb-gddr6x-pcie-4-0-384-bit-nvidia-graphics-card/",
-		"Category": "graphics-cards"
 	},
 	{
 		"Id": "1E004",
@@ -1997,30 +521,12 @@
 		"Category": "graphics-cards"
 	},
 	{
-		"Id": "1E038",
-		"Name": "Leadtek Quadro RTX A4500 20GB GDDR6",
-		"Price": "35999",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/leadtek-quadro-rtx-a4500-20gb-gddr6-600px-v1300px.jpg", 
-		"Link": "https://www.evetech.co.za/leadtek-quadro-rtx-a4500-20gb-gddr6/best-deal/13982.aspx",
-		"Category": "graphics-cards"
-	},
-	{
 		"Id": "1D012",
 		"Name": "Asus GeForce Phoenix GTX 1050 Ti 4G...",
 		"Price": "3699",
 		"Available": "In Stock With Supplier",
 		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1552143565/enmytxbywexxikuhz1qw.jpg", 
 		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-geforce-phoenix-gtx-1050-ti-4gb-gddr5-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D099",
-		"Name": "Gigabyte GeForce RTX 4080 Aorus Xtr...",
-		"Price": "37079",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673967875/rgpavipakf3e6x0ilndr.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4080-aorus-xtreme-waterforce-16gb-gddr6x-nvidia-graphics-card/",
 		"Category": "graphics-cards"
 	},
 	{
@@ -2096,24 +602,6 @@
 		"Category": "graphics-cards"
 	},
 	{
-		"Id": "1E039",
-		"Name": "Leadtek WinFast RTX 4090 HURRICANE 24GB",
-		"Price": "38999",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/leadtek-winfast-rtx-4090-hurricane-24gb-main-image-600px-v1300px.jpg", 
-		"Link": "https://www.evetech.co.za/leadtek-winfast-rtx-4090-hurricane-24gb/best-deal/16684.aspx",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D100",
-		"Name": "ASUS GeForce ROG Strix RTX 3080 Gam...",
-		"Price": "39069",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1646733775/zpsv4tfcey0e0nzoizsz.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-geforce-rog-strix-rtx-3080-gaming-oc-12gb-gddr6x-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
 		"Id": "1D014",
 		"Name": "Gigabyte Geforce GTX 1650 OC Low Pr...",
 		"Price": "3929",
@@ -2186,15 +674,6 @@
 		"Category": "graphics-cards"
 	},
 	{
-		"Id": "1D101",
-		"Name": "Gigabyte Geforce RTX 4090 Gaming OC...",
-		"Price": "41179",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1665490385/qfyarlyxdy833aznh9ol.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4090-gaming-oc-24gb-gddr6x-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
 		"Id": "2D014",
 		"Name": "Intel Core i3-10300 Quad Core 3.7GH...",
 		"Price": "4129",
@@ -2213,15 +692,6 @@
 		"Category": "graphics-cards"
 	},
 	{
-		"Id": "1D102",
-		"Name": "Gigabyte Geforce RTX 4090 Aorus Mas...",
-		"Price": "41419",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1665489815/pncziogpijj9ozjjzdqs.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4090-aorus-master-24gb-gddr6x-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
 		"Id": "2D015",
 		"Name": "Intel Core i3-10320 Quad Core 3.8GH...",
 		"Price": "4169",
@@ -2229,42 +699,6 @@
 		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1596618570/szmpoc8s3catspxfikid.png", 
 		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i3-10320-quad-core-3-8ghz-4-6ghz-turbo-lga1200-socket-desktop-processor/",
 		"Category": "processors"
-	},
-	{
-		"Id": "1E040",
-		"Name": "MSI GeForce RTX 4090 GAMING X TRIO 24GB",
-		"Price": "41999",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-rtx-4090-gaming-x-trio-24gb-600px-v1300px.jpg", 
-		"Link": "https://www.evetech.co.za/msi-geforce-rtx-4090-gaming-x-trio-24gb/best-deal/15791.aspx",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D103",
-		"Name": "Asus Geforce RTX 4090 TUF Gaming OC...",
-		"Price": "42069",
-		"Available": "Limited Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1665738533/hinyfmmjxmmyhzeukxsz.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-geforce-rtx-4090-tuf-gaming-oc-26gb-gddr6x-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1D104",
-		"Name": "Gigabyte Geforce RTX 4090 Windforce...",
-		"Price": "42109",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1665739741/ausl6gufjnwswmblike0.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4090-windforce-24gb-gddr6x-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
-	},
-	{
-		"Id": "1E041",
-		"Name": "MSI GeForce RTX 4090 SUPRIM X 24GB",
-		"Price": "42999",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-rtx-4090-suprim-x-24gb-600px-v1300px.jpg", 
-		"Link": "https://www.evetech.co.za/msi-geforce-rtx-4090-suprim-x-24gb/best-deal/16786.aspx",
-		"Category": "graphics-cards"
 	},
 	{
 		"Id": "2D016",
@@ -2348,15 +782,6 @@
 		"Category": "processors"
 	},
 	{
-		"Id": "1F063",
-		"Name": "Asus ROG Strix Nvidia GeForce RTX 4090 24GB GDDR6X Graphics Card 90YV0ID0-M0NA00",
-		"Price": "44499",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0id0-m0na00-graphics-cards-42506242392228_300x.png?v=1676618217", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-rog-strix-nvidia-geforce-rtx-4090-24gb-gddr6x-graphics-card-90yv0id0-m0na00-164875",
-		"Category": "graphics-cards"
-	},
-	{
 		"Id": "2D105",
 		"Name": "AMD Ryzen 7 5700X 3.4GHz up to 4.6G...",
 		"Price": "4459",
@@ -2393,15 +818,6 @@
 		"Category": "graphics-cards"
 	},
 	{
-		"Id": "1E042",
-		"Name": "MSI GeForce RTX 4090 Suprim Liquid X 24GB",
-		"Price": "45499",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-rtx-4090-suprim-liquid-x-24gb-600px-v1300px.jpg", 
-		"Link": "https://www.evetech.co.za/msi-geforce-rtx-4090-suprim-liquid-x-24gb/best-deal/15792.aspx",
-		"Category": "graphics-cards"
-	},
-	{
 		"Id": "2D019",
 		"Name": "Intel Core i5-10400 2.9GHz 4.30GHz ...",
 		"Price": "4559",
@@ -2427,15 +843,6 @@
 		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1552302628/y8tceifvq6oehuum7alf.jpg", 
 		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-i5-7640x-kabylake-x/",
 		"Category": "processors"
-	},
-	{
-		"Id": "1D105",
-		"Name": "Gigabyte Geforce RTX 4090 Aorus Xtr...",
-		"Price": "47699",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1665744846/wtyhp185jla3s3taxnx9.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4090-aorus-xtreme-waterforce-24gb-gddr6x-pcie-4-0-nvidia-graphics-card/",
-		"Category": "graphics-cards"
 	},
 	{
 		"Id": "1F015",
@@ -2481,15 +888,6 @@
 		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1674487475/s2gncydt31zten9ox8rp.jpg", 
 		"Link": "https://www.dreamwaretech.co.za/p/amd-processors/product/amd-ryzen-5-7600-3-8ghz-up-to-4-1ghz-6c-12t-am5-socket-desktop-processor/",
 		"Category": "processors"
-	},
-	{
-		"Id": "1E043",
-		"Name": "Leadtek Quadro RTX A5000 24GB GDDR6",
-		"Price": "48999",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/leadtek-quadro-rtx-a5000-24gb-gddr6-600px-v1300px.jpg", 
-		"Link": "https://www.evetech.co.za/leadtek-quadro-rtx-a5000-24gb-gddr6/best-deal/11575.aspx",
-		"Category": "graphics-cards"
 	},
 	{
 		"Id": "2E013",
@@ -2706,15 +1104,6 @@
 		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1617097498/fxgujar15mk59sqkfkeu.png", 
 		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i5-11600k-3-9ghz-turbo-4-9ghz-6c-12t-lga1200-desktop-processor/",
 		"Category": "processors"
-	},
-	{
-		"Id": "1F064",
-		"Name": "PNY GeForce RTX A5000 24GB GDDR6 Graphics Card VCNRTXA5000-PB",
-		"Price": "62499",
-		"Available": "In stock with FirstShop",
-		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/vcnrtxa5000-pb-graphics-cards-32777497510052_300x.png?v=1642151131", 
-		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/pny-geforce-rtx-a5000-24gb-gddr6-graphics-card-vcnrtxa5000-pb-122576",
-		"Category": "graphics-cards"
 	},
 	{
 		"Id": "1D114",
@@ -3014,15 +1403,6 @@
 		"Category": "graphics-cards"
 	},
 	{
-		"Id": "1E044",
-		"Name": "Leadtek Quadro RTX A5500 24GB GDDR6",
-		"Price": "74999",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/leadtek-quadro-rtx-a5500-24gb-gddr6-600px-v1300px.jpg", 
-		"Link": "https://www.evetech.co.za/leadtek-quadro-rtx-a5500-24gb-gddr6/best-deal/15250.aspx",
-		"Category": "graphics-cards"
-	},
-	{
 		"Id": "1D025",
 		"Name": "Gigabyte GeForce GTX 1660 Super OC ...",
 		"Price": "7549",
@@ -3248,15 +1628,6 @@
 		"Category": "graphics-cards"
 	},
 	{
-		"Id": "2E001",
-		"Name": "Intel Dual Core Kaby Lake G3930 2.9GHz Desktop Processor",
-		"Price": "849",
-		"Available": "In Stock with Evetech",
-		"Image": "https://www.evetech.co.za/repository/components/intel-dual-core-kaby-lake-g3930-2-9ghz-desktop-processor-600px-v01300px.jpg", 
-		"Link": "https://www.evetech.co.za/intel-dual-core-kaby-lake-g3930-2-9ghz-desktop-processor/best-deal/3057.aspx",
-		"Category": "processors"
-	},
-	{
 		"Id": "2D052",
 		"Name": "Intel Core i7 12700K 3.6GHz (Turbo ...",
 		"Price": "8499",
@@ -3309,15 +1680,6 @@
 		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1628668742/mn8zmrvd5cjlcvhpokwg.png", 
 		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3060-eagle-oc-12gb-gddr6-pcie-4-0-nvidia-graphics-card/",
 		"Category": "graphics-cards"
-	},
-	{
-		"Id": "2D001",
-		"Name": "Intel Celeron G3930 (Kabylake) Proc...",
-		"Price": "869",
-		"Available": "In Stock With Supplier",
-		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1547552684/yolgciqaukr0enygr5aa.jpg", 
-		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-celeron-g3930-kabylake-processor/",
-		"Category": "processors"
 	},
 	{
 		"Id": "2D054",
@@ -3596,6 +1958,1644 @@
 		"Available": "In Stock with Evetech",
 		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-rtx-3060-gaming-x-12gb-600px-v2300px.jpg", 
 		"Link": "https://www.evetech.co.za/msi-geforce-rtx-3060-gaming-x-12gb/best-deal/11465.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D121",
+		"Name": "MSI Radeon RX 6650 XT GAMING X 8G G...",
+		"Price": "10149",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1653917577/zuloyqd9nrgn3t8vq12h.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/msi-radeon-rx-6650-xt-gaming-x-8g-gddr6-pcie-4-0-amd-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D040",
+		"Name": "MSI Geforce RTX 3060 Gaming X 12GB ...",
+		"Price": "10289",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1615462424/jcgectav8yaqkqhzin8m.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/msi-geforce-rtx-3060-gaming-x-12gb-gddr6-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F031",
+		"Name": "ASUS Phoenix V2 Nvidia GeForce RTX 3060 12GB DDR6 Graphics Card 90YV0GB4-M0NA10",
+		"Price": "10299",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0gb4-m0na10-graphics-cards-33086148837540_300x.png?v=1645538004", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-phoenix-v2-nvidia-geforce-rtx-3060-12gb-ddr6-graphics-card-90yv0gb4-m0na10-127762",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F032",
+		"Name": "Gigabyte GeForce RTX 3060 GAMING OC 12G NVIDIA 12 GB GDDR6",
+		"Price": "10299",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/gv-n3060gaming-oc-12gd-graphics-cards-31257182404772_300x.png?v=1632481915", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/gigabyte-geforce-rtx-3060-gaming-oc-12g-nvidia-12-gb-gddr6-122010",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D041",
+		"Name": "Asus TUF Gaming RTX 3060 OC 12GB LH...",
+		"Price": "10349",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1646663449/sxvgxomq3xkwizarsaqf.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-tuf-gaming-rtx-3060-oc-12gb-lhr-gddr6-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D042",
+		"Name": "Gigabyte Geforce RTX 3060 VISION OC...",
+		"Price": "10389",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1628840931/h8zkmyq2flkdng50rc8y.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3060-vision-oc-12gb-gddr6-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F033",
+		"Name": "MSI AMD Radeon RX 6650 XT Mech 2X 8G OC 8GB GDDR6 Graphics Card RX 6650 XT MECH 2X 8G OC",
+		"Price": "10499",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/rx-6650-xt-mech-2x-8g-oc-graphics-cards-34319595995300_300x.png?v=1657804989", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/msi-amd-radeon-rx-6650-xt-mech-2x-8g-oc-8gb-gddr6-graphics-card-rx-6650-xt-mech-2x-8g-oc-153565",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F034",
+		"Name": "Asus Dual AMD Radeon RX 6650 XT 8GB GDDR6 Graphics Card 90YV0HL0-M0NA00",
+		"Price": "10499",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0hl0-m0na00-graphics-cards-34649768165540_300x.png?v=1661257927", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-dual-amd-radeon-rx-6650-xt-8gb-gddr6-graphics-card-90yv0hl0-m0na00-155272",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F035",
+		"Name": "MSI RX 6600 XT Mech OCV1 8GB GDDR6 Graphic Card Radeon RX 6600 XT MECH 2X",
+		"Price": "10499",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/radeon-rx-6600-xt-mech-2x-graphics-cards-33878324347044_300x.png?v=1653899172", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/msi-rx-6600-xt-mech-ocv1-8gb-gddr6-graphic-card-radeon-rx-6600-xt-mech-2x-149430",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "2E027",
+		"Name": "Intel Core i9 12900F Processor",
+		"Price": "10739",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/intel-core-i9-12900f-processor-600px-v2300px.jpg", 
+		"Link": "https://www.evetech.co.za/intel-core-i9-12900f-processor/best-deal/14568.aspx",
+		"Category": "processors"
+	},
+	{
+		"Id": "1D043",
+		"Name": "Asus ROG Strix Geforce RTX 3050 Gam...",
+		"Price": "10869",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1651578746/v2hl6d2icuiwoptf2olb.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-rog-strix-geforce-rtx-3050-gaming-8gb-gddr6-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D044",
+		"Name": "Gigabyte Geforce RTX 3060 AORUS ELI...",
+		"Price": "10869",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1628840539/lkbwa5xbmrviezxdqa5b.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3060-aorus-elite-12gb-gddr6-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F036",
+		"Name": "MSI AMD Radeon RX 6650 XT Gaming X 8G 8GB GDDR6 Graphics Card RX 6650 XT GAMING X 8G",
+		"Price": "10899",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/rx-6650-xt-gaming-x-8g-graphics-cards-34319565914276_300x.png?v=1657804628", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/msi-amd-radeon-rx-6650-xt-gaming-x-8g-8gb-gddr6-graphics-card-rx-6650-xt-gaming-x-8g-153564",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "2D064",
+		"Name": "Intel Core i9 11900K 3.5 GHz (Turbo...",
+		"Price": "10969",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1617094072/xcbiiezneyrzj8aip5qx.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-11900k-3-5-ghz-turbo-5-3ghz-8c-16t-lga1200-desktop-processor/",
+		"Category": "processors"
+	},
+	{
+		"Id": "2D065",
+		"Name": "Intel Core i9 12900F 2.4GHz (Turbo ...",
+		"Price": "10979",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1645520268/fqkj9g2gb7fqkg7otz39.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-12900f-2-4ghz-turbo-5-1ghz-16c-24t-alder-lake-lga1700-desktop-processor/",
+		"Category": "processors"
+	},
+	{
+		"Id": "2D066",
+		"Name": "Intel Core i9 12900 2.4GHz (Turbo @...",
+		"Price": "10999",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1645518814/d0glv26qrttjmcnbjsz8.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-12900-2-4ghz-turbo-5-1ghz-16c-24t-alder-lake-lga1700-desktop-processor/",
+		"Category": "processors"
+	},
+	{
+		"Id": "2E028",
+		"Name": "AMD Ryzen 9 5950X Processor",
+		"Price": "10999",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/amd-ryzen-9-5950x-processor-600px-v2300px.jpg", 
+		"Link": "https://www.evetech.co.za/amd-ryzen-9-5950x-processor/best-deal/10536.aspx",
+		"Category": "processors"
+	},
+	{
+		"Id": "2D067",
+		"Name": "Intel i7-4960x (Ivybridge-E)",
+		"Price": "11059",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1547640667/nlomfohjebbnrmo8jaci.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-i7-4960x-ivybridge-e/",
+		"Category": "processors"
+	},
+	{
+		"Id": "2D117",
+		"Name": "AMD Ryzen 9 5950X 3.4GHz up to 4.9G...",
+		"Price": "11059",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1604571381/thhecam8sdtkbma5tre7.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/amd-processors/product/amd-ryzen-9-5950x-3-4ghz-up-to-4-9ghz-boost-16c-32t-am4-socket-desktop-processor/",
+		"Category": "processors"
+	},
+	{
+		"Id": "1F037",
+		"Name": "ASUS TUF Gaming GeForce RTX 3060 V2 OC Edition 12GB GDDR6 90YV0GC0-M0NA10",
+		"Price": "11100",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0gc0-m0na10-graphics-cards-32215719903396_300x.png?v=1637084855", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-tuf-gaming-geforce-rtx-3060-v2-oc-edition-12gb-gddr6-90yv0gc0-m0na10-127763",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "2D068",
+		"Name": "Intel i7-6900K (Broadwell-E)",
+		"Price": "11309",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1547717561/uhghcuijwnuco1rkf0na.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-i7-6900k-broadwell-e/",
+		"Category": "processors"
+	},
+	{
+		"Id": "1D045",
+		"Name": "Asus Geforce DUAL RTX 3060 Ti MINI ...",
+		"Price": "11479",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1632124824/crj40eiawwutqxifzjrs.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-geforce-dual-rtx-3060-ti-mini-v2-8gb-lhr-gddr6-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D046",
+		"Name": "Gigabyte GeForce RTX 3060 Ti EAGLE ...",
+		"Price": "11719",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1606917806/q46gu0uqqkqzcdb21co1.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3060-ti-eagle-oc-8g-lhr-gddr6-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D122",
+		"Name": "Gigabyte Radeon RX 6700 XT Eagle OC...",
+		"Price": "11839",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1617185946/kmvifyypzotyddqqyyx1.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-6700-xt-eagle-oc-12gb-gddr6-pcie-4-0-amd-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "2D069",
+		"Name": "Intel Core i9 12900KF 3.2GHz (Turbo...",
+		"Price": "11849",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1637323963/ai3yofyjrlpqbuueeb1d.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-12900kf-3-2ghz-turbo-5-2ghz-16c-24t-alder-lake-lga1700-desktop-processor/",
+		"Category": "processors"
+	},
+	{
+		"Id": "1D047",
+		"Name": "Asus DUAL Gefroce RTX 3060 Ti MINI ...",
+		"Price": "11929",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1646749593/vh0oltkscx65pfyr848c.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-dual-gefroce-rtx-3060-ti-mini-v2-oc-8gb-gddr6-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "2E029",
+		"Name": "Intel Core i9 13900F Processor",
+		"Price": "11949",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/intel-core-i9-13900f-processor-600px-v02300px.jpg", 
+		"Link": "https://www.evetech.co.za/intel-core-i9-13900f-processor/best-deal/16762.aspx",
+		"Category": "processors"
+	},
+	{
+		"Id": "1D123",
+		"Name": "Gigabyte Radeon RX 6700 XT Gaming O...",
+		"Price": "11959",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1617184894/ldokkvflmyoqnvhejajo.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-6700-xt-gaming-oc-12gb-gddr6-pcie-4-0-amd-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "2D070",
+		"Name": "Intel i9-13900F 5.6GHz 24 Core 32 T...",
+		"Price": "11959",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1674480332/adg1l43xozv34rzq5gy8.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-i9-13900f-5-6ghz-24-core-32-thread-lga1700-desktop-processor/",
+		"Category": "processors"
+	},
+	{
+		"Id": "2D071",
+		"Name": "Intel Core i9 12900K 3.2GHz (Turbo ...",
+		"Price": "11989",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1636032947/dsllsr9xbceayjzsozss.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-12900k-3-2ghz-turbo-5-2ghz-16-core-24-thread-lga1700-desktop-processor/",
+		"Category": "processors"
+	},
+	{
+		"Id": "2E030",
+		"Name": "Intel Core i9 12900KS Processor",
+		"Price": "11999",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/intel-core-i9-12900ks-processor-600px-v1300px.jpg", 
+		"Link": "https://www.evetech.co.za/intel-core-i9-12900ks-processor/best-deal/15338.aspx",
+		"Category": "processors"
+	},
+	{
+		"Id": "1D124",
+		"Name": "Gigabyte Radeon RX 6750 XT GAMING O...",
+		"Price": "12079",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1653920987/yuqo9ipynwarywa2rwjc.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-6750-xt-gaming-oc-12gb-gddr6-pcie-4-0-amd-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "2D118",
+		"Name": "AMD Ryzen 9 7950X 4.5GHz up to 5.7G...",
+		"Price": "12079",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1664276943/zzdkvo8yfcz1ycrcrnc2.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/amd-processors/product/amd-ryzen-9-7950x-4-5ghz-up-to-5-7ghz-16c-32t-am5-socket-desktop-processor/",
+		"Category": "processors"
+	},
+	{
+		"Id": "1F038",
+		"Name": "Gainward Nvidia GeForce RTX 3060 Ghost LHR 12GB GDDR6 Graphics Card GW-RTX3060-12GB-GH",
+		"Price": "12100",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/gw-rtx3060-12gb-gh-graphics-cards-35210751770788_300x.png?v=1666593482", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/gainward-nvidia-geforce-rtx-3060-ghost-lhr-12gb-gddr6-graphics-card-gw-rtx3060-12gb-gh-161585",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "2D072",
+		"Name": "Intel Core i9-9900X Skylake X 10-Co...",
+		"Price": "12179",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1614679482/od5i8boffseeffswmlu3.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-9900x-skylake-x-10-core-3-5-ghz-4-4-ghz-turbo-lga-2066-165w-desktop-processor/",
+		"Category": "processors"
+	},
+	{
+		"Id": "1E017",
+		"Name": "XFX Speedster MERC 319 AMD Radeon RX 6800 XT 16GB GPU",
+		"Price": "12299",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/xfx-speedster-merc-319-amd-radeon-rx-6800-xt-16gb-gpu-main-image-600px-v01300px.jpg", 
+		"Link": "https://www.evetech.co.za/xfx-speedster-merc-319-amd-radeon-rx-6800-xt-16gb-gpu/best-deal/17205.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F039",
+		"Name": "ASUS DUAL V2 Mini OC Nvidia GeForce RTX 3060 TI 8GB GDDR6 Graphics Card 90YV0FT2-M0NA00",
+		"Price": "12299",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0ft2-m0na00-graphics-cards-33086036607140_300x.png?v=1645536920", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-dual-v2-mini-oc-nvidia-geforce-rtx-3060-ti-8gb-gddr6-graphics-card-90yv0ft2-m0na00-127758",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "2E031",
+		"Name": "Intel Core i9 13900 Processor",
+		"Price": "12499",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/intel-core-i9-13900-processor-600px-v01300px.jpg", 
+		"Link": "https://www.evetech.co.za/intel-core-i9-13900-processor/best-deal/16763.aspx",
+		"Category": "processors"
+	},
+	{
+		"Id": "2D073",
+		"Name": "Intel i9-13900 5.6GHz 16 Core 32 Th...",
+		"Price": "12529",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1674480747/gysvdcpsf89r8gzcoegp.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-i9-13900-5-6ghz-16-core-32-thread-lga1700-desktop-processor/",
+		"Category": "processors"
+	},
+	{
+		"Id": "2D074",
+		"Name": "Intel Core i9 12900KS 3.4GHz (Turbo...",
+		"Price": "12919",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1649074839/rg3i1n9el1ajcbkotove.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-12900ks-3-4ghz-turbo-5-5ghz-16c-24t-alder-lake-lga1700-desktop-processor/",
+		"Category": "processors"
+	},
+	{
+		"Id": "2E032",
+		"Name": "AMD Ryzen 9 7950X Processor",
+		"Price": "12999",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/amd-ryzen-9-7950x-processor-600px-v1300px.jpg", 
+		"Link": "https://www.evetech.co.za/amd-ryzen-9-7950x-processor/best-deal/15616.aspx",
+		"Category": "processors"
+	},
+	{
+		"Id": "2E033",
+		"Name": "AMD Ryzen 9 7900X3D Processor",
+		"Price": "12999",
+		"Available": "Coming Soon",
+		"Image": "https://www.evetech.co.za/repository/components/amd-ryzen-9-7900x3d-processor-600px-v01300px.jpg", 
+		"Link": "https://www.evetech.co.za/amd-ryzen-9-7900x3d-processor/best-deal/17170.aspx",
+		"Category": "processors"
+	},
+	{
+		"Id": "1D125",
+		"Name": "ASUS Dual Radeon RX 6700 XT OC Edit...",
+		"Price": "13049",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1644839750/kfb3ybvbxmzibipkavcw.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/asus-dual-radeon-rx-6700-xt-oc-edition-12gb-gddr6-gaming-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "2D075",
+		"Name": "Intel Core i9-10900F 2.8GHz 5.2GHz ...",
+		"Price": "13169",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1596622159/rxw6sjmg9ny7urhjqgw3.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-10900f-2-8ghz-5-2ghz-boost-10-core-20-thread-comet-lake-desktop-processor/",
+		"Category": "processors"
+	},
+	{
+		"Id": "2D076",
+		"Name": "Intel i9-13900KF 5.8GHz 24 Core 32 ...",
+		"Price": "13219",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1666436445/naelqq1hmh4gpw4opbfn.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-i9-13900kf-5-8ghz-24-core-32-thread-lga1700-desktop-processor/",
+		"Category": "processors"
+	},
+	{
+		"Id": "2D077",
+		"Name": "Intel Core i9-10900KF 3.7GHz 5.3GHz...",
+		"Price": "13289",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1590406318/e2tvcf1z3rklvgdgk7xz.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-10900kf-3-7ghz-5-3ghz-boost-10-core-20-thread-comet-lake-unlocked-desktop-processor/",
+		"Category": "processors"
+	},
+	{
+		"Id": "2D078",
+		"Name": "Intel Core i9 11900F 2.5 GHz (Turbo...",
+		"Price": "13289",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1617101330/dz6d3ieb47z2cghj86sw.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-11900f-2-5-ghz-turbo-5-2ghz-8c-16t-lga1200-desktop-processor/",
+		"Category": "processors"
+	},
+	{
+		"Id": "2D079",
+		"Name": "Intel i9-7920x (Skylake-X)",
+		"Price": "13419",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1552303689/qyhhhdn5khazntqvum7b.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-i9-7920x-skylake-x/",
+		"Category": "processors"
+	},
+	{
+		"Id": "2D080",
+		"Name": "Intel Core i9 11900KF 3.5 GHz (Turb...",
+		"Price": "13419",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1617094572/zzhawhvlvhb3oyoz8ps1.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-11900kf-3-5-ghz-turbo-5-3ghz-8c-16t-lga1200-desktop-processor/",
+		"Category": "processors"
+	},
+	{
+		"Id": "1E018",
+		"Name": "MSI GeForce RTX 3070 Ti Ventus 3X 8GB OC",
+		"Price": "13499",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-rtx-3070-ti-ventus-3x-8gb-oc-600px-v4300px.jpg", 
+		"Link": "https://www.evetech.co.za/msi-geforce-rtx-3070-ti-ventus-3x-8gb-oc/best-deal/12356.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F040",
+		"Name": "MSI Ventus 3X OC LHR GeForce RTX 3060 Ti 8GB GDDR6 Graphics Card RTX 3060 Ti VENTUS 3X 8G OC LHR",
+		"Price": "13599",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/rtx-3060-ti-ventus-3x-8g-oc-lhr-graphics-cards-34211747430564_300x.png?v=1656595390", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/msi-ventus-3x-oc-lhr-geforce-rtx-3060-ti-8gb-gddr6-graphics-card-rtx-3060-ti-ventus-3x-8g-oc-lhr-152732",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "2D081",
+		"Name": "Intel i9-13900K 5.8GHz 24 Core 32 T...",
+		"Price": "13789",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1666435980/s0rpun6il4nyt899dh0v.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-i9-13900k-5-8ghz-24-core-32-thread-lga1700-desktop-processor/",
+		"Category": "processors"
+	},
+	{
+		"Id": "1D048",
+		"Name": "Gigabyte GeForce RTX 3060 Ti GAMING...",
+		"Price": "14009",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1647243107/thjthtnru4lf8izckoxa.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3060-ti-gaming-8gb-lhr-gddr6-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "2D082",
+		"Name": "Intel Core i9-10900 2.8GHz 5.2GHz B...",
+		"Price": "14039",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1596094366/we7eea87rqicprmtnlwt.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-10900-2-8ghz-5-2ghz-boost-10-core-20-thread-comet-lake-desktop-processor/",
+		"Category": "processors"
+	},
+	{
+		"Id": "1D049",
+		"Name": "Gigabyte GeForce RTX 3060 Ti GAMING...",
+		"Price": "14069",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1606918137/h1qlj8tql1ypmq0gcnxr.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3060-ti-gaming-oc-8gb-lhr-gddr6-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "2D083",
+		"Name": "Intel Core i9-10900K 3.7GHz 5.3GHz ...",
+		"Price": "14159",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1594910589/gepkz8dbruxyrwhswyyv.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-10900k-3-7ghz-5-3ghz-boost-10-core-20-thread-comet-lake-unlocked-desktop-processor/",
+		"Category": "processors"
+	},
+	{
+		"Id": "1D126",
+		"Name": "Gigabyte Radeon RX 6750 XT AORUS EL...",
+		"Price": "14249",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1653920508/t2azirk76yiwap4agrwp.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-6750-xt-aorus-elite-12gb-gddr6-pcie-4-0-amd-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F041",
+		"Name": "Asus Dual AMD Radeon RX 6750 XT 12GB GDDR6 Graphics Card 90YV0HK0-M0NA00",
+		"Price": "14399",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0hk0-m0na00-graphics-cards-34649770197156_300x.png?v=1661257933", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-dual-amd-radeon-rx-6750-xt-12gb-gddr6-graphics-card-90yv0hk0-m0na00-155271",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E019",
+		"Name": "Leadtek Quadro RTX A2000 12GB GDDR6",
+		"Price": "14999",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/leadtek-quadro-rtx-a2000-12gb-gddr6-600px-v1300px.jpg", 
+		"Link": "https://www.evetech.co.za/leadtek-quadro-rtx-a2000-12gb-gddr6/best-deal/13878.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "2E034",
+		"Name": "AMD Ryzen 9 7950X3D Processor",
+		"Price": "14999",
+		"Available": "Coming Soon",
+		"Image": "https://www.evetech.co.za/repository/components/amd-ryzen-9-7950x3d-processor-ryzen-processor-600px-v1300px.jpg", 
+		"Link": "https://www.evetech.co.za/amd-ryzen-9-7950x3d-processor/best-deal/17168.aspx",
+		"Category": "processors"
+	},
+	{
+		"Id": "1D050",
+		"Name": "Gigabyte Geforce RTX 3060 Ti VISION...",
+		"Price": "15279",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1628841798/m7ku8vx2d6xgqlllhimo.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3060-ti-vision-oc-8gb-lhr-gddr6-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "2D084",
+		"Name": "Intel Core i9-10900X 10 Core X-Seri...",
+		"Price": "15689",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1594908848/ijrjm3wrmcfzoqw6iiwu.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-10900x-10-core-x-series-lga2066-processor/",
+		"Category": "processors"
+	},
+	{
+		"Id": "1D051",
+		"Name": "Gigabyte Geforce RTX 3070 Ti Gaming...",
+		"Price": "15699",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1633935475/hkyigdavggckh8haxgpc.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3070-ti-gaming-oc-8gb-lhr-gddr6-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E020",
+		"Name": "MSI GeForce RTX 3070 Ti Gaming X TRIO 8GB",
+		"Price": "15999",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-rtx-3070-ti-gaming-x-trio-8gb-600px-v2300px.jpg", 
+		"Link": "https://www.evetech.co.za/msi-geforce-rtx-3070-ti-gaming-x-trio-8gb/best-deal/11994.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D052",
+		"Name": "Gigabyte Geforce RTX 3070 Eagle 8GB...",
+		"Price": "16149",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1603887038/gxopa84ifuoxsrj0fdes.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3070-eagle-8gb-gddr6-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D053",
+		"Name": "Gigabyte Geforce RTX 3070 Gaming OC...",
+		"Price": "16609",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1603887781/qelkkbujlsvcrs7ifdh0.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3070-gaming-oc-8gb-lhr-gddr6-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D127",
+		"Name": "ASUS TUF GAMING Radeon RX 6800 XT O...",
+		"Price": "16909",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1613375471/tnxwyl5mqkjvtm6ytqr4.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/asus-tuf-gaming-radeon-rx-6800-xt-oc-16gb-gddr6-pcie-4-0-amd-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "2D119",
+		"Name": "AMD Threadripper 2950X 16C/32T 3.5G...",
+		"Price": "17389",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1548428713/v61nzaqreq5hwoq1w8d5.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/amd-processors/product/amd-threadripper-2950x-16c-32t-3-5ghz-4-4ghz-boost-socket-str4-desktop-processor/",
+		"Category": "processors"
+	},
+	{
+		"Id": "1E021",
+		"Name": "XFX Speedster MERC 310 AMD Radeon RX 7900 XT 20GB GPU",
+		"Price": "17999",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/xfx-speedster-merc-310-amd-radeon-rx-7900-xt-20gb-gpu-main-image-600px-v01300px.jpg", 
+		"Link": "https://www.evetech.co.za/xfx-speedster-merc-310-amd-radeon-rx-7900-xt-20gb-gpu/best-deal/17206.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F042",
+		"Name": "ASUS TUF Gaming TUF-RX6800XT-O16G-GAMING AMD Radeon RX 6800 XT 16 GB GDDR6",
+		"Price": "18199",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0fl1-m0nm00-graphics-cards-31999451234468_300x.png?v=1635684639", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-tuf-gaming-tuf-rx6800xt-o16g-gaming-amd-radeon-rx-6800-xt-16-gb-gddr6-129131",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "2D085",
+		"Name": "Intel i7-6950X (Broadwell-E)",
+		"Price": "18629",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1547717568/gb0vr9nao9jflt8phu4d.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-i7-6950x-broadwell-e/",
+		"Category": "processors"
+	},
+	{
+		"Id": "1D054",
+		"Name": "Gigabyte GeForce RTX 4070 Ti Eagle ...",
+		"Price": "18779",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673957490/znxlld7utdbkrp02z5ye.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4070-ti-eagle-12gb-gddr6x-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E022",
+		"Name": "Palit GeForce RTX 4070 Ti GamingPro 12GB",
+		"Price": "18999",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/palit-geforce-rtx-4070-ti-gamingpro-12gb-600px-v3300px.jpg", 
+		"Link": "https://www.evetech.co.za/palit-geforce-rtx-4070-ti-gamingpro-12gb/best-deal/17128.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F043",
+		"Name": "PNY A2000 Nvidia 12GB RTX GDDR6 Graphics Card VCNRTXA2000-12GB-PB",
+		"Price": "18999",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/vcnrtxa2000-12gb-pb-graphics-cards-35471060893860_300x.png?v=1669811525", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/pny-a2000-nvidia-12gb-rtx-gddr6-graphics-card-vcnrtxa2000-12gb-pb-163161",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "2D086",
+		"Name": "Intel Core i9-10940X 14 Core X-Seri...",
+		"Price": "19129",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1594910060/nwebtvob6xrhiywyvu1l.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-10940x-14-core-x-series-lga2066-processor/",
+		"Category": "processors"
+	},
+	{
+		"Id": "1D055",
+		"Name": "Gigabyte Geforce RTX 3080 TURBO 10G...",
+		"Price": "19319",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1632388647/ltx8euolsg804mrlwoqm.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-turbo-10gb-lhr-gddr6-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D128",
+		"Name": "Gigabyte Radeon RX 6800 AORUS MASTE...",
+		"Price": "19319",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1628772635/yhc6kb7s0xhyl78zpogv.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-6800-aorus-master-16gb-gddr6-pcie-4-0-amd-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D056",
+		"Name": "Gigabyte Geforce RTX 3060 Ti AORUS ...",
+		"Price": "19449",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1628841237/h727yw4ozchxqyswou43.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3060-ti-aorus-elite-8gb-lhr-gddr6-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D129",
+		"Name": "Gigabyte Radeon RX 6800 XT GAMING O...",
+		"Price": "19569",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1628773425/byxelra5qnykkdv5igd0.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-6800-xt-gaming-oc-16gb-gddr6-pcie-4-0-amd-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D057",
+		"Name": "Gigabyte GeForce RTX 4070 Ti Eagle ...",
+		"Price": "19929",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673529834/mvq1lsvpkf9ilzcnmkzz.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4070-ti-eagle-oc-12gb-gddr6x-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D058",
+		"Name": "Gigabyte Geforce RTX 3080 EAGLE OC ...",
+		"Price": "20109",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1646750690/t5jnh687naqeriajf1kf.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-eagle-oc-10gb-gddr6x-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D059",
+		"Name": "GIGABYTE GeForce RTX 3080 EAGLE 12G...",
+		"Price": "20469",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1646738478/khwtxd6z5fpc9bnn2zcy.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-eagle-12g-gddr6x-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D060",
+		"Name": "Gigabyte Geforce RTX 3080 Ti EAGLE ...",
+		"Price": "20529",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1653488275/w9c60o4ugfbaqlr9rnz4.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-ti-eagle-oc-12gb-gddr6x-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D061",
+		"Name": "Gigabyte Geforce RTX 3080 Ti GAMING...",
+		"Price": "20529",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1628755581/qhrg4fysl5n1oqrefk8u.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-ti-gaming-oc-12gb-gddr6x-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D062",
+		"Name": "Gigabyte GeForce RTX 3080 GAMING OC...",
+		"Price": "20529",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1644414518/u6a5xessfeew0ha3yrkr.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-gaming-oc-12gb-gddr6x-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D063",
+		"Name": "Gigabyte Geforce RTX 3080 Ti VISION...",
+		"Price": "20649",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1628755098/nfhafrcjjyclhnubira4.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-ti-vision-oc-12gb-gddr6x-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D064",
+		"Name": "Gigabyte GeForce RTX 4070 Ti Gaming...",
+		"Price": "20769",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673530370/idmgbyligkfllj1niabm.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4070-ti-gaming-oc-12gb-gddr6x-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D065",
+		"Name": "Asus Geforce RTX 3080 TUF Gaming V2...",
+		"Price": "20799",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1599143075/v5497hktbu4cdvx2i4z6.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-geforce-rtx-3080-tuf-gaming-v2-oc-10gb-lhr-gddr6x-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D066",
+		"Name": "Gigabyte Geforce RTX 3070 Vision OC...",
+		"Price": "20829",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1603887404/mo2peeylzuuukdxamdvl.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3070-vision-oc-8gb-gddr6-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D067",
+		"Name": "Gigabyte Geforce RTX 3070 Aorus Mas...",
+		"Price": "20889",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1603888438/m2t3god1weludgw5y67r.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3070-aorus-master-8gb-lhr-gddr6-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E023",
+		"Name": "Leadtek Quadro RTX A4000 16GB GDDR6",
+		"Price": "20999",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/leadtek-quadro-rtx-a4000-16gb-gddr6-600px-v3300px.jpg", 
+		"Link": "https://www.evetech.co.za/leadtek-quadro-rtx-a4000-16gb-gddr6/best-deal/11734.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D068",
+		"Name": "Gigabyte Geforce RTX 3070 Ti AORUS ...",
+		"Price": "21079",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1628842200/hncnsvtudfioustksbwr.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3070-ti-aorus-master-8gb-gddr6-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D069",
+		"Name": "Gigabyte GeForce RTX 4070 Ti Aero O...",
+		"Price": "21349",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673956444/oosxupu8gwesimpdwwkm.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4070-ti-aero-oc-12gb-gddr6x-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E024",
+		"Name": "MSI GeForce RTX 4070 Ti Ventus 3X OC 12GB",
+		"Price": "21399",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/msi-rtx-4070-ti-ventus-3x-12g-graphics-card-600px-v1300px.jpg", 
+		"Link": "https://www.evetech.co.za/msi-geforce-rtx-4070-ti-ventus-3x-oc-12gb/best-deal/16784.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D070",
+		"Name": "Gigabyte GeForce RTX 4070 Ti Aorus ...",
+		"Price": "21739",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1675331375/seedwywwhak2toljvrzt.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4070-ti-aorus-elite-12gb-gddr6x-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D071",
+		"Name": "Asus GeForce RTX 4070 Ti Tuf Gaming...",
+		"Price": "21839",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1674016097/iclwls9bjtpkvfml7pdd.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-geforce-rtx-4070-ti-tuf-gaming-oc-12gb-gddr6x-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E025",
+		"Name": "MSI GeForce RTX 4070 Ti Gaming Trio 12GB",
+		"Price": "21999",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-rtx-4070-ti-gaming-trio-12gb-v2300px.jpg", 
+		"Link": "https://www.evetech.co.za/msi-geforce-rtx-4070-ti-gaming-trio-12gb/best-deal/17070.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D072",
+		"Name": "MSI GeForce RTX 4070 Ti Ventus 3X O...",
+		"Price": "22019",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673534303/kdg1427sr1vkbjc5dxnz.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/msi-geforce-rtx-4070-ti-ventus-3x-oc-12gb-gddr6x-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D130",
+		"Name": "Asus TUF Gaming Radeon RX 6900 XT O...",
+		"Price": "22069",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1613472567/riw03lmx58bihv9x6cc1.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/asus-tuf-gaming-radeon-rx-6900-xt-oc-16gb-gddr6-pcie-4-0-amd-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D073",
+		"Name": "Gigabyte GeForce RTX 3080 GAMING OC...",
+		"Price": "22099",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1600300733/nj2vxufngdluum2a8eny.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-gaming-oc-10gb-lhr-gddr6x-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D074",
+		"Name": "Gigabyte Geforce RTX 3080 VISION OC...",
+		"Price": "22099",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1601024049/sqvotaj8vr365xwo6kkr.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-vision-oc-10gb-gddr6x-pcie-4-0-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D075",
+		"Name": "Gigabyte Geforce RTX 3080 AORUS MAS...",
+		"Price": "22159",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1600325561/dybkeeojdeinpepyebtu.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-aorus-master-10gb-lhr-gddr6x-pcie-4-0-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E026",
+		"Name": "MSI GeForce RTX 4070 Ti Gaming X Trio 12GB",
+		"Price": "22199",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-rtx-4070-ti-gaming-x-trio-12gb-600px-v1300px.jpg", 
+		"Link": "https://www.evetech.co.za/msi-geforce-rtx-4070-ti-gaming-x-trio-12gb/best-deal/16781.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D076",
+		"Name": "MSI GeForce RTX 4070 Ti Gaming X Tr...",
+		"Price": "22219",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673535201/pxxvtksanbmdgldobajf.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/msi-geforce-rtx-4070-ti-gaming-x-trio-12gb-gddr6x-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D077",
+		"Name": "Gigabyte GeForce RTX 3080 AORUS MAS...",
+		"Price": "22219",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1644583994/blyjnvpiqqzakjxjsae8.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-aorus-master-12gb-gddr6-desktop-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E027",
+		"Name": "MSI Geforce RTX 4070 Ti Gaming X Trio White 12GB",
+		"Price": "22499",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-rtx-4070-ti-gaming-x-trio-white-12gb-main-image-600px-v01300px.jpg", 
+		"Link": "https://www.evetech.co.za/msi-geforce-rtx-4070-ti-gaming-x-trio-white-12gb/best-deal/17197.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F044",
+		"Name": "MSI Nvidia GeForce RTX 4070 Ti Ventus 3X 12G 12GB GDDR6X Graphics Card RTX 4070 TI VENTUS 3X 12G",
+		"Price": "22699",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/rtx-4070-ti-ventus-3x-12g-graphics-cards-42588391964836_300x.png?v=1678170355", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/msi-nvidia-geforce-rtx-4070-ti-ventus-3x-12g-12gb-gddr6x-graphics-card-rtx-4070-ti-ventus-3x-12g-165776",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D078",
+		"Name": "Asus TUF Gaming GeForce RTX 3080 Ti...",
+		"Price": "22739",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1646660254/pdzinqkame1wdlisr1al.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-tuf-gaming-geforce-rtx-3080-ti-oc-12gb-gddr6x-pcie-4-0-desktop-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D131",
+		"Name": "Gigabyte Radeon RX 7900 XT 20GB GDD...",
+		"Price": "22829",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673960161/bqfsehoqb5axhe9mri3n.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-7900-xt-20gb-gddr6-amd-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F045",
+		"Name": "Asus TUF Gaming GeForce RTX 4070 Ti 12GB GDDR6X Graphics Card 90YV0IJ1-M0NA00",
+		"Price": "22999",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0ij1-m0na00-graphics-cards-42435068493988_300x.png?v=1675234741", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-tuf-gaming-geforce-rtx-4070-ti-12gb-gddr6x-graphics-card-90yv0ij1-m0na00-164087",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F046",
+		"Name": "Gigabyte Nvidia GeForce RTX 4070 Ti AERO OC 12G 12GB GDDR6X Graphics Card GV-N407TAERO OC-12GD",
+		"Price": "22999",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/gv-n407taero-oc-12gd-graphics-cards-42583089610916_300x.png?v=1678093321", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/gigabyte-nvidia-geforce-rtx-4070-ti-aero-oc-12g-12gb-gddr6x-graphics-card-gv-n407taero-oc-12gd-165719",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F047",
+		"Name": "Asus TUF Gaming GeForce RTX 4070 Ti OC Edition 12GB GDDR6X Graphics Card 90YV0IJ0-M0NA00",
+		"Price": "23299",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0ij0-m0na00-graphics-cards-42435060629668_300x.png?v=1675234569", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-tuf-gaming-geforce-rtx-4070-ti-oc-edition-12gb-gddr6x-graphics-card-90yv0ij0-m0na00-164086",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D132",
+		"Name": "Gigabyte Radeon RX 6950 XT GAMING O...",
+		"Price": "23429",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1652267765/r84rmt8y5om4xslltuyc.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-6950-xt-gaming-oc-16gb-gddr6-pcie-4-0-amd-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F048",
+		"Name": "Gigabyte Aorus Nvidia GeForce RTX 4070 Ti Elite 12G 12GB GDDR6X Graphics Card GV-N407TAORUS E-12GD",
+		"Price": "23499",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/gv-n407taorus-e-12gd-graphics-cards-42583213113508_300x.png?v=1678095122", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/gigabyte-aorus-nvidia-geforce-rtx-4070-ti-elite-12g-12gb-gddr6x-graphics-card-gv-n407taorus-e-12gd-165721",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F049",
+		"Name": "ASUS TUF Gaming AMD Radeon RX 6900 XT OC 16GB GDDR6 90YV0GE0-M0NM00",
+		"Price": "23699",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0ge0-m0nm00-graphics-cards-32215724621988_300x.png?v=1637084504", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-tuf-gaming-amd-radeon-rx-6900-xt-oc-16gb-gddr6-90yv0ge0-m0nm00-125518",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "2D087",
+		"Name": "Intel Core i9-10980XE Xtreme Editio...",
+		"Price": "23849",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1594908166/yismdhfigj9jbdd6390h.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/intel-processors/product/intel-core-i9-10980xe-xtreme-edition-18-core-lga2066-processor/",
+		"Category": "processors"
+	},
+	{
+		"Id": "1D079",
+		"Name": "Gigabyte Geforce RTX 3080 Aorus Xtr...",
+		"Price": "23909",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1631880844/cnziykzzmz2fuszhle2m.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-aorus-xtreme-waterforce-10gb-lhr-gddr6x-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E028",
+		"Name": "XFX Speedster MERC 310 AMD Radeon RX 7900 XTX 24GB GPU",
+		"Price": "23999",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/xfx-speedster-merc-310-amd-radeon-rx-7900-xtx-24gb-gpu-main-image-600px-v021300px.jpg", 
+		"Link": "https://www.evetech.co.za/xfx-speedster-merc-310-amd-radeon-rx-7900-xtx-24gb-gpu/best-deal/17207.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D080",
+		"Name": "MSI GeForce RTX 4070 Ti Suprim X 12...",
+		"Price": "24149",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673966318/gxeewkba3ky7sw1i5ley.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/msi-geforce-rtx-4070-ti-suprim-x-12gb-gddr6x-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D133",
+		"Name": "Gigabyte Radeon RX 7900 XT Gaming O...",
+		"Price": "24149",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673963981/nbkdiuri1ghcudfcoefb.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-7900-xt-gaming-oc-20gb-gddr6-amd-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E029",
+		"Name": "MSI GeForce RTX 4070 Ti SUPRIM X 12GB",
+		"Price": "24149",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/msi-gaming-geforce-rtx-4070-ti-12gb-graphics-card-600px-v4300px.jpg", 
+		"Link": "https://www.evetech.co.za/msi-geforce-rtx-4070-ti-suprim-x-12gb/best-deal/16780.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F050",
+		"Name": "Gigabyte Aorus Master Nvidia GeForce RTX 4070 Ti 12G 12 GB GDDR6X Graphics Card GV-N407TAORUS M-12GD",
+		"Price": "24199",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/gv-n407taorus-m-12gd-graphics-cards-42583706960036_300x.png?v=1678101955", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/gigabyte-aorus-master-nvidia-geforce-rtx-4070-ti-12g-12-gb-gddr6x-graphics-card-gv-n407taorus-m-12gd-165724",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F051",
+		"Name": "ASUS TUF Gaming Nivida GeForce RTX 3080 TI 12GB GDDR6X Graphics Card 90YV0GU1-M0NM00",
+		"Price": "24499",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0gu1-m0nm00-graphics-cards-33086230266020_300x.png?v=1645538359", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-tuf-gaming-nivida-geforce-rtx-3080-ti-12gb-gddr6x-graphics-card-90yv0gu1-m0nm00-126141",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D134",
+		"Name": "Gigabyte Radeon RX 6800 XT AORUS MA...",
+		"Price": "24839",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1654525356/wmhxf1oic41hb8w4t4q8.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-6800-xt-aorus-master-16gb-gddr6-pcie-4-0-amd-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E030",
+		"Name": "Palit GeForce RTX 4080 16GB GDDR6X",
+		"Price": "24999",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/palit-geforce-rtx-4080-16gb-graphics-card-main-image-600px-v3300px.jpg", 
+		"Link": "https://www.evetech.co.za/palit-geforce-rtx-4080-16gb-gddr6x/best-deal/16844.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E031",
+		"Name": "ASUS ROG Strix LC RX 6900 XT 16GB Top Gaming",
+		"Price": "24999",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/asus-rog-strix-lc-rx-6900-xt-16gb-top-gaming-600px-v2300px.jpg", 
+		"Link": "https://www.evetech.co.za/asus-rog-strix-lc-rx-6900-xt-16gb-top-gaming/best-deal/12083.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F052",
+		"Name": "Asus AMD Radeon RX 7900 XT 20GB GDDR6 Graphics Card 90YV0IU0-U0NM00",
+		"Price": "25100",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0iu0-u0nm00-graphics-cards-42569739829412_300x.png?v=1677828715", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-amd-radeon-rx-7900-xt-20gb-gddr6-graphics-card-90yv0iu0-u0nm00-165646",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D135",
+		"Name": "Sapphire Radeon NITRO+ RX 6900 XT S...",
+		"Price": "25359",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1629284554/umbx4qymzmttbjpdkog1.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/sapphire-radeon-nitro-rx-6900-xt-se-16gb-gddr6-pcie-4-0-amd-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E032",
+		"Name": "Msi Radeon Rx 7900 XTX Gaming Trio Classic 24GB",
+		"Price": "25549",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/msi-radeon-rx-7900-xtx-gaming-trio-classic-24gb-main-image-600px-v01300px.jpg", 
+		"Link": "https://www.evetech.co.za/msi-radeon-rx-7900-xtx-gaming-trio-classic-24gb/best-deal/17196.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D084",
+		"Name": "MSI GeForce RTX 4080 Ventus 3X OC 1...",
+		"Price": "25999",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1668603551/q7wkgc8evit9ipqst0fx.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/msi-geforce-rtx-4080-ventus-3x-oc-16gb-gddr6x-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E033",
+		"Name": "Leadtek WinFast RTX 4080 HURRICANE 16GB",
+		"Price": "25999",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/leadtek-winfast-rtx-4080-hurricane-16gb-main-image-600px-v1300px.jpg", 
+		"Link": "https://www.evetech.co.za/leadtek-winfast-rtx-4080-hurricane-16gb/best-deal/16685.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F053",
+		"Name": "MSI GeForce RTX 4070 Ti Suprim X 12G 12GB GDDR6X Graphics Card RTX 4070 TI SUPRIM X 12G",
+		"Price": "25999",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/rtx-4070-ti-suprim-x-12g-graphics-cards-42470281117860_300x.png?v=1675925411", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/msi-geforce-rtx-4070-ti-suprim-x-12g-12gb-gddr6x-graphics-card-rtx-4070-ti-suprim-x-12g-164575",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D136",
+		"Name": "Gigabyte Radeon RX 7900 XTX 24GB GD...",
+		"Price": "26089",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673961043/hof3sxv2uoq5ix1tyg5n.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-7900-xtx-24gb-gddr6-amd-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D081",
+		"Name": "Gigabyte GeForce RTX 3080 AORUS XTR...",
+		"Price": "26149",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1646811779/e2a2jioelol8jqi33fvn.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-aorus-xtreme-waterforce-wb-10gb-gddr6x-pcie-4-0-desktop-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D137",
+		"Name": "Gigabyte Radeon RX 7900 XTX Gaming ...",
+		"Price": "26209",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673965358/hzcldcxes2cwsfwhaqva.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/gigabyte-radeon-rx-7900-xtx-gaming-oc-24gb-gddr6-amd-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D138",
+		"Name": "Asus ROG Strix RX 6800 XT Liquid Co...",
+		"Price": "26369",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1613374374/r3gq5lewnc8sfx9temhz.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/amd-graphics-cards/product/asus-rog-strix-rx-6800-xt-liquid-cooled-gaming-oc-16gb-gddr6-pcie-4-0-amd-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D091",
+		"Name": "MSI Geforce RTX 4080 Gaming X Trio ...",
+		"Price": "26999",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1668521238/wraolwgfa3a2yxtswjwd.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/msi-geforce-rtx-4080-gaming-x-trio-16gb-gddr6x-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E034",
+		"Name": "MSI GeForce RTX 4080 16GB GAMING X TRIO 16GB Graphics Card",
+		"Price": "26999",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-rtx-4080-16gb-gaming-x-trio-16gb-graphics-card-main-image-600px-v11300px.jpg", 
+		"Link": "https://www.evetech.co.za/msi-geforce-rtx-4080-16gb-gaming-x-trio-16gb-graphics-card/best-deal/16376.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D082",
+		"Name": "Gigabyte GeForce RTX 4080 Eagle 16G...",
+		"Price": "27289",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673528617/sfqgpipzuvxk0r5qgafn.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4080-eagle-16gb-gddr6x-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D083",
+		"Name": "Gigabyte GeForce RTX 3080 AORUS XTR...",
+		"Price": "27779",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1647246412/xipymxk4mhq8qszhc49b.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-aorus-xtreme-waterforce-12gb-gddr6x-aio-240mm-radiator-pcie-4-0-desktop-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E035",
+		"Name": "MSI RTX 4080 16GB VENTUS 3X OC 16GB Graphics Card",
+		"Price": "27899",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/msi-rtx-4080-16gb-ventus-3x-oc-16gb-graphics-card-main-image-600px-v1300px.jpg", 
+		"Link": "https://www.evetech.co.za/msi-rtx-4080-16gb-ventus-3x-oc-16gb-graphics-card/best-deal/16375.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D094",
+		"Name": "MSI GeForce RTX 4080 Suprim X 16GB ...",
+		"Price": "27999",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673533153/uycb80sun7dlepvuxtze.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/msi-geforce-rtx-4080-suprim-x-16gb-gddr6x-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D085",
+		"Name": "Gigabyte Geforce RTX 3090 Ti GAMING...",
+		"Price": "28019",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1651139695/ip8bvbwgiwwtkdk8ac6j.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3090-ti-gaming-24gb-gddr6x-384-bit-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D086",
+		"Name": "Gigabyte Geforce RTX 3090 Ti GAMING...",
+		"Price": "28139",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1649686494/sig9mzbidd9fjadn6hal.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3090-ti-gaming-oc-24gb-gddr6x-384-bit-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D087",
+		"Name": "Gigabyte GeForce RTX 4080 Eagle OC ...",
+		"Price": "28199",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1668608371/otummvylth2awin1hzce.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4080-eagle-oc-16gb-gddr6x-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D088",
+		"Name": "Gigabyte GeForce RTX 4080 Gaming OC...",
+		"Price": "28259",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1668606843/oarmp8rj74zjawdcd4w7.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4080-gaming-oc-16gb-gddr6x-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D089",
+		"Name": "Gigabyte GeForce RTX 4080 Aero OC 1...",
+		"Price": "28849",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1668605950/mzcihsgdnkzwwrnlmgbk.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4080-aero-oc-16gb-gddr6x-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D090",
+		"Name": "MSI GeForce RTX 4080 Gaming Trio 16...",
+		"Price": "28859",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673533737/mauvij973d1wpw16t9nb.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/msi-geforce-rtx-4080-gaming-trio-16gb-gddr6x-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E036",
+		"Name": "MSI GeForce RTX 4080 16GB GAMING X TRIO 16GB White",
+		"Price": "28999",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-rtx-4080-16gb-gaming-x-trio-16gb-white-nvidia-gpu-600px-v1300px.jpg", 
+		"Link": "https://www.evetech.co.za/msi-geforce-rtx-4080-16gb-gaming-x-trio-16gb-white/best-deal/17198.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D092",
+		"Name": "Gigabyte GeForce RTX 4080 Aorus Mas...",
+		"Price": "29229",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673529252/hqxtyuidh69ctjfcb5c4.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4080-aorus-master-16gb-gddr6x-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D093",
+		"Name": "Asus GeForce RTX 4080 TUF Gaming OC...",
+		"Price": "29349",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1668691255/rwjizat4audbulhsul7f.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-geforce-rtx-4080-tuf-gaming-oc-16gb-gddr6x-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E037",
+		"Name": "MSI GeForce RTX 4080 16GB SUPRIM X 16GB Graphics Card",
+		"Price": "29899",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-rtx-4080-16gb-suprim-x-16gb-graphics-card-main-image-600px-v1300px.jpg", 
+		"Link": "https://www.evetech.co.za/msi-geforce-rtx-4080-16gb-suprim-x-16gb-graphics-card/best-deal/16377.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D095",
+		"Name": "Asus GeForce RTX 4080 Tuf Gaming 16...",
+		"Price": "30089",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673525271/q4tpebuhtdwqaktgyqnl.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-geforce-rtx-4080-tuf-gaming-16gb-gddr6x-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F054",
+		"Name": "Gigabyte GeForce RTX 4080 Gaming OC 16GB GDDR6X Graphics Card GV-N4080GAMING OC-16GD",
+		"Price": "30499",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/gv-n4080gaming-oc-16gd-graphics-cards-42435896803492_300x.png?v=1675244468", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/gigabyte-geforce-rtx-4080-gaming-oc-16gb-gddr6x-graphics-card-gv-n4080gaming-oc-16gd-164151",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F055",
+		"Name": "Gigabyte GeForce RTX 4080 Aero OC 16GB GDDR6X Graphics Card GV-N4080AERO OC-16GD",
+		"Price": "30999",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/gv-n4080aero-oc-16gd-graphics-cards-42435935207588_300x.png?v=1675245553", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/gigabyte-geforce-rtx-4080-aero-oc-16gb-gddr6x-graphics-card-gv-n4080aero-oc-16gd-164146",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F056",
+		"Name": "MSI GeForce RTX 4080 Gaming X Trio 16GB GDDR6X Graphics Card RTX 4080 16GB GAMING TRIO",
+		"Price": "31100",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/rtx-4080-16gb-gaming-trio-graphics-cards-42470275907748_300x.png?v=1675925218", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/msi-geforce-rtx-4080-gaming-x-trio-16gb-gddr6x-graphics-card-rtx-4080-16gb-gaming-trio-164574",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D096",
+		"Name": "Gigabyte GeForce RTX 3080 AORUS XTR...",
+		"Price": "31509",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1647247506/mjxbexmh5fnbrjud261b.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3080-aorus-xtreme-waterforce-wb-12gb-gddr6x-pcie-4-0-desktop-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F057",
+		"Name": "Asus TUF Gaming GeForce RTX 4080 OC Edition 16GB GDDR6X Graphics Card 90YV0IB0-M0NA00",
+		"Price": "31599",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0ib0-m0na00-graphics-cards-42435021111460_300x.png?v=1675234017", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-tuf-gaming-geforce-rtx-4080-oc-edition-16gb-gddr6x-graphics-card-90yv0ib0-m0na00-164081",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F058",
+		"Name": "Gigabyte Aorus GeForce RTX 4080 Master 16GB GDDR6X Graphics Card GV-N4080AORUS M-16GD",
+		"Price": "31599",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/gv-n4080aorus-m-16gd-graphics-cards-42435890512036_300x.png?v=1675244292", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/gigabyte-aorus-geforce-rtx-4080-master-16gb-gddr6x-graphics-card-gv-n4080aorus-m-16gd-164148",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D097",
+		"Name": "Asus GeForce ROG RTX 4080 Strix Gam...",
+		"Price": "31909",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1668690501/hxeo1zt3lls1nytvdjgo.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-geforce-rog-rtx-4080-strix-gaming-oc-16gb-gddr6x-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F059",
+		"Name": "MSI GeForce RTX 4080 Suprim X 16GB GDDR6X Graphics Card RTX 4080 16GB SUPRIM X",
+		"Price": "32199",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/rtx-4080-16gb-suprim-x-graphics-cards-42470267420836_300x.png?v=1675925044", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/msi-geforce-rtx-4080-suprim-x-16gb-gddr6x-graphics-card-rtx-4080-16gb-suprim-x-164573",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F060",
+		"Name": "Asus TUF Gaming GeForce RTX 4080 16GB GDDR6X Graphics Card 90YV0IB1-M0NA00",
+		"Price": "32399",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0ib1-m0na00-graphics-cards-42435026813092_300x.png?v=1675234216", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-tuf-gaming-geforce-rtx-4080-16gb-gddr6x-graphics-card-90yv0ib1-m0na00-164082",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F061",
+		"Name": "GIGABYTE Nvidia GeForce RTX 3090 GV-N3090Gaming OC-24GD Graphics Card - RTX3090 24GB GDDR6X GV-N3090GAMING OC-24GD",
+		"Price": "33199",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/gv-n3090gaming-oc-24gd-graphics-cards-20742205866148_300x.png?v=1632050987", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/gigabyte-nvidia-geforce-rtx-3090-gv-n3090gaming-oc-24gd-graphics-card-rtx3090-24gb-gddr6x-gv-n3090gaming-oc-24gd-97337",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F062",
+		"Name": "Asus ROG Strix Gaming GeForce RTX 4080 OC Edition 16GB GDDR6X Graphics Card 90YV0IC0-M0NA00",
+		"Price": "33999",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0ic0-m0na00-graphics-cards-42435036348580_300x.png?v=1675234197", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-rog-strix-gaming-geforce-rtx-4080-oc-edition-16gb-gddr6x-graphics-card-90yv0ic0-m0na00-164083",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D098",
+		"Name": "Gigabyte Geforce RTX 3090 Ti AORUS ...",
+		"Price": "34899",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1651140253/ywijqyqfbdlcbeoytr36.png", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-3090-ti-aorus-xtreme-waterforce-24gb-gddr6x-pcie-4-0-384-bit-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E038",
+		"Name": "Leadtek Quadro RTX A4500 20GB GDDR6",
+		"Price": "35999",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/leadtek-quadro-rtx-a4500-20gb-gddr6-600px-v1300px.jpg", 
+		"Link": "https://www.evetech.co.za/leadtek-quadro-rtx-a4500-20gb-gddr6/best-deal/13982.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D099",
+		"Name": "Gigabyte GeForce RTX 4080 Aorus Xtr...",
+		"Price": "37079",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1673967875/rgpavipakf3e6x0ilndr.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4080-aorus-xtreme-waterforce-16gb-gddr6x-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E039",
+		"Name": "Leadtek WinFast RTX 4090 HURRICANE 24GB",
+		"Price": "38999",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/leadtek-winfast-rtx-4090-hurricane-24gb-main-image-600px-v1300px.jpg", 
+		"Link": "https://www.evetech.co.za/leadtek-winfast-rtx-4090-hurricane-24gb/best-deal/16684.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D100",
+		"Name": "ASUS GeForce ROG Strix RTX 3080 Gam...",
+		"Price": "39069",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1646733775/zpsv4tfcey0e0nzoizsz.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-geforce-rog-strix-rtx-3080-gaming-oc-12gb-gddr6x-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D101",
+		"Name": "Gigabyte Geforce RTX 4090 Gaming OC...",
+		"Price": "41179",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1665490385/qfyarlyxdy833aznh9ol.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4090-gaming-oc-24gb-gddr6x-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D102",
+		"Name": "Gigabyte Geforce RTX 4090 Aorus Mas...",
+		"Price": "41419",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1665489815/pncziogpijj9ozjjzdqs.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4090-aorus-master-24gb-gddr6x-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E040",
+		"Name": "MSI GeForce RTX 4090 GAMING X TRIO 24GB",
+		"Price": "41999",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-rtx-4090-gaming-x-trio-24gb-600px-v1300px.jpg", 
+		"Link": "https://www.evetech.co.za/msi-geforce-rtx-4090-gaming-x-trio-24gb/best-deal/15791.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D103",
+		"Name": "Asus Geforce RTX 4090 TUF Gaming OC...",
+		"Price": "42069",
+		"Available": "Limited Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1665738533/hinyfmmjxmmyhzeukxsz.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/asus-geforce-rtx-4090-tuf-gaming-oc-26gb-gddr6x-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D104",
+		"Name": "Gigabyte Geforce RTX 4090 Windforce...",
+		"Price": "42109",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1665739741/ausl6gufjnwswmblike0.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4090-windforce-24gb-gddr6x-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E041",
+		"Name": "MSI GeForce RTX 4090 SUPRIM X 24GB",
+		"Price": "42999",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-rtx-4090-suprim-x-24gb-600px-v1300px.jpg", 
+		"Link": "https://www.evetech.co.za/msi-geforce-rtx-4090-suprim-x-24gb/best-deal/16786.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F063",
+		"Name": "Asus ROG Strix Nvidia GeForce RTX 4090 24GB GDDR6X Graphics Card 90YV0ID0-M0NA00",
+		"Price": "44499",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/90yv0id0-m0na00-graphics-cards-42506242392228_300x.png?v=1676618217", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/asus-rog-strix-nvidia-geforce-rtx-4090-24gb-gddr6x-graphics-card-90yv0id0-m0na00-164875",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E042",
+		"Name": "MSI GeForce RTX 4090 Suprim Liquid X 24GB",
+		"Price": "45499",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/msi-geforce-rtx-4090-suprim-liquid-x-24gb-600px-v1300px.jpg", 
+		"Link": "https://www.evetech.co.za/msi-geforce-rtx-4090-suprim-liquid-x-24gb/best-deal/15792.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1D105",
+		"Name": "Gigabyte Geforce RTX 4090 Aorus Xtr...",
+		"Price": "47699",
+		"Available": "In Stock With Supplier",
+		"Image": "https://res.cloudinary.com/dvv9fvblr/image/fetch/f_auto,w_300/https://res.cloudinary.com/dvv9fvblr/image/upload/v1665744846/wtyhp185jla3s3taxnx9.jpg", 
+		"Link": "https://www.dreamwaretech.co.za/p/nvidia-graphics-cards/product/gigabyte-geforce-rtx-4090-aorus-xtreme-waterforce-24gb-gddr6x-pcie-4-0-nvidia-graphics-card/",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E043",
+		"Name": "Leadtek Quadro RTX A5000 24GB GDDR6",
+		"Price": "48999",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/leadtek-quadro-rtx-a5000-24gb-gddr6-600px-v1300px.jpg", 
+		"Link": "https://www.evetech.co.za/leadtek-quadro-rtx-a5000-24gb-gddr6/best-deal/11575.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F064",
+		"Name": "PNY GeForce RTX A5000 24GB GDDR6 Graphics Card VCNRTXA5000-PB",
+		"Price": "62499",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/vcnrtxa5000-pb-graphics-cards-32777497510052_300x.png?v=1642151131", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/pny-geforce-rtx-a5000-24gb-gddr6-graphics-card-vcnrtxa5000-pb-122576",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1E044",
+		"Name": "Leadtek Quadro RTX A5500 24GB GDDR6",
+		"Price": "74999",
+		"Available": "In Stock with Evetech",
+		"Image": "https://www.evetech.co.za/repository/components/leadtek-quadro-rtx-a5500-24gb-gddr6-600px-v1300px.jpg", 
+		"Link": "https://www.evetech.co.za/leadtek-quadro-rtx-a5500-24gb-gddr6/best-deal/15250.aspx",
+		"Category": "graphics-cards"
+	},
+	{
+		"Id": "1F065",
+		"Name": "PNY Nvidia A40 48GB GDDR6 Graphics Card TCSA40M-PB",
+		"Price": "116699",
+		"Available": "In stock with FirstShop",
+		"Image": "https://cdn.shopify.com/s/files/1/0457/5893/9300/products/tcsa40m-pb-graphics-cards-34212267589796_300x.png?v=1656597369", 
+		"Link": "https://www.firstshop.co.za/collections/graphics-cards/products/pny-nvidia-a40-48gb-gddr6-graphics-card-tcsa40m-pb-139882",
 		"Category": "graphics-cards"
 	}
 ]
