@@ -10,16 +10,11 @@ export function loadHeaderFooter(headerElement, footerElement) {
     const cartLink = document.createElement("a");
     const cartIcon = document.createElement("img");
 
-    if (location == "home") {
-        cartLink.setAttribute("href", "cart/");
-        logo.setAttribute("src", "images/logo.png");
-        cartIcon.setAttribute("src", "images/cart.png");
-    } else {
-        logoLink.setAttribute("href", "../");
-        cartLink.setAttribute("href", "../cart/");
-        logo.setAttribute("src", "../images/logo.png");
-        cartIcon.setAttribute("src", "../images/cart.png");
-    }
+    logoLink.setAttribute("href", "/techtroll/");
+    cartLink.setAttribute("href", "/techtroll/cart/");
+    logo.setAttribute("src", "/techtroll/images/logo.png");
+    cartIcon.setAttribute("src", "/techtroll/images/cart.png");
+
 
     logoLink.className = "logo";
     logo.setAttribute("alt", "Tech Troll Logo");
@@ -27,9 +22,7 @@ export function loadHeaderFooter(headerElement, footerElement) {
     welcome.textContent = "Welcome to Tech Troll";
 
     cartLink.className = "cart-icon";
-    cartIcon.setAttribute("alt", "Cart");
-    cartLink.appendChild(cartIcon);
-    // cartLink.textContent = "Cart";
+    cartLink.innerHTML = "&#x1F6D2;";
 
     logoLink.appendChild(logo);
 
@@ -99,7 +92,7 @@ export function loadNavigation(parentElement) {
 
 function getLocation() {
     let url = window.location.href;
-    if (url.split("/") == "index.html" || url.split("/")[4] == "") {
+    if (url.split("/")[4] == "index.html" || url.split("/")[4] == "") {
         return ["home"];
     } else if (url.split("/")[4] == "product-list") {
         return ["product-list", url.split("/")[5].split("=")[1]];
