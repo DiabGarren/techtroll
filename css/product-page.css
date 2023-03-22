@@ -1,0 +1,24 @@
+.product-page {
+    margin-inline: auto;
+    max-width: 900px;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+.product-page_image-container {
+    background: white;
+}
+
+.product-page_info a {
+    display: block;
+    margin: .5rem 0;
+    padding: .3rem 0;
+    text-align: center;
+    color: white;
+    background: var(--link-bg);
+    border-radius: 10px;
+}
+
+.product-page_info a:hover {
+    background: var(--link-hover);
+}

@@ -44,13 +44,13 @@
     text-align: center;
     margin: .6rem 0 0 0;
     padding: 0.5em;
-    background: var(--nav);
+    background: var(--link-bg);
     color: white;
     border-radius: 0 0 10px 10px;
 }
 
 .product-btn:hover {
-    background: var(--nav-hover);
+    background: var(--link-hover);
 }
 
 @media only screen and (min-width: 768px) {

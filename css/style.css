@@ -2,6 +2,7 @@
 @import url("nav.css");
 @import url("main.css");
 @import url("product-list.css");
+@import url("product-page.css");
 @import url("footer.css");
 
 :root {
@@ -11,6 +12,9 @@
     --nav-active: #016cd6;
     --main-header: #7506cf;
     --bg-color: #e7e7ff;
+
+    --link-bg: var(--nav);
+    --link-hover: var(--nav-hover);
 }
 
 body {
