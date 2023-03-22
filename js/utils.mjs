@@ -128,3 +128,7 @@ export function getCartLength() {
     })
     return length;
 }
+
+export function updateCartIcon() {
+    document.querySelector(".cart-length").innerHTML = getCartLength();
+}
