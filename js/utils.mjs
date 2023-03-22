@@ -137,7 +137,7 @@ export function formatPrice(price) {
     let outputTotal = '';
     for (let i = 1; i <= String(price).length; i++) {
         outputTotal = String(price)[String(price).length - i] + outputTotal;
-        if (i % 3 == 0) {
+        if (i % 3 == 0 && i != String(price).length) {
             outputTotal = "," + outputTotal;
         }
     }
