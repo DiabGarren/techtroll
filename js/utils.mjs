@@ -132,3 +132,14 @@ export function getCartLength() {
 export function updateCartIcon() {
     document.querySelector(".cart-length").innerHTML = getCartLength();
 }
+
+export function formatPrice(price) {
+    let outputTotal = '';
+    for (let i = 1; i <= String(price).length; i++) {
+        outputTotal = String(price)[String(price).length - i] + outputTotal;
+        if (i % 3 == 0) {
+            outputTotal = "," + outputTotal;
+        }
+    }
+    return outputTotal;
+}

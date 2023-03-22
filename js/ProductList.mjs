@@ -1,3 +1,5 @@
+import { formatPrice } from "./utils.mjs";
+
 export default class ProductList {
     constructor(category, dataSource) {
         this.category = category;
@@ -21,7 +23,7 @@ export default class ProductList {
                     </a>
                     <div class="product-list_info">
                         <a class="product-list_name" href="../product/?id=${item.Id}">${item.Name}</a>
-                        <p class="product-list_price">R${item.Price}</p>
+                        <p class="product-list_price">R${formatPrice(item.Price)}</p>
                     </div>
                     <a class="product-list_btn" href="../product/?id=${item.Id}">View Item</a>
                 </div>`;

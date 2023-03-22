@@ -1,4 +1,4 @@
-import { setLocalStorage, getLocalStorage } from "./utils.mjs";
+import { setLocalStorage, getLocalStorage, formatPrice } from "./utils.mjs";
 
 export default class Product {
     constructor(productId, dataScource) {
@@ -22,7 +22,7 @@ export default class Product {
                     </a>
                     <div class="product-page_info">
                         <h3 class="product-page_name">${item.Name}</h3>
-                        <p class="product-page_price">R${item.Price}</p>
+                        <p class="product-page_price">R${formatPrice(item.Price)}</p>
                         <p class="product-page_available">${item.Available}</p>
                         <a class="product-page_add-cart-btn">Add to Cart</a>
                         <a class="product-page_view-item" href="${item.Link}" target="_blank">View Original Page</a>

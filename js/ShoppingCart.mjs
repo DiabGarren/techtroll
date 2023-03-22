@@ -1,38 +1,35 @@
-import { getLocalStorage, setLocalStorage } from "./utils.mjs";
+import { formatPrice, getLocalStorage, setLocalStorage } from "./utils.mjs";
 
 export default class Cart {
     constructor(parentElement) {
         this.parentElement = parentElement;
     }
-    
+
     renderCart() {
         const cart = getLocalStorage("cart");
         const wrapper = document.querySelector(this.parentElement);
         let total = 0;
         let output = `<h2 class="page-header">Cart</h2>
-        <div class="product-list">`;
+        <div class="cart-page">`;
         if (!cart.length) {
             output += `<h3 class="page-header">Your cart is empty</h3>`;
         } else {
             cart.forEach((item) => {
                 output +=
-                    `<div class="cart-box">
-                    <a class="cart_image-container" href="../product/?id=${item.Id}">
-                        <img class="cart_image" src="${item.Image}" alt="${item.Name}" />
-                    </a>
-                    <div class="cart-info">
-                        <a class="cart_name" href="../product/?id=${item.Id}">${item.Name}</a>
-                        <p class="cart_price">R${item.Price}</p>
-                        <p class="cart_qty">Qty: ${item.Quantity}</p>
-                    </div>
-                    <a class="cart_remove-item" id="${item.Id}">X</a>
-                </div>`;
+                    `<div class="cart_box">
+                        <a class="cart_image-container" href="../product/?id=${item.Id}">
+                            <img class="cart_image" src="${item.Image}" alt="${item.Name}" />
+                        </a>
+                        <div class="cart_info">
+                            <a class="cart_name" href="../product/?id=${item.Id}">${item.Name}</a>
+                            <p class="cart_price">R${formatPrice(item.Price)}</p>
+                            <p class="cart_qty">Qty: ${item.Quantity}</p>
+                        </div>
+                        <a class="cart_remove-item" id="${item.Id}">X</a>
+                    </div>`;
                 total += parseFloat(item.Price) * item.Quantity;
             })
-            output += `</div>
-            <div class="cart-total">Total: R`;
-            output += total.toFixed(2);
-
+            output += `<div class="cart_total">Total: R${formatPrice(total)}</div></div>`;
         }
         wrapper.innerHTML = output;
     }
