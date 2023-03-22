@@ -34,22 +34,28 @@ export default class ProductList {
     }
 
     search(keyword, productList, parentElement) {
-        if(keyword.length == 0) {
+        const newList = [];
+        if (keyword.length == 0) {
             this.renderProductList(productList, parentElement);
         } else {
-            const newList = [];
             productList.forEach(product => {
-                if(product.Name.toUpperCase().includes(keyword.toUpperCase())){
+                if (product.Name.toUpperCase().includes(keyword.toUpperCase())) {
                     newList.push(product);
                 }
             });
-
+            
             if (newList.length == 0) {
                 document.querySelector(parentElement).innerHTML = `<h2 class="product-category">${this.category[0].toUpperCase()}${this.category.substring(1, this.category.length).replace("-", " ")}</h2>
                 <h3 class="product_none">No products found</h3>`;
             } else {
-            this.renderProductList(newList, parentElement);
+                this.renderProductList(newList, parentElement);
             }
         }
+        return newList;
+    }
+
+    sort(productList, parentElement) {
+        productList.reverse();
+        this.renderProductList(productList, parentElement);
     }
 }
