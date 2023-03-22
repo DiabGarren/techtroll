@@ -23,7 +23,7 @@ export default class Cart {
                     <div class="cart-info">
                         <a class="cart_name" href="../product/?id=${item.Id}">${item.Name}</a>
                         <p class="cart_price">R${item.Price}</p>
-                        <p class="cart_qty">${item.Quantity}</p>
+                        <p class="cart_qty">Qty: ${item.Quantity}</p>
                     </div>
                     <a class="cart_remove-item" id="${item.Id}">X</a>
                 </div>`;
