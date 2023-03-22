@@ -31,9 +31,26 @@ header h1 {
 }
 
 .cart-icon {
-    display: block;
     text-align: right;
     padding: 0 5px;
+    font-size: 2rem;
+}
+
+.cart-length {
+    margin: 0;
+    padding: 5px 9px;
+    font-size: 1rem;
+    position: absolute;
+    background: var(--link-bg);
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    transform: translateY(-50px) translateX(22px);
+
+}
+
+.cart-icon:hover .cart-length {
+    background: var(--link-hover);
 }
 
 @media only screen and (min-width: 768px) {
@@ -51,5 +68,9 @@ header h1 {
 
     .cart-icon {
         padding: 0 20px;
+    }
+
+    .cart-length {
+        transform: translateY(-50px) translateX(35px);
     }
 }
