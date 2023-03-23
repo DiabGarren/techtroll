@@ -22,7 +22,7 @@ export default class Product {
                     </a>
                     <div class="product-page_info">
                         <h3 class="product-page_name">${item.Name}</h3>
-                        <p class="product-page_price">R${formatPrice(item.Price)}</p>
+                        <p class="product-page_price"><b>R${formatPrice(item.Price)}</b></p>
                         <p class="product-page_desc">${item.Description}</p>
                         <p class="product-page_available">${item.Available}</p>
                         <a class="product-page_add-cart-btn">Add to Cart</a>
