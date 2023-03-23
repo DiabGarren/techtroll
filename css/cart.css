@@ -108,4 +108,8 @@
     .cart_remove-item {
         border-radius: 0 0 15px 0;
     }
+
+    .cart_total {
+        grid-column: 1/3;
+    }
 }
