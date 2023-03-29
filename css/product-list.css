@@ -1,6 +1,12 @@
 /* Product List Styles */
 
-.product-list {
+.search_wrapper button,
+.sort_wrapper button {
+    cursor: pointer;
+}
+
+.product-list,
+.filters {
     max-width: 300px;
     margin: 0 auto;
 }
@@ -68,6 +74,17 @@
 
 @media only screen and (min-width: 768px) {
 
+    .filters {
+        max-width: 98%;
+        margin: 0 1.6rem;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .sort_wrapper {
+        text-align: right;
+    }
+
     .product-list {
         max-width: 98%;
         display: grid;
@@ -75,4 +92,9 @@
         justify-content: center;
         gap: .8rem;
     }
+
+    .page-header {
+        margin-top: 0;
+    }
+
 }
