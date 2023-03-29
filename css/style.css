@@ -19,6 +19,12 @@
 
     --remove: #ff0000;
     --remove-hover: #c20000;
+    --checkout: #00e600;
+    --checkout-hover: #017101;
+}
+
+* {
+    box-sizing: border-box;
 }
 
 body {
