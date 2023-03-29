@@ -57,7 +57,7 @@ export function loadNavigation(parentElement) {
     if (location[0] == "home") {
         homeLink.className = "active";
     } else {
-        homeLink.setAttribute("href", "../");
+        homeLink.setAttribute("href", "/techtroll/");
     }
 
     homeLink.textContent = "Home";
@@ -73,14 +73,14 @@ export function loadNavigation(parentElement) {
         const itemLink = document.createElement("a");
 
         if (location == "home") {
-            itemLink.setAttribute("href", `product-list/?category=${product}`);
+            itemLink.setAttribute("href", `/techtroll/product-list/?category=${product}`);
         } else if (location[0] == "product-list") {
-            itemLink.setAttribute("href", `./?category=${product}`);
+            itemLink.setAttribute("href", `/techtroll/product-list/?category=${product}`);
             if (location[1] == product) {
                 itemLink.className = "active";
             }
         } else {
-            itemLink.setAttribute("href", `../product-list/?category=${product}`);
+            itemLink.setAttribute("href", `/techtroll/product-list/?category=${product}`);
         }
         itemLink.textContent = `${product[0].toUpperCase()}${product.substring(1, product.length).replace("-", " ")}`;
         item.appendChild(itemLink);
@@ -121,11 +121,15 @@ export function getLocalStorage(key) {
 }
 
 export function getCartLength() {
-    const cart = getLocalStorage("cart");
+    let cart = getLocalStorage("cart");
     let length = 0;
-    cart.forEach((item) => {
-        length += item.Quantity;
-    })
+    if (!cart) {
+        cart = [];
+    } else {
+        cart.forEach((item) => {
+            length += item.Quantity;
+        })
+    }
     return length;
 }
 
