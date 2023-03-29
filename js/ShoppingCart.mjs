@@ -29,7 +29,8 @@ export default class Cart {
                     </div>`;
                 total += parseFloat(item.Price) * item.Quantity;
             })
-            output += `<div class="cart_total">Total: R${formatPrice(total)}</div></div>`;
+            output += `<div class="cart_total">Total: R${formatPrice(total)}</div>
+            <a href="/techtroll/checkout/" class="cart_checkout">Checkout</a></div>`;
         }
         wrapper.innerHTML = output;
     }
