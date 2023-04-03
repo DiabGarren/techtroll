@@ -13,6 +13,7 @@
     --nav-active: #016cd6;
     --main-header: #7506cf;
     --bg-color: #e7e7ff;
+    --bg-color-dm: #020257;
 
     --link-bg: var(--nav);
     --link-hover: var(--nav-hover);
@@ -33,6 +34,11 @@ body {
     background-color: #000;
 }
 
+body * {
+    transition-property: background-color, color;
+    transition-duration: .2s;
+}
+
 img {
     width: 100%;
 }
@@ -44,6 +50,11 @@ a {
 
 .page-header {
     text-align: center;
+}
+
+.dark-mode {
+    background: var(--bg-color-dm);
+    color: white;
 }
 
 @media only screen and (min-width: 750px) {

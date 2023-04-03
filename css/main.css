@@ -5,6 +5,7 @@ main {
     background: var(--bg-color);
 }
 
+
 #hero {
     background-image: url("../images/hero.png");
     background-position: center;
@@ -29,6 +30,10 @@ main {
         0 0 10px 10px #b24cd4,
         0 0 15px 15px var(--main-header);
     border-radius: 30px;
+}
+
+#msg {
+    color: black;
 }
 
 #product-grid a {

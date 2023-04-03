@@ -1,4 +1,4 @@
-import { loadHeaderFooter, loadNavigation, getParam } from "./utils.mjs";
+import { loadHeaderFooter, loadNavigation, getParam, setDarkMode, getDarkMode } from "./utils.mjs";
 import ProductData from "./ProductData.mjs";
 import ProductList from "./ProductList.mjs";
 
@@ -35,3 +35,7 @@ searchBtn.addEventListener("click", () => {
 sortBtn.addEventListener("click", () => {
     productList.sortHandler(sortDir, search);
 })
+
+const darkModeList = [".main-header", "main", ".page-header", ".product-list_name", ".product-list_price"];
+setDarkMode(darkModeList);
+getDarkMode(darkModeList);
