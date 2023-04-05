@@ -3,10 +3,8 @@ import Product from "./ProductPage.mjs";
 import { loadHeaderFooter, loadNavigation, getParam, updateCartIcon, darkMode } from "./utils.mjs";
 
 loadHeaderFooter(document.querySelector(".main-header"), document.querySelector(".main-footer"));
+darkMode();
 loadNavigation(document.querySelector(".main-nav"));
-
-const darkModeList = [];
-darkMode(darkModeList);
 
 const productData = new ProductData();
 const productId = getParam("id");

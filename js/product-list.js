@@ -3,6 +3,7 @@ import ProductData from "./ProductData.mjs";
 import ProductList from "./ProductList.mjs";
 
 loadHeaderFooter(document.querySelector(".main-header"), document.querySelector(".main-footer"));
+darkMode();
 loadNavigation(document.querySelector(".main-nav"));
 
 const productData = new ProductData();
@@ -21,9 +22,6 @@ const searchBar = document.querySelector(".search-bar");
 
 document.title += ` ${category[0].toUpperCase()}${category.substring(1, category.length).replace("-", " ")}`;
 productList.renderProductList(list, wrapper, search, searchBar, sortDir, sortBtn);
-
-const darkModeList = [".product-list_wrapper"];
-darkMode(darkModeList);
 
 const searchBtn = document.querySelector(".search-btn");
 let searchedList = [];

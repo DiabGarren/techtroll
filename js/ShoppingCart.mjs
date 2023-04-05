@@ -12,7 +12,7 @@ export default class Cart {
         let output = `<h2 class="page-header">Cart</h2>
         <div class="cart-page">`;
         if (!cart.length) {
-            output += `<h3 class="page-header">Your cart is empty</h3>`;
+            output += `<h3 class="cart-header">Your cart is empty</h3>`;
         } else {
             cart.forEach((item) => {
                 output +=
