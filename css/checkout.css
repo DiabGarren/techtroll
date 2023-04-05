@@ -1,13 +1,13 @@
 .checkout_wrapper {
     max-width: 600px;
-    margin: 0 auto;
+    margin: 0 .5rem;
 }
 
 .checkout_name,
 .checkout_address,
 .checkout_order-summary {
     display: grid;
-    grid-template-columns: 1fr 2fr;
+    grid-template-columns: 1fr 1fr;
 }
 
 .checkout_name *:nth-child(2n-1),
@@ -23,6 +23,40 @@
     content: ":";
 }
 
+.checkout_order-summary * {
+    cursor: default;
+    resize: none;
+}
+
 #checkout_shipping {
     height: 70px;
+}
+
+#checkout_submit {
+    display: block;
+    width: 100%;
+    margin: .5rem 0;
+    padding: 7px 0;
+    background-color: var(--link-bg);
+    color: var(--bg-color);
+    border-radius: 7px;
+    border: none;
+    font-size: 1rem;
+}
+
+#checkout_submit:hover {
+    background: var(--link-hover);
+}
+
+@media screen and (min-width: 768px) {
+    .checkout_wrapper {
+        margin: 0 auto;
+    }
+
+    .checkout_name,
+    .checkout_address,
+    .checkout_order-summary {
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+    }
 }

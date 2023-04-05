@@ -3,6 +3,10 @@
     margin: 0 auto;
 }
 
+.cart-header {
+    text-align: center;
+}
+
 .cart_box {
     display: grid;
     grid-template-rows: 300px auto 55px;
@@ -97,6 +101,10 @@
         grid-template-columns: repeat(2, minmax(350px, 500px));
         gap: .2rem 2rem;
         justify-content: center;
+    }
+
+    .cart-header {
+        grid-column: 1/3;
     }
 
     .cart_box {

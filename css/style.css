@@ -54,16 +54,16 @@ a {
     background: var(--bg-color-dm);
 }
 
+.dark-mode *:not(.cart_checkout):not(button) {
+    color: var(--bg-color);
+}
+
 .dark-mode button {
     background: var(--bg-color);
     color: var(--bg-color-dm);
 }
 
 .dark-mode button:hover {
-    color: var(--bg-color);
-}
-
-.dark-mode *:not(.cart_checkout) {
     color: var(--bg-color);
 }
 

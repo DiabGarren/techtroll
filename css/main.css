@@ -34,6 +34,12 @@ main {
 
 #msg {
     color: black;
+    margin: 0 .8rem;
+}
+
+#msg-or {
+    margin: 0 .8rem;
+    font-weight: bold;
 }
 
 #product-grid a {
