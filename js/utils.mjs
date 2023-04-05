@@ -1,8 +1,6 @@
 const products = ["graphics-cards", "processors", "memory", "motherboards"];
 
-export function loadHeaderFooter(headerElement, footerElement) {
-    const location = getLocation()[0];
-    const header = document.querySelector(headerElement);
+export function loadHeaderFooter(header, footer) {
 
     const logoLink = document.createElement("a");
     const logo = document.createElement("img");
@@ -77,8 +75,6 @@ export function loadHeaderFooter(headerElement, footerElement) {
     header.appendChild(darkModeWrapper);
     header.appendChild(cartLink);
 
-    const footer = document.querySelector(footerElement);
-
     const info = document.createElement("p");
     info.id = "info";
     info.innerHTML = "Tech Troll &copy; 2023 - Garren Diab";
@@ -86,9 +82,8 @@ export function loadHeaderFooter(headerElement, footerElement) {
     footer.appendChild(info);
 }
 
-export function loadNavigation(parentElement) {
+export function loadNavigation(navigation) {
     const location = getLocation();
-    const navigation = document.querySelector(parentElement);
     const outerList = document.createElement("ul");
 
     const listHome = document.createElement("li");
@@ -191,12 +186,20 @@ export function formatPrice(price) {
     return outputTotal;
 }
 
-
+export function alert(heading, message) {
+    document.querySelector("body").innerHTML += 
+    `<div class="alert">
+    <h2>${heading}</h2>
+    <p>${message}</p>
+    </div>
+    `;
+}
 
 function setDarkMode(list) {
     if (getLocalStorage("darkMode") == true) {
         document.querySelector(".dark-mode_check").checked = true;
         list.forEach((item) => {
+            console.log(item);
             document.querySelector(item).classList.add("dark-mode");
         })
     } else {

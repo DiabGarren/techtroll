@@ -2,8 +2,8 @@ import ProductData from "./ProductData.mjs";
 import Product from "./ProductPage.mjs";
 import { loadHeaderFooter, loadNavigation, getParam, updateCartIcon, darkMode } from "./utils.mjs";
 
-loadHeaderFooter(".main-header", ".main-footer");
-loadNavigation(".main-nav");
+loadHeaderFooter(document.querySelector(".main-header"), document.querySelector(".main-footer"));
+loadNavigation(document.querySelector(".main-nav"));
 
 const darkModeList = [];
 darkMode(darkModeList);

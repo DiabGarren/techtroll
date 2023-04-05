@@ -2,11 +2,8 @@ import { loadHeaderFooter, loadNavigation, getParam, darkMode } from "./utils.mj
 import ProductData from "./ProductData.mjs";
 import ProductList from "./ProductList.mjs";
 
-loadHeaderFooter(".main-header", ".main-footer");
-loadNavigation(".main-nav");
-
-const darkModeList = [".page-header", ".product-list_name", ".product-list_price"];
-darkMode(darkModeList);
+loadHeaderFooter(document.querySelector(".main-header"), document.querySelector(".main-footer"));
+loadNavigation(document.querySelector(".main-nav"));
 
 const productData = new ProductData();
 const category = getParam("category");
@@ -24,6 +21,9 @@ const searchBar = document.querySelector(".search-bar");
 
 document.title += ` ${category[0].toUpperCase()}${category.substring(1, category.length).replace("-", " ")}`;
 productList.renderProductList(list, wrapper, search, searchBar, sortDir, sortBtn);
+
+const darkModeList = [".product-list_wrapper"];
+darkMode(darkModeList);
 
 const searchBtn = document.querySelector(".search-btn");
 let searchedList = [];

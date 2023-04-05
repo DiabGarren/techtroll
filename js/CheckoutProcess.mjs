@@ -1,4 +1,4 @@
-import { formatPrice, getLocalStorage, setLocalStorage } from "./utils.mjs";
+import { alert, formatPrice, getLocalStorage, setLocalStorage } from "./utils.mjs";
 
 export default class Checkout {
     constructor() {
@@ -57,8 +57,8 @@ export default class Checkout {
         return `<input type="text" name="orderTotal" value="R${formatPrice(this.total)}" readonly>`;
     }
 
-    checkout() {
+    checkout(form) {
         setLocalStorage('cart', []);
-        
+        alert("Success")
     }
 }

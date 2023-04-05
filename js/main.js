@@ -1,7 +1,7 @@
 import { getLocalStorage, loadHeaderFooter, loadNavigation, darkMode, setLocalStorage } from "./utils.mjs";
 
-loadHeaderFooter(".main-header", ".main-footer");
-loadNavigation(".main-nav");
+loadHeaderFooter(document.querySelector(".main-header"), document.querySelector(".main-footer"));
+loadNavigation(document.querySelector(".main-nav"));
 
 const darkModeList = ["#msg"];
 darkMode(darkModeList);
