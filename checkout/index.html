@@ -20,20 +20,54 @@
     <nav class="main-nav"></nav>
     <main>
         <div class="checkout_wrapper">
-            <form>
-                
-            </form>
-            <form>
-                <label for="checkout_total-items">Total items</label>
-                <input type="text" id="checkout_total-items" readonly>
-                <label for="checkout_subtotal">Subtotal</label>
-                <input type="text" id="checkout_subtotal" readonly>
-                <label for="checkout_shipping">Shipping</label>
-                <input type="text" id="checkout_shipping" readonly>
-                <label for="checkout_total">Total</label>
-                <input type="text" id="checkout_total" readonly>
-                <input type="button" id="checkout_confirm" value="Confirm">
-            </form>
+            <form name="checkout">
+                <fieldset>
+                  <legend>Shipping</legend>
+                  <div class="checkout_name">
+                    <label for="first-name">First Name</label>
+                    <input name="first-name" required />
+                    <label for="last-name">Last Name</label>
+                    <input name="last-name" required />
+                  </div>
+                  <div class="checkout_address">
+                    <label for="street">Street</label>
+                    <input name="street" required />
+                    <label for="city">City</label>
+                    <input name="city" required />
+                    <label for="zip">Zip</label>
+                    <input name="zip" id="zip" required />
+                  </div>
+                </fieldset>
+                <fieldset>
+                  <legend>Payment</legend>
+                  <label for="cardNumber">Card number</label>
+                  <input name="cardNumber" required />
+                  <label for="expiration">Expiration</label>
+                  <input name="expiration" required />
+                  <label for="code">Security Code</label>
+                  <input name="code" required />
+                </fieldset>
+                <fieldset name="order-summary" class="checkout_order-summary" required>
+                  <legend>Order Summary</legend>
+                  <label for="subtotal" id="checkout_subtotal">
+                    Item Subtotal
+                  </label>
+        
+                  <label for="shipping" id="checkout_shipping">
+                    Shipping estimate
+                  </label>
+        
+                  <label for="tax" id="checkout_tax">
+                    Tax
+                  </label>
+        
+                  <label for="orderTotal" id="checkout_total">
+                    Order Total
+                  </label>
+                </fieldset>
+        
+                <button id="checkout_submit" type="submit">Checkout</button>
+              </form>
         </div>
     </main>
     <footer class="main-footer"></footer>
