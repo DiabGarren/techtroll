@@ -107,25 +107,25 @@ svg {
 }
 
 .dark-mode_check:checked ~ .dark-mode_top-sun {
-	transition: stroke-dashoffset .6s, fill .2s;
+	transition: stroke-dashoffset .5s, fill .2s;
 	stroke-dashoffset: -5px;
 	stroke: white;
 }
 
 .dark-mode_check:checked ~ .dark-mode_bot-sun {
-	transition: stroke-dasharray .6s, fill .2s;
+	transition: stroke-dasharray .5s, fill .2s;
 	stroke-dasharray: 0px 360px;
 	stroke: white;
 }
 
 .dark-mode_check:checked ~ .dark-mode_top-moon {
-	transition: .4s stroke-dashoffset .6s, fill .2s;
+	transition: stroke-dashoffset .5s .5s, fill .2s;
 	stroke-dashoffset: 0px;
 	stroke: white;
 }
 
 .dark-mode_check:checked ~ .dark-mode_bot-moon {
-	transition: .4s stroke-dashoffset .6s, fill .2s;
+	transition: stroke-dashoffset .5s .5s, fill .2s;
 	stroke-dashoffset: 0px;
 	stroke: white;
 }
@@ -133,7 +133,7 @@ svg {
 .dark-mode_top-sun {
     width: 47%;
     height: 47%;
-	transition: .4s stroke-dashoffset .6s, fill .2s;
+	transition: stroke-dashoffset .5s .5s, fill .2s;
 	top: 27%;
 	left: 27%;
 	stroke: black;
@@ -144,7 +144,7 @@ svg {
 .dark-mode_bot-sun {
     width: 23.75%;
     height: 23.75%;
-	transition: .4s stroke-dasharray .6s, fill .2s;
+	transition: stroke-dasharray .5s .5s, fill .2s;
 	top: 39%;
 	left: 39%;
 	stroke: black;
@@ -154,7 +154,7 @@ svg {
 .dark-mode_top-moon {
     width: 45%;
     height: 44%;
-	transition: stroke-dashoffset .6s, fill .2s;
+	transition: stroke-dashoffset .5s, fill .2s;
 	top: 28.5%;
 	left: 28.5%;
 	stroke: black;
@@ -165,7 +165,7 @@ svg {
 .dark-mode_bot-moon {
     width: 31%;
     height: 30%;
-	transition: stroke-dashoffset .6s, fill .2s;
+	transition: stroke-dashoffset .5s, fill .2s;
 	top: 28.5%;
 	left: 42%;
 	stroke: black;
