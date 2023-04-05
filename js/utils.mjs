@@ -186,11 +186,12 @@ export function formatPrice(price) {
     return outputTotal;
 }
 
-export function alert(heading, message) {
-    document.querySelector("body").innerHTML += 
+export function alert(heading, message, destination) {
+    document.querySelector("main").innerHTML += 
     `<div class="alert">
     <h2>${heading}</h2>
-    <p>${message}</p>
+    ${message}
+    <a href="${destination}">Continue</a>
     </div>
     `;
 }

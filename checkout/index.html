@@ -20,7 +20,7 @@
   <nav class="main-nav"></nav>
   <main>
     <div class="checkout_wrapper">
-      <form name="checkout">
+      <form name="checkout" id="checkout">
         <fieldset>
           <legend>Contact Information</legend>
           <div class="checkout_name">
@@ -45,7 +45,7 @@
             <input name="zip" id="zip" required />
           </div>
         </fieldset>
-        <fieldset>
+        <!-- <fieldset>
           <legend>Payment</legend>
           <label for="cardNumber">Card number</label>
           <input name="cardNumber" required />
@@ -53,7 +53,7 @@
           <input name="expiration" required />
           <label for="code">Security Code</label>
           <input name="code" required />
-        </fieldset>
+        </fieldset> -->
         <fieldset name="order-summary" class="checkout_order-summary" required>
           <legend>Order Summary</legend>
           <label for="subtotal" id="checkout_subtotal">
@@ -73,7 +73,7 @@
           </label>
         </fieldset>
 
-        <button id="checkout_submit" type="submit">Checkout</button>
+        <input id="checkout_submit" type="submit" value="Checkout">
       </form>
     </div>
   </main>

@@ -1,3 +1,5 @@
+import ProductData from "./ProductData.mjs";
+import Product from "./ProductPage.mjs";
 import { alert, formatPrice, getLocalStorage, setLocalStorage } from "./utils.mjs";
 
 export default class Checkout {
@@ -7,8 +9,10 @@ export default class Checkout {
         this.shippingTotal = 0;
         this.tax = 0;
         this.total = 0;
+
+        this.data = new ProductData();
     }
-    
+
     getSubtotal() {
         this.cart.forEach((item) => {
             this.subtotal += item.Price * item.Quantity;
@@ -46,7 +50,7 @@ export default class Checkout {
     }
 
     getTax() {
-        this.tax = parseInt(this.subtotal*0.04);
+        this.tax = parseInt(this.subtotal * 0.04);
 
         return `<input type="text" name="tax" value="R${formatPrice(this.tax)}" readonly>`;
     }
@@ -57,8 +61,66 @@ export default class Checkout {
         return `<input type="text" name="orderTotal" value="R${formatPrice(this.total)}" readonly>`;
     }
 
-    checkout(form) {
-        setLocalStorage('cart', []);
-        alert("Success")
+    async getItemInfo(productId) {
+        let product = new Product(productId, this.data)
+        let productInfo = await product.init();
+        return productInfo;
+    }
+
+    async checkout(form) {
+        let success = true, Fname = "", Lname = "", email = "";
+        for (let i = 0; i < form.length; i++) {
+            switch (form[i].name) {
+                case "first-name":
+                    Fname = form[i].value;
+                    break;
+                case "last-name":
+                    Lname = form[i].value;
+                    break;
+                case "email":
+                    email = form[i].value;
+                    break;
+            }
+            if (form[i].value === "") {
+                success = "info";
+                break;
+            }
+        }
+
+        // Return error if there is an empty field
+        if (success == "info") {
+            alert("Error",
+                `<h3>There was an error processing your order.</h3>
+            <p>Please make sure all the fields are entered correctly.</p>`,
+                "");
+            return;
+        }
+
+        for (const item of this.cart) {
+            let itemInfo = await this.getItemInfo(item.Id);
+
+            if (! (itemInfo.Id === item.Id && itemInfo.Name === item.Name && itemInfo.Price === item.Price)) {
+                success = "cart";
+                break;
+            }
+        }
+        // Return error if the product info in the cart doesn't match the actual product info
+        if (success == "cart") {
+            alert("Error",
+                `<h3>There was an error processing your order.</h3>
+            <p>There is an error with your cart.<br>
+            Please try emptying and refilling your cart.</p>`,
+                "");
+            return;
+        }
+
+        // Empty the cart and send the user back to the homepage
+        if (success == true) {
+            setLocalStorage('cart', []);
+            alert("Success",
+                `<h3>Thank you <b>${Fname} ${Lname}</b>, for your order.</h3>
+                <p>We will contact you at <b>${email}</b> shortly.</p>`,
+                "/techtroll/");
+        }
     }
 }
