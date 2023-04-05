@@ -22,6 +22,7 @@ export default class ProductList {
                 </a>
                 <div class="product-list_info">
                     <a class="product-list_name" href="/techtroll/product/?id=${item.Id}">${item.Name}</a>
+                    <p class="product-list_retailer"><b>${item.Retailer}</b></p>
                     <p class="product-list_price"><b>R${formatPrice(item.Price)}</b></p>
                 </div>
                 <a class="product-list_btn" href="/techtroll/product/?id=${item.Id}">View Item</a>
