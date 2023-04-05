@@ -21,7 +21,7 @@ export function loadHeaderFooter(header, footer) {
     welcome.textContent = "Welcome to Tech Troll";
 
     darkModeWrapper.className = "dark-mode_wrapper";
-    darkModeWrapper.innerHTML = `<input type="checkbox" class="dark-mode_check">
+    darkModeWrapper.innerHTML = `<label for="dark-mode_check" style="display: none">Dark Mode</label><input type="checkbox" class="dark-mode_check" id="dark-mode_check">
     <svg class="dark-mode_circle" width="74" height="74" viewBox="0 0 75 75">
         <circle cx="37" cy="37" r="37" />
     </svg>
@@ -179,10 +179,12 @@ export function formatPrice(price) {
 
 export function alert(heading, message, destination) {
     document.querySelector("main").innerHTML +=
-        `<div class="alert">
+        `<div class="alert-wrapper">
+        <div class="alert">
     <h2>${heading}</h2>
     ${message}
     <a href="${destination}">Continue</a>
+    </div>
     </div>
     `;
 }
