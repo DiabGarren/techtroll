@@ -8,20 +8,20 @@ loadNavigation(document.querySelector(".main-nav"));
 
 const productData = new ProductData();
 const category = getParam("category");
+const search = getParam("search");
+const sortDir = getParam("sort");
+const page = getParam("page");
 
-const productList = new ProductList(category, productData);
+const productList = new ProductList(category, productData, search, sortDir, page);
 const list = await productList.init();
 
 const wrapper = document.querySelector(".product-list_wrapper");
 
-const sortDir = getParam("sort");
 const sortBtn = document.querySelector(".sort-dir");
-
-const search = getParam("search");
 const searchBar = document.querySelector(".search-bar");
 
 document.title += ` ${category[0].toUpperCase()}${category.substring(1, category.length).replace("-", " ")}`;
-productList.renderProductList(list, wrapper, search, searchBar, sortDir, sortBtn);
+productList.renderProductList(list, wrapper, searchBar, sortBtn);
 
 const searchBtn = document.querySelector(".search-btn");
 let searchedList = [];
@@ -34,5 +34,5 @@ searchBtn.addEventListener("click", () => {
 })
 
 sortBtn.addEventListener("click", () => {
-    productList.sortHandler(sortDir, search);
+    productList.sortHandler();
 })
