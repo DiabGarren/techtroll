@@ -134,7 +134,7 @@ export default class Checkout {
         if (success == true) {
             setLocalStorage('cart', []);
             alert("Success",
-                `<h3>Thank you <b>${Fname} ${Lname}</b>, for your order.</h3>
+                `<h3>Thank you for your order, <b>${Fname} ${Lname}</b>.</h3>
                 <p>We will contact you at <b>${email}</b> shortly.</p>`,
                 "/techtroll/");
         }
