@@ -45,6 +45,10 @@ a {
     cursor: pointer;
 }
 
+button, input {
+    font-family: 'Orbitron', sans-serif;
+}
+
 .page-header {
     text-align: center;
 }
@@ -54,7 +58,11 @@ a {
     background: var(--bg-color-dm);
 }
 
-.dark-mode *:not(.cart_checkout):not(button) {
+.dark-mode fieldset {
+    background: var(--nav);
+}
+
+.dark-mode *:not(.cart_checkout):not(button):not(input):not(textarea) {
     color: var(--bg-color);
 }
 
@@ -67,11 +75,77 @@ a {
     color: var(--bg-color);
 }
 
+.dark-mode .alert {
+    background: var(--bg-color-dm);
+}
+
+.alert-wrapper {
+    position: absolute;
+    top: 179px;
+    left: 0;
+    width: 100%;
+    height: calc(100% - 126px);
+    backdrop-filter: blur(4px);
+}
+
+.alert {
+    position: absolute;
+    top: 90px;
+    left: .5rem;
+    right: .5rem;
+    background-color: var(--bg-color);
+    border: 2px solid var(--nav);
+    border-radius: 15px;
+    padding: .5rem .5rem
+}
+
+.alert * {
+    margin: 0;
+}
+
+.alert h2 {
+    text-align: center;
+}
+
+.alert h3 {
+    margin: .5rem 0 .8rem;
+}
+
+.alert p {
+    margin: 0 0 .5rem;
+}
+
+.alert a {
+    display: block;
+    width: 98%;
+    margin: 0 auto;
+    padding: .3rem 0;
+    text-align: center;
+    background: var(--link-bg);
+    color: var(--bg-color);
+    border-radius: 10px;
+}
+
+.alert a:hover {
+    background: var(--link-hover);
+}
+
 @media only screen and (min-width: 750px) {
     body {
         max-width: 1300px;
         margin: 15px auto;
         border: 4px solid var(--nav);
         border-radius: 10px;
+    }
+    
+    .alert-wrapper {
+        top: 218px;
+        height: calc(100% - 450px);
+    }
+
+    .alert {
+        top: 80px;
+        left: calc(50% - 233px);
+        width: 466px;
     }
 }
