@@ -9,10 +9,11 @@ darkMode();
 
 let checkout = new Checkout();
 
-document.querySelector("#checkout_subtotal").innerHTML += `${checkout.getSubtotal()}`;
-document.querySelector("#checkout_shipping").innerHTML += `${checkout.getShipping()}`;
-document.querySelector("#checkout_tax").innerHTML +=`${checkout.getTax()}`;
-document.querySelector("#checkout_total").innerHTML +=`${checkout.getTotal()}`;
+document.querySelector("#subtotal").textContent += ` (${checkout.getLength()})`;
+document.querySelector("#checkout_subtotal").value += `${checkout.getSubtotal()}`;
+document.querySelector("#checkout_shipping").textContent += `${checkout.getShipping()}`;
+document.querySelector("#checkout_tax").value +=`${checkout.getTax()}`;
+document.querySelector("#checkout_total").value +=`${checkout.getTotal()}`;
 
 document.querySelector("#checkout_submit").addEventListener("click", async (event) => {
     event.preventDefault();

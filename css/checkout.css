@@ -1,0 +1,28 @@
+.checkout_wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.checkout_name,
+.checkout_address,
+.checkout_order-summary {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.checkout_name *:nth-child(2n-1),
+.checkout_address *:nth-child(2n-1),
+.checkout_order-summary *:nth-child(2n-1) {
+    text-align: right;
+    margin-right: 1rem;
+}
+
+.checkout_name *:nth-child(2n-1)::after,
+.checkout_address *:nth-child(2n-1)::after,
+.checkout_order-summary *:nth-child(2n-1)::after {
+    content: ":";
+}
+
+#checkout_shipping {
+    height: 70px;
+}

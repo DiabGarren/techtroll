@@ -13,15 +13,19 @@ export default class Checkout {
         this.data = new ProductData();
     }
 
+    getLength() {
+        return this.cart.length;
+    }
+
     getSubtotal() {
         this.cart.forEach((item) => {
             this.subtotal += item.Price * item.Quantity;
         });
-        return `(${this.cart.length})<input type="text" name="subtotal" value="R${formatPrice(this.subtotal)}" readonly>`;
+        return `R${formatPrice(this.subtotal)}`;
     }
 
     getShipping() {
-        let shipping = `<textarea name="shipping" readonly>`;
+        let shipping = ``;
         let retailers = []
         this.cart.forEach((item) => {
             if (!retailers.includes(item.Retailer)) {
@@ -31,13 +35,13 @@ export default class Checkout {
 
         retailers.forEach((item) => {
             switch (item) {
-                case "Evetech":
-                    shipping += "Evetech: R100\n";
-                    this.shippingTotal += 100;
-                    break;
                 case "Dreamware":
                     shipping += "Dreamware: R140\n";
                     this.shippingTotal += 140;
+                    break;
+                case "Evetech":
+                    shipping += "Evetech: R100\n";
+                    this.shippingTotal += 100;
                     break;
                 case "FirstShop":
                     shipping += "FirstShop: R60\n";
@@ -45,20 +49,32 @@ export default class Checkout {
                     break;
             }
         })
-        shipping += `Total: R${this.shippingTotal}</textarea>`;
+        switch (this.shippingTotal) {
+            case 140:
+            case 100:
+            case 60:
+                shipping += "\n\n";
+                break;
+            case 240:
+            case 200:
+            case 160:
+                shipping += "\n";
+                break;
+        }
+        shipping += `Total: R${this.shippingTotal}`;
         return shipping;
     }
 
     getTax() {
         this.tax = parseInt(this.subtotal * 0.04);
 
-        return `<input type="text" name="tax" value="R${formatPrice(this.tax)}" readonly>`;
+        return `R${formatPrice(this.tax)}`;
     }
 
     getTotal() {
         this.total = this.subtotal + this.shippingTotal + this.tax;
 
-        return `<input type="text" name="orderTotal" value="R${formatPrice(this.total)}" readonly>`;
+        return `R${formatPrice(this.total)}`;
     }
 
     async getItemInfo(productId) {
@@ -99,7 +115,7 @@ export default class Checkout {
         for (const item of this.cart) {
             let itemInfo = await this.getItemInfo(item.Id);
 
-            if (! (itemInfo.Id === item.Id && itemInfo.Name === item.Name && itemInfo.Price === item.Price)) {
+            if (!(itemInfo.Id === item.Id && itemInfo.Name === item.Name && itemInfo.Price === item.Price)) {
                 success = "cart";
                 break;
             }
