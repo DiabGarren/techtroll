@@ -191,7 +191,9 @@ export function formatPrice(price) {
     return outputTotal;
 }
 
-export function getDarkMode(list) {
+
+
+function setDarkMode(list) {
     if (getLocalStorage("darkMode") == true) {
         document.querySelector(".dark-mode_check").checked = true;
         list.forEach((item) => {
@@ -205,13 +207,15 @@ export function getDarkMode(list) {
     }
 }
 
-export function setDarkMode(list) {
+export function darkMode(list) {
+    list.push(".main-header", "main");
     document.querySelector(".dark-mode_check").addEventListener("click", () => {
         if (document.querySelector(".dark-mode_check").checked) {
             setLocalStorage("darkMode", true);
         } else {
             setLocalStorage("darkMode", false);
         }
-        getDarkMode(list);
+        setDarkMode(list);
     });
+    setDarkMode(list);
 }

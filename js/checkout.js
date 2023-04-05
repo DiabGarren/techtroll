@@ -1,8 +1,11 @@
 import Checkout from "./CheckoutProcess.mjs";
-import { loadHeaderFooter, loadNavigation, updateCartIcon } from "./utils.mjs";
+import { darkMode, loadHeaderFooter, loadNavigation, updateCartIcon } from "./utils.mjs";
 
 loadHeaderFooter(".main-header", ".main-footer");
 loadNavigation(".main-nav");
+
+const darkModeList = [];
+darkMode(darkModeList);
 
 let checkout = new Checkout();
 

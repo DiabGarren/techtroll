@@ -59,6 +59,6 @@ export default class Checkout {
 
     checkout() {
         setLocalStorage('cart', []);
-        location.assign("/techtroll/checkout/success.html");
+        
     }
 }

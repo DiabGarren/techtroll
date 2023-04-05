@@ -1,9 +1,12 @@
 import ProductData from "./ProductData.mjs";
 import Product from "./ProductPage.mjs";
-import { loadHeaderFooter, loadNavigation, getParam, updateCartIcon } from "./utils.mjs";
+import { loadHeaderFooter, loadNavigation, getParam, updateCartIcon, darkMode } from "./utils.mjs";
 
 loadHeaderFooter(".main-header", ".main-footer");
 loadNavigation(".main-nav");
+
+const darkModeList = [];
+darkMode(darkModeList);
 
 const productData = new ProductData();
 const productId = getParam("id");
