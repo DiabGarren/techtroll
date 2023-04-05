@@ -12,6 +12,7 @@
     --sub-nav: #0d0158;
     --nav-active: #016cd6;
     --main-header: #7506cf;
+
     --bg-color: #e7e7ff;
     --bg-color-dm: #020257;
 
@@ -34,11 +35,6 @@ body {
     background-color: #000;
 }
 
-body * {
-    transition-property: background-color, color;
-    transition-duration: .2s;
-}
-
 img {
     width: 100%;
 }
@@ -52,9 +48,22 @@ a {
     text-align: center;
 }
 
-.dark-mode {
+.dark-mode>header,
+.dark-mode>main {
     background: var(--bg-color-dm);
-    color: white;
+}
+
+.dark-mode button {
+    background: var(--bg-color);
+    color: var(--bg-color-dm);
+}
+
+.dark-mode button:hover {
+    color: var(--bg-color);
+}
+
+.dark-mode *:not(.cart_checkout) {
+    color: var(--bg-color);
 }
 
 @media only screen and (min-width: 750px) {

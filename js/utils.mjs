@@ -172,7 +172,10 @@ export function getCartLength() {
 }
 
 export function updateCartIcon() {
-    document.querySelector(".cart-length").innerHTML = getCartLength();
+    let cartIcon = document.querySelector(".cart-length")
+    cartIcon.innerHTML = getCartLength();
+    cartIcon.classList.add("cart-add");
+    setTimeout(() => { cartIcon.classList.remove("cart-add"); }, 500);
 }
 
 export function formatPrice(price) {
@@ -187,8 +190,8 @@ export function formatPrice(price) {
 }
 
 export function alert(heading, message, destination) {
-    document.querySelector("main").innerHTML += 
-    `<div class="alert">
+    document.querySelector("main").innerHTML +=
+        `<div class="alert">
     <h2>${heading}</h2>
     ${message}
     <a href="${destination}">Continue</a>
@@ -196,30 +199,24 @@ export function alert(heading, message, destination) {
     `;
 }
 
-function setDarkMode(list) {
+function setDarkMode() {
     if (getLocalStorage("darkMode") == true) {
         document.querySelector(".dark-mode_check").checked = true;
-        list.forEach((item) => {
-            console.log(item);
-            document.querySelector(item).classList.add("dark-mode");
-        })
+        document.querySelector("body").classList.add("dark-mode");
     } else {
         document.querySelector(".dark-mode_check").checked = false;
-        list.forEach((item) => {
-            document.querySelector(item).classList.remove("dark-mode");
-        })
+        document.querySelector("body").classList.remove("dark-mode");
     }
 }
 
-export function darkMode(list) {
-    list.push(".main-header", "main");
+export function darkMode() {
     document.querySelector(".dark-mode_check").addEventListener("click", () => {
         if (document.querySelector(".dark-mode_check").checked) {
             setLocalStorage("darkMode", true);
         } else {
             setLocalStorage("darkMode", false);
         }
-        setDarkMode(list);
+        setDarkMode();
     });
-    setDarkMode(list);
+    setDarkMode();
 }

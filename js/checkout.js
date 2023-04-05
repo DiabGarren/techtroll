@@ -5,8 +5,7 @@ import { darkMode, loadHeaderFooter, loadNavigation, updateCartIcon } from "./ut
 loadHeaderFooter(document.querySelector(".main-header"), document.querySelector(".main-footer"));
 loadNavigation(document.querySelector(".main-nav"));
 
-const darkModeList = [];
-darkMode(darkModeList);
+darkMode();
 
 let checkout = new Checkout();
 

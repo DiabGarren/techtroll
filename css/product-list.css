@@ -5,6 +5,27 @@
     cursor: pointer;
 }
 
+.search-btn,
+.sort-dir {
+    background-color: var(--link-bg);
+    color: var(--bg-color);
+    width: 25px;
+    aspect-ratio: 1/1;
+    padding: 4px 6px 1px 5px;
+    border-radius: 7px;
+    font-size: 1rem;
+    border: none;
+}
+.search-btn {
+    padding: 0px 0px 3px 0px;
+}
+
+.search-btn:hover,
+.sort-dir:hover {
+    background-color: var(--link-hover);
+    color: var(--bg-color);
+}
+
 .product-list,
 .filters {
     max-width: 300px;
@@ -64,7 +85,7 @@
     margin: 0;
     padding: 0.5em;
     background: var(--link-bg);
-    color: white;
+    color: var(--bg-color);
     border-radius: 0 0 10px 10px;
 }
 
