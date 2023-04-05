@@ -22,43 +22,31 @@ export function loadHeaderFooter(header, footer) {
 
     darkModeWrapper.className = "dark-mode_wrapper";
     darkModeWrapper.innerHTML = `<input type="checkbox" class="dark-mode_check">
-    <svg class="dark-mode_circle" viewBox="0 0 75 75">
+    <svg class="dark-mode_circle" width="74" height="74" viewBox="0 0 75 75">
         <circle cx="37" cy="37" r="37" />
     </svg>
-    <svg class="dark-mode_top" viewBox="0 0 180 29" fill="none">
-        <path
-            d="M17 28L1.77881 12.5C9.01235 5.34965 18.9864 1 30 1C59 1 65.0431 23 90 23C114.957 23 122 1 150 1C161.024 1 170.848 5.44101 178.001 12.5L153 23"
+
+    <svg class="dark-mode_top-sun" width="37" height="37" viewBox="0 0 37 37" fill="none">
+        <path d="M5 18.5H1M18.5 5V1M9 9L7.5 7.5L6 6M28 9L31 6M9 28L6 31M18.5 32V36M28 28L31 31M32 18.5H36"
             stroke-width="4" stroke-linecap="round" />
     </svg>
 
-    <svg class="dark-mode_top-sun" viewBox="0 0 37 37" fill="none">
-        <path d="M5 18.5H1M18.5 5V1M9 9L7.5 7.5L6 6M28 9L31 6M9 28L6 31M18.5 32V36M28 28L31 31M32 18.5H36"
-            stroke="#000000" stroke-width="4" stroke-linecap="round" />
-    </svg>
-
-    <svg class="dark-mode_top-moon" viewBox="0 0 36 35" fill="none">
+    <svg class="dark-mode_top-moon" width="36" height="35" viewBox="0 0 36 35" fill="none">
         <path
             d="M17.1555 1.06358C17.1555 1.06358 14.514 1.263 12.9128 1.77068C11.147 2.33057 10.1932 2.83759 8.67019 3.89201C6.74367 5.22575 5.72093 6.18081 4.42754 8.13465C3.2667 9.88827 2.87029 11.0584 2.30622 13.0844C1.8557 14.7026 1.59912 15.6473 1.59912 17.327C1.59912 19.0067 1.81572 19.9632 2.30622 21.5697C2.7934 23.1653 3.20589 24.0341 4.07399 25.4588C4.89314 26.8031 5.4357 27.5276 6.54887 28.6407C7.66203 29.7539 8.3865 30.2965 9.73085 31.1156C11.1555 31.9837 12.0243 32.3962 13.6199 32.8834C15.2264 33.3739 16.1829 33.5905 17.8626 33.5905C19.5423 33.5905 20.4871 33.3339 22.1052 32.8834C24.1312 32.3193 25.3013 31.9229 27.055 30.7621C29.0088 29.4687 29.9639 28.4459 31.2976 26.5194C32.352 24.9964 32.859 24.0426 33.4189 22.2768C33.9266 20.6756 34.126 18.0341 34.126 18.0341"
-            stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" />
-    </svg>
-
-
-    <svg class="dark-mode_bot" viewBox="0 0 189 41" fill="none">
-        <path
-            d="M23.5 7L2 28.5C9.23354 35.6504 19.2075 40 30.2212 40C59.2212 40 65.2643 18 90.2212 18C115.178 18 122.221 40 150.221 40C158.542 40 180 35.5 187.5 10.5C186.5 10 169.5 1 169.5 1"
             stroke-width="4" stroke-linecap="round" />
     </svg>
 
-    <svg class="dark-mode_bot-sun" viewBox="0 0 19 19" fill="none">
+    <svg class="dark-mode_bot-sun" width="19" height="19" viewBox="0 0 19 19" fill="none">
         <path
             d="M18 9.5C18 14.1944 14.1944 18 9.5 18C4.80558 18 1 14.1944 1 9.5C1 4.80558 4.80558 1 9.5 1C14.1944 1 18 4.80558 18 9.5Z"
-            stroke="#000000" stroke-width="4" />
+            stroke-width="4" />
     </svg>
 
-    <svg class="dark-mode_bot-moon" viewBox="0 0 25 24" fill="none">
+    <svg class="dark-mode_bot-moon" width="25" height="24" viewBox="0 0 25 24" fill="none">
         <path
             d="M6.15547 1.06358C6.15547 1.06358 3.03671 3.91685 2.26638 6.36688C1.72642 8.08422 1.47218 8.8114 1.55928 10.6095C1.64054 12.2873 1.94537 13.6674 2.61994 15.2057C3.33003 16.825 3.84452 17.8445 5.09481 19.0948C6.3451 20.3451 7.36458 20.8596 8.9839 21.5697C10.5222 22.2442 11.9023 22.5491 13.5801 22.6303C15.3782 22.7174 16.1054 22.4632 17.8227 21.9232C20.2728 21.1529 23.126 18.0341 23.126 18.0341"
-            stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" />
+            stroke-width="4" stroke-linecap="round" />
     </svg>`;
 
     cartLength.textContent = getCartLength();
