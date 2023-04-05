@@ -17,6 +17,7 @@
     --bg-color: #e7e7ff;
     --bg-color-dm: #020257;
 
+    --link: var(--bg-color);
     --link-bg: var(--nav);
     --link-hover: var(--nav-hover);
 

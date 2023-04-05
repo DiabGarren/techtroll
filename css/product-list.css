@@ -32,6 +32,33 @@
     margin: 0 auto;
 }
 
+.product-list_pages {
+    text-align: center;
+}
+
+.product-list_pages *{
+    display: inline-block;
+    margin: 0;
+    width: 30px;
+    padding: 5px 5px;
+    text-align: center;
+    border-radius: 7px;
+}
+
+.product-list_pages a {
+    background: var(--link-bg);
+    color: var(--link);
+    margin: 0 .1rem;
+}
+
+.product-list_pages a:hover {
+    background: var(--link-hover);
+}
+
+.current-page {
+    border: 1px solid var(--link-bg);
+}
+
 .product-box {
     display: grid;
     grid-template-rows: 300px auto 40px;
