@@ -108,7 +108,7 @@ export default class Checkout {
             alert("Error",
                 `<h3>There was an error processing your order.</h3>
             <p>Please make sure all the fields are entered correctly.</p>`,
-                "");
+                "/techtroll/checkout/");
             return;
         }
 
@@ -126,7 +126,7 @@ export default class Checkout {
                 `<h3>There was an error processing your order.</h3>
             <p>There is an error with your cart.<br>
             Please try emptying and refilling your cart.</p>`,
-                "");
+                "/techtroll/cart/");
             return;
         }
 
