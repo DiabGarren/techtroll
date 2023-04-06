@@ -1,13 +1,13 @@
 export default class ProductData {
 
     async getData(category) {
-        const res = await fetch(`../json/${category}.json`);
+        const res = await fetch(`/techtroll/json/${category}.json`);
         const data = await res.json();
         return data;
     }
 
     async getProducts() {
-        const res = await fetch(`../json/products.json`);
+        const res = await fetch(`/techtroll/json/products.json`);
         const data = await res.json();
         return data;
     }
