@@ -1,9 +1,12 @@
 import Checkout from "./CheckoutProcess.mjs";
-import { darkMode, loadHeaderFooter, loadNavigation, updateCartIcon } from "./utils.mjs";
+import { darkMode, loadHeaderFooter, loadNavigation, showTopBtn } from "./utils.mjs";
 
 loadHeaderFooter(document.querySelector(".main-header"), document.querySelector(".main-footer"));
 darkMode();
 loadNavigation(document.querySelector(".main-nav"));
+window.addEventListener("scroll", () => {
+    showTopBtn(document.querySelector(".topBtn"));
+})
 
 
 let checkout = new Checkout();

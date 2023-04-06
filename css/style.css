@@ -27,6 +27,10 @@
     --checkout-hover: #017101;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 * {
     box-sizing: border-box;
 }

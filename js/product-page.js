@@ -1,10 +1,13 @@
 import ProductData from "./ProductData.mjs";
 import Product from "./ProductPage.mjs";
-import { loadHeaderFooter, loadNavigation, getParam, updateCartIcon, darkMode } from "./utils.mjs";
+import { loadHeaderFooter, loadNavigation, getParam, updateCartIcon, darkMode, showTopBtn } from "./utils.mjs";
 
 loadHeaderFooter(document.querySelector(".main-header"), document.querySelector(".main-footer"));
 darkMode();
 loadNavigation(document.querySelector(".main-nav"));
+window.addEventListener("scroll", () => {
+    showTopBtn(document.querySelector(".topBtn"));
+})
 
 const productData = new ProductData();
 const productId = getParam("id");

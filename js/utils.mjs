@@ -118,6 +118,13 @@ export function loadNavigation(navigation) {
     outerList.appendChild(listProducts);
 
     navigation.appendChild(outerList);
+
+    const topBtn = document.createElement("a");
+    topBtn.setAttribute("href", "#");
+    topBtn.classList.add("topBtn");
+    topBtn.innerHTML = "&#8593;";
+
+    navigation.appendChild(topBtn);
 }
 
 function getLocation() {
@@ -209,4 +216,12 @@ export function darkMode() {
         setDarkMode();
     });
     setDarkMode();
+}
+
+export function showTopBtn(button) {
+    if (window.scrollY > 50) {
+        button.style.display = "block";
+    } else {
+        button.style.display = "none";
+    }
 }

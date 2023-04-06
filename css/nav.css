@@ -49,6 +49,24 @@ nav a:hover {
     background-color: var(--nav-active);
 }
 
+.topBtn {
+    display: none;
+    position: fixed;
+
+    bottom: 50px;
+    right: 10px;
+    padding: 2px 0 12px;
+    width: 50px;
+
+    background: var(--link-bg);
+    text-align: center;
+    border: 2px solid var(--sub-nav);
+    border-radius: 50%;
+    font-size: 1.6rem;
+
+    z-index: 99;
+}
+
 @media only screen and (min-width: 768px) {
     nav ul {
         background-color: var(--nav);
@@ -74,5 +92,14 @@ nav a:hover {
         width: 150px;
         padding: 0;
         border-radius: 0 0 10px 10px;
+    }
+
+
+    .topBtn {
+        bottom: 50px;
+        right: 50px;
+        width: 65px;
+
+        padding: 9.5px 0 19.5px;
     }
 }

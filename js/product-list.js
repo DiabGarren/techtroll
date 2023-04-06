@@ -1,10 +1,13 @@
-import { loadHeaderFooter, loadNavigation, getParam, darkMode } from "./utils.mjs";
+import { loadHeaderFooter, loadNavigation, getParam, darkMode, showTopBtn } from "./utils.mjs";
 import ProductData from "./ProductData.mjs";
 import ProductList from "./ProductList.mjs";
 
 loadHeaderFooter(document.querySelector(".main-header"), document.querySelector(".main-footer"));
 darkMode();
 loadNavigation(document.querySelector(".main-nav"));
+window.addEventListener("scroll", () => {
+    showTopBtn(document.querySelector(".topBtn"));
+})
 
 const productData = new ProductData();
 const category = getParam("category");
